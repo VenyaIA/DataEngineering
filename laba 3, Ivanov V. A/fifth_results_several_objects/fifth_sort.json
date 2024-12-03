@@ -1,0 +1,2810 @@
+[
+    {
+        "id": 1037595,
+        "name": "Диван-кровать Dee one",
+        "current_price": 32235.0,
+        "previous_price": 34089.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-dee-one/",
+        "image_url": "/pics/goods/divan-krovaty-dee-one.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1039973,
+        "name": "Диван Helvant",
+        "current_price": 29376.0,
+        "previous_price": 31353.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-helvant/",
+        "image_url": "/pics/goods/divan-helvant.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1045950,
+        "name": "Диван садовый 2-хместный B:rattan",
+        "current_price": 22201.0,
+        "previous_price": 22578.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-sadovyy-2-hmestnyy-brattan/",
+        "image_url": "/pics/goods/divan-sadovyy-2-hmestnyy-brattan.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1046008,
+        "name": "Диван BRADEXHOME",
+        "current_price": 84809.0,
+        "previous_price": 93103.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stulyya/barnye-i-polubarnye-stulyya-i-taburety/barnye-stulyya/divan-bradexhome/",
+        "image_url": "/pics/goods/divan-bradexhome.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1108568,
+        "name": "Кушетка Arsko",
+        "current_price": 33888.0,
+        "previous_price": 36863.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/kushetka-arsko/",
+        "image_url": "/pics/goods/kushetka-arsko.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1113923,
+        "name": "Кушетка Лига Диванов",
+        "current_price": 47499.0,
+        "previous_price": 52121.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/kushetka-liga-divanov/",
+        "image_url": "/pics/goods/kushetka-liga-divanov.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1113925,
+        "name": "Диван прямой Лига Диванов",
+        "current_price": 82499.0,
+        "previous_price": 90543.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-liga-divanov/",
+        "image_url": "/pics/goods/divan-pryamoy-liga-divanov.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1114414,
+        "name": "Диван-кровать Лига Диванов",
+        "current_price": 48016.0,
+        "previous_price": 51252.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-liga-divanov/",
+        "image_url": "/pics/goods/divan-krovaty-liga-divanov.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119440,
+        "name": "рогожка бежевый",
+        "current_price": 51328.0,
+        "previous_price": 55794.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/rogoghka-beghevyy/",
+        "image_url": "/pics/goods/rogoghka-beghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119442,
+        "name": "рогожка бежевый/серый",
+        "current_price": 48749.0,
+        "previous_price": 53487.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/rogoghka-beghevyyseryy/",
+        "image_url": "/pics/goods/rogoghka-beghevyyseryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119443,
+        "name": "рогожка коричневый",
+        "current_price": 39738.0,
+        "previous_price": 43207.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/rogoghka-korichnevyy/",
+        "image_url": "/pics/goods/rogoghka-korichnevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119446,
+        "name": "рогожка серый",
+        "current_price": 39738.0,
+        "previous_price": 43219.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/rogoghka-seryy/",
+        "image_url": "/pics/goods/rogoghka-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119449,
+        "name": "велюр бежевый",
+        "current_price": 44706.0,
+        "previous_price": 47742.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/velyur-beghevyy/",
+        "image_url": "/pics/goods/velyur-beghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119451,
+        "name": "велюр бирюзовый",
+        "current_price": 43050.0,
+        "previous_price": 43356.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/velyur-biryuzovyy/",
+        "image_url": "/pics/goods/velyur-biryuzovyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119455,
+        "name": "велюр зеленый",
+        "current_price": 44706.0,
+        "previous_price": 47724.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/velyur-zelenyy/",
+        "image_url": "/pics/goods/velyur-zelenyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119457,
+        "name": "велюр коричневый",
+        "current_price": 43050.0,
+        "previous_price": 43381.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/velyur-korichnevyy/",
+        "image_url": "/pics/goods/velyur-korichnevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119461,
+        "name": "велюр серый",
+        "current_price": 43050.0,
+        "previous_price": 43356.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/velyur-seryy/",
+        "image_url": "/pics/goods/velyur-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119465,
+        "name": "велюр черный",
+        "current_price": 43050.0,
+        "previous_price": 43373.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/velyur-chernyy/",
+        "image_url": "/pics/goods/velyur-chernyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119469,
+        "name": "микровельвет бежевый",
+        "current_price": 41394.0,
+        "previous_price": 43377.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/mikrovelyvet-beghevyy/",
+        "image_url": "/pics/goods/mikrovelyvet-beghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119472,
+        "name": "микровельвет бордовый",
+        "current_price": 41394.0,
+        "previous_price": 43348.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/mikrovelyvet-bordovyy/",
+        "image_url": "/pics/goods/mikrovelyvet-bordovyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119474,
+        "name": "микровельвет желтый",
+        "current_price": 41394.0,
+        "previous_price": 43356.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/mikrovelyvet-gheltyy/",
+        "image_url": "/pics/goods/mikrovelyvet-gheltyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119475,
+        "name": "микровельвет желтый/коричневый",
+        "current_price": 49672.0,
+        "previous_price": 51038.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/mikrovelyvet-gheltyykorichnevyy/",
+        "image_url": "/pics/goods/mikrovelyvet-gheltyykorichnevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119476,
+        "name": "микровельвет зеленый",
+        "current_price": 41394.0,
+        "previous_price": 43364.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/mikrovelyvet-zelenyy/",
+        "image_url": "/pics/goods/mikrovelyvet-zelenyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119478,
+        "name": "микровельвет коралловый",
+        "current_price": 49672.0,
+        "previous_price": 51053.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/mikrovelyvet-korallovyy/",
+        "image_url": "/pics/goods/mikrovelyvet-korallovyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119480,
+        "name": "микровельвет коричневый",
+        "current_price": 41394.0,
+        "previous_price": 43340.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/mikrovelyvet-korichnevyy/",
+        "image_url": "/pics/goods/mikrovelyvet-korichnevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119482,
+        "name": "микровельвет коричневый/желтый",
+        "current_price": 49672.0,
+        "previous_price": 51023.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/mikrovelyvet-korichnevyygheltyy/",
+        "image_url": "/pics/goods/mikrovelyvet-korichnevyygheltyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119485,
+        "name": "микровельвет сиреневый",
+        "current_price": 39738.0,
+        "previous_price": 43215.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/mikrovelyvet-sirenevyy/",
+        "image_url": "/pics/goods/mikrovelyvet-sirenevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119489,
+        "name": "микровельвет черный",
+        "current_price": 41394.0,
+        "previous_price": 43377.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/mikrovelyvet-chernyy/",
+        "image_url": "/pics/goods/mikrovelyvet-chernyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119494,
+        "name": "рогожка корфу 02",
+        "current_price": 38082.0,
+        "previous_price": 39125.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/rogoghka-korfu-02/",
+        "image_url": "/pics/goods/rogoghka-korfu-02.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119495,
+        "name": "рогожка корфу 03",
+        "current_price": 41394.0,
+        "previous_price": 43360.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stoliki/ghurnalynye-stoliki/rogoghka-korfu-03/",
+        "image_url": "/pics/goods/rogoghka-korfu-03.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119497,
+        "name": "рогожка/микровельвет корфу 03/бежевый",
+        "current_price": 44706.0,
+        "previous_price": 47733.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/rogoghkamikrovelyvet-korfu-03beghevyy/",
+        "image_url": "/pics/goods/rogoghkamikrovelyvet-korfu-03beghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119498,
+        "name": "экокожа бежевый",
+        "current_price": 41394.0,
+        "previous_price": 43373.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/ekokogha-beghevyy/",
+        "image_url": "/pics/goods/ekokogha-beghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119499,
+        "name": "экокожа бежевый/коричневый",
+        "current_price": 66231.0,
+        "previous_price": 67417.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/ekokogha-beghevyykorichnevyy/",
+        "image_url": "/pics/goods/ekokogha-beghevyykorichnevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119500,
+        "name": "экокожа белый",
+        "current_price": 66231.0,
+        "previous_price": 67357.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/ekokogha-belyy/",
+        "image_url": "/pics/goods/ekokogha-belyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119501,
+        "name": "экокожа белый/черный",
+        "current_price": 44706.0,
+        "previous_price": 47706.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/ekokogha-belyychernyy/",
+        "image_url": "/pics/goods/ekokogha-belyychernyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119502,
+        "name": "экокожа коричневый",
+        "current_price": 41394.0,
+        "previous_price": 43348.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/ekokogha-korichnevyy/",
+        "image_url": "/pics/goods/ekokogha-korichnevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119503,
+        "name": "экокожа коричневый/бежевый",
+        "current_price": 66231.0,
+        "previous_price": 67377.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/ekokogha-korichnevyybeghevyy/",
+        "image_url": "/pics/goods/ekokogha-korichnevyybeghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119504,
+        "name": "экокожа черный",
+        "current_price": 38082.0,
+        "previous_price": 39125.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/ekokogha-chernyy/",
+        "image_url": "/pics/goods/ekokogha-chernyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119505,
+        "name": "экокожа черный/белый",
+        "current_price": 66231.0,
+        "previous_price": 67390.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/ekokogha-chernyybelyy/",
+        "image_url": "/pics/goods/ekokogha-chernyybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119524,
+        "name": "рогожка/экокожа серый/черный",
+        "current_price": 63749.0,
+        "previous_price": 69958.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/rogoghkaekokogha-seryychernyy/",
+        "image_url": "/pics/goods/rogoghkaekokogha-seryychernyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119539,
+        "name": "велюр серый/бежевый",
+        "current_price": 48016.0,
+        "previous_price": 51276.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/kresla/kresla-v-gostinuyu/velyur-seryybeghevyy/",
+        "image_url": "/pics/goods/velyur-seryybeghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119622,
+        "name": "велюр/экокожа/велюр бежевый/коричневый/бежевый",
+        "current_price": 72855.0,
+        "previous_price": 77022.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/velyurekokoghavelyur-beghevyykorichnevyybeghevyy/",
+        "image_url": "/pics/goods/velyurekokoghavelyur-beghevyykorichnevyybeghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119623,
+        "name": "велюр/экокожа/велюр бирюзовый/коричневый/бирюзовый",
+        "current_price": 72855.0,
+        "previous_price": 77030.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/velyurekokoghavelyur-biryuzovyykorichnevyybiryuzovyy/",
+        "image_url": "/pics/goods/velyurekokoghavelyur-biryuzovyykorichnevyybiryuzovyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119624,
+        "name": "велюр/экокожа/велюр зеленый/коричневый/зеленый",
+        "current_price": 72855.0,
+        "previous_price": 77037.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/velyurekokoghavelyur-zelenyykorichnevyyzelenyy/",
+        "image_url": "/pics/goods/velyurekokoghavelyur-zelenyykorichnevyyzelenyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119625,
+        "name": "велюр/экокожа/велюр коричневый",
+        "current_price": 72855.0,
+        "previous_price": 77044.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/velyurekokoghavelyur-korichnevyy/",
+        "image_url": "/pics/goods/velyurekokoghavelyur-korichnevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119626,
+        "name": "велюр/экокожа/велюр серый/черный/серый",
+        "current_price": 72855.0,
+        "previous_price": 77051.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/velyurekokoghavelyur-seryychernyyseryy/",
+        "image_url": "/pics/goods/velyurekokoghavelyur-seryychernyyseryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119627,
+        "name": "велюр/экокожа/велюр черный",
+        "current_price": 72855.0,
+        "previous_price": 77059.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/velyurekokoghavelyur-chernyy/",
+        "image_url": "/pics/goods/velyurekokoghavelyur-chernyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119630,
+        "name": "микровельвет/экокожа/микровельвет зеленый/бежевый/бежевый",
+        "current_price": 69543.0,
+        "previous_price": 72116.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/mikrovelyvetekokoghamikrovelyvet-zelenyybeghevyybeghevyy/",
+        "image_url": "/pics/goods/mikrovelyvetekokoghamikrovelyvet-zelenyybeghevyybeghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119631,
+        "name": "микровельвет/экокожа/микровельвет коричневый/бежевый/бежевый",
+        "current_price": 69543.0,
+        "previous_price": 72123.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/mikrovelyvetekokoghamikrovelyvet-korichnevyybeghevyybeghevyy/",
+        "image_url": "/pics/goods/mikrovelyvetekokoghamikrovelyvet-korichnevyybeghevyybeghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119634,
+        "name": "микровельвет/экокожа/рогожка бежевый/коричневый/коричневый",
+        "current_price": 69543.0,
+        "previous_price": 72144.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/mikrovelyvetekokogharogoghka-beghevyykorichnevyykorichnevyy/",
+        "image_url": "/pics/goods/mikrovelyvetekokogharogoghka-beghevyykorichnevyykorichnevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119636,
+        "name": "микровельвет/экокожа/рогожка бежевый/коричневый/цветы",
+        "current_price": 69543.0,
+        "previous_price": 72158.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/mikrovelyvetekokogharogoghka-beghevyykorichnevyycvety/",
+        "image_url": "/pics/goods/mikrovelyvetekokogharogoghka-beghevyykorichnevyycvety.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119637,
+        "name": "микровельвет/экокожа/рогожка коричневый/бежевый/корфу 02",
+        "current_price": 69543.0,
+        "previous_price": 72165.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/mikrovelyvetekokogharogoghka-korichnevyybeghevyykorfu-02/",
+        "image_url": "/pics/goods/mikrovelyvetekokogharogoghka-korichnevyybeghevyykorfu-02.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119640,
+        "name": "рогожка/экокожа/рогожка коричневый/бежевый/бежевый",
+        "current_price": 71199.0,
+        "previous_price": 78105.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/rogoghkaekokogharogoghka-korichnevyybeghevyybeghevyy/",
+        "image_url": "/pics/goods/rogoghkaekokogharogoghka-korichnevyybeghevyybeghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119641,
+        "name": "рогожка/экокожа/рогожка коричневый/бежевый/цветы",
+        "current_price": 71199.0,
+        "previous_price": 78112.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/rogoghkaekokogharogoghka-korichnevyybeghevyycvety/",
+        "image_url": "/pics/goods/rogoghkaekokogharogoghka-korichnevyybeghevyycvety.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119642,
+        "name": "рогожка/экокожа/рогожка корфу 03/бежевый/корфу 02",
+        "current_price": 69543.0,
+        "previous_price": 72130.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/rogoghkaekokogharogoghka-korfu-03beghevyykorfu-02/",
+        "image_url": "/pics/goods/rogoghkaekokogharogoghka-korfu-03beghevyykorfu-02.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119643,
+        "name": "рогожка/экокожа/рогожка серый/черный/бежевый",
+        "current_price": 71199.0,
+        "previous_price": 78127.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/rogoghkaekokogharogoghka-seryychernyybeghevyy/",
+        "image_url": "/pics/goods/rogoghkaekokogharogoghka-seryychernyybeghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119644,
+        "name": "рогожка/экокожа/рогожка серый/черный/коричневый",
+        "current_price": 71199.0,
+        "previous_price": 78134.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/rogoghkaekokogharogoghka-seryychernyykorichnevyy/",
+        "image_url": "/pics/goods/rogoghkaekokogharogoghka-seryychernyykorichnevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119649,
+        "name": "экокожа черный/белый/белый",
+        "current_price": 69543.0,
+        "previous_price": 72179.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/ekokogha-chernyybelyybelyy/",
+        "image_url": "/pics/goods/ekokogha-chernyybelyybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1121096,
+        "name": "Диван Гранд Кволити",
+        "current_price": 16781.0,
+        "previous_price": 17076.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-grand-kvoliti/",
+        "image_url": "/pics/goods/divan-grand-kvoliti.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1121097,
+        "name": "Диван для прихожей Гранд Кволити",
+        "current_price": 13969.0,
+        "previous_price": 15334.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dlya-prihoghey-grand-kvoliti/",
+        "image_url": "/pics/goods/divan-dlya-prihoghey-grand-kvoliti.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1132624,
+        "name": "Прямой",
+        "current_price": 56249.0,
+        "previous_price": 61728.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pryamoy/",
+        "image_url": "/pics/goods/pryamoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1132625,
+        "name": "Диван прямой Лига",
+        "current_price": 36249.0,
+        "previous_price": 39783.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-liga/",
+        "image_url": "/pics/goods/divan-pryamoy-liga.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1137479,
+        "name": "Диван-кушетка",
+        "current_price": 30238.0,
+        "previous_price": 32896.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-kushetka/",
+        "image_url": "/pics/goods/divan-kushetka.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1138039,
+        "name": "Прямой диван",
+        "current_price": 56736.0,
+        "previous_price": 60588.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pryamoy-divan/",
+        "image_url": "/pics/goods/pryamoy-divan.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1152656,
+        "name": "Модульная секция, Мягкий офис",
+        "current_price": 19870.0,
+        "previous_price": 20021.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/modulynaya-sekciya-myagkiy-ofis/",
+        "image_url": "/pics/goods/modulynaya-sekciya-myagkiy-ofis.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1157941,
+        "name": "Диван-кровать Divan24",
+        "current_price": 14900.0,
+        "previous_price": 15006.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-divan24/",
+        "image_url": "/pics/goods/divan-krovaty-divan24.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1179216,
+        "name": "Диван-кровать RELAX",
+        "current_price": 45980.0,
+        "previous_price": 46329.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-relax/",
+        "image_url": "/pics/goods/divan-krovaty-relax.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1179812,
+        "name": "Диван-кровать ВоБаза",
+        "current_price": 43077.0,
+        "previous_price": 46403.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-vobaza/",
+        "image_url": "/pics/goods/divan-krovaty-vobaza.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1180517,
+        "name": "1600x830x8",
+        "current_price": 21338.0,
+        "previous_price": 23209.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/1600x830x8/",
+        "image_url": "/pics/goods/1600x830x8.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1180525,
+        "name": "1420х770х810 Vivaldi 7 серый",
+        "current_price": 30326.0,
+        "previous_price": 32373.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/1420h770h810-vivaldi-7-seryy/",
+        "image_url": "/pics/goods/1420h770h810-vivaldi-7-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1180527,
+        "name": "2180х870х940 Corvette 05 Кофе",
+        "current_price": 33697.0,
+        "previous_price": 36315.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/2180h870h940-corvette-05-kofe/",
+        "image_url": "/pics/goods/2180h870h940-corvette-05-kofe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1180528,
+        "name": "2180х870х940 Corvette 08 Шоколад",
+        "current_price": 33697.0,
+        "previous_price": 36319.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/2180h870h940-corvette-08-shokolad/",
+        "image_url": "/pics/goods/2180h870h940-corvette-08-shokolad.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1180529,
+        "name": "2180х870х940 Corvette 18 Серый",
+        "current_price": 33697.0,
+        "previous_price": 36322.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/2180h870h940-corvette-18-seryy/",
+        "image_url": "/pics/goods/2180h870h940-corvette-18-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1183759,
+        "name": "Диван прямой тканевый Dee one",
+        "current_price": 44985.0,
+        "previous_price": 47590.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-tkanevyy-dee-one/",
+        "image_url": "/pics/goods/divan-pryamoy-tkanevyy-dee-one.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1186180,
+        "name": "Диван аккордеон Relax",
+        "current_price": 44980.0,
+        "previous_price": 45295.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-akkordeon-relax/",
+        "image_url": "/pics/goods/divan-akkordeon-relax.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1190904,
+        "name": "Диван кухонный НОРТА",
+        "current_price": 15719.0,
+        "previous_price": 17250.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-kuhonnyy-norta/",
+        "image_url": "/pics/goods/divan-kuhonnyy-norta.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1192338,
+        "name": "Диван трехместный DEmoku Д-3 СТ (цвет ткани: серый, цвет дерева: темный дуб",
+        "current_price": 31990.0,
+        "previous_price": 32240.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-trehmestnyy-demoku-d-3-st-cvet-tkani-seryy-cvet-dereva-temnyy-dub/",
+        "image_url": "/pics/goods/divan-trehmestnyy-demoku-d-3-st-cvet-tkani-seryy-cvet-dereva-temnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1192339,
+        "name": "Диван трехместный DEmoku Д-3 СС (цвет ткани: серый, цвет дерева: холодный серый",
+        "current_price": 31990.0,
+        "previous_price": 32243.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-trehmestnyy-demoku-d-3-ss-cvet-tkani-seryy-cvet-dereva-holodnyy-seryy/",
+        "image_url": "/pics/goods/divan-trehmestnyy-demoku-d-3-ss-cvet-tkani-seryy-cvet-dereva-holodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1192352,
+        "name": "Диван трехместный Demoku Д-3 БС (цвет бежевый, цвет дерева: холодный серый",
+        "current_price": 31990.0,
+        "previous_price": 32220.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-trehmestnyy-demoku-d-3-bs-cvet-beghevyy-cvet-dereva-holodnyy-seryy/",
+        "image_url": "/pics/goods/divan-trehmestnyy-demoku-d-3-bs-cvet-beghevyy-cvet-dereva-holodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1192410,
+        "name": "Диван MONOFIX",
+        "current_price": 12488.0,
+        "previous_price": 13574.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-monofix/",
+        "image_url": "/pics/goods/divan-monofix.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1192597,
+        "name": "Диван трехместный DEmoku Д-3 ГС (цвет ткани: синий, цвет дерева: холодный серый",
+        "current_price": 31990.0,
+        "previous_price": 32236.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-trehmestnyy-demoku-d-3-gs-cvet-tkani-siniy-cvet-dereva-holodnyy-seryy/",
+        "image_url": "/pics/goods/divan-trehmestnyy-demoku-d-3-gs-cvet-tkani-siniy-cvet-dereva-holodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1192598,
+        "name": "Диван трехместный DEmoku Д-3 КС (цвет ткани: коричневый, цвет дерева: холодный серый",
+        "current_price": 31990.0,
+        "previous_price": 32240.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-trehmestnyy-demoku-d-3-ks-cvet-tkani-korichnevyy-cvet-dereva-holodnyy-seryy/",
+        "image_url": "/pics/goods/divan-trehmestnyy-demoku-d-3-ks-cvet-tkani-korichnevyy-cvet-dereva-holodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1194926,
+        "name": "Диван BRENDOSS",
+        "current_price": 23656.0,
+        "previous_price": 25255.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-brendoss/",
+        "image_url": "/pics/goods/divan-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1197115,
+        "name": "Диван модульный BRENDOSS",
+        "current_price": 67000.0,
+        "previous_price": 67503.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-modulynyy-brendoss/",
+        "image_url": "/pics/goods/divan-modulynyy-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1197239,
+        "name": "Диван-кровать BRENDOSS",
+        "current_price": 50832.0,
+        "previous_price": 52250.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-brendoss/",
+        "image_url": "/pics/goods/divan-krovaty-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1197599,
+        "name": "Комплект мягкой мебели BRENDOSS",
+        "current_price": 36453.0,
+        "previous_price": 37835.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/komplekt-myagkoy-mebeli-brendoss/",
+        "image_url": "/pics/goods/komplekt-myagkoy-mebeli-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1197640,
+        "name": "Диван LoftDC",
+        "current_price": 19350.0,
+        "previous_price": 19485.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-loftdc/",
+        "image_url": "/pics/goods/divan-loftdc.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1197877,
+        "name": "Диван-кровать GOSTIN Barni",
+        "current_price": 22643.0,
+        "previous_price": 23497.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-gostin-barni/",
+        "image_url": "/pics/goods/divan-krovaty-gostin-barni.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1201087,
+        "name": "Комплект мягкой мебели диван и кресло",
+        "current_price": 85131.0,
+        "previous_price": 86638.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/komplekt-myagkoy-mebeli-divan-i-kreslo/",
+        "image_url": "/pics/goods/komplekt-myagkoy-mebeli-divan-i-kreslo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1201134,
+        "name": "Комплект мягкой мебели диван и кресло BRENDOSS",
+        "current_price": 79248.0,
+        "previous_price": 86174.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/komplekt-myagkoy-mebeli-divan-i-kreslo-brendoss/",
+        "image_url": "/pics/goods/komplekt-myagkoy-mebeli-divan-i-kreslo-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1201146,
+        "name": "Диван-кровать прямой Beneli",
+        "current_price": 19939.0,
+        "previous_price": 21885.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-pryamoy-beneli/",
+        "image_url": "/pics/goods/divan-krovaty-pryamoy-beneli.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1201147,
+        "name": "Угловой диван-кровать Beneli",
+        "current_price": 28551.0,
+        "previous_price": 29056.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/uglovoy-divan-krovaty-beneli/",
+        "image_url": "/pics/goods/uglovoy-divan-krovaty-beneli.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1201149,
+        "name": "Диван-кровать Beneli",
+        "current_price": 18114.0,
+        "previous_price": 18982.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-beneli/",
+        "image_url": "/pics/goods/divan-krovaty-beneli.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1202447,
+        "name": "Диван кухонный ВоБаза",
+        "current_price": 16962.0,
+        "previous_price": 17432.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-kuhonnyy-vobaza/",
+        "image_url": "/pics/goods/divan-kuhonnyy-vobaza.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1202454,
+        "name": "Диван кухонный",
+        "current_price": 31574.0,
+        "previous_price": 33071.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-kuhonnyy/",
+        "image_url": "/pics/goods/divan-kuhonnyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1202469,
+        "name": "Диван кухонный угловой ВоБаза",
+        "current_price": 22610.0,
+        "previous_price": 22789.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-kuhonnyy-uglovoy-vobaza/",
+        "image_url": "/pics/goods/divan-kuhonnyy-uglovoy-vobaza.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1204049,
+        "name": "Диван, SALON TRON",
+        "current_price": 20990.0,
+        "previous_price": 21156.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-salon-tron/",
+        "image_url": "/pics/goods/divan-salon-tron.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1204476,
+        "name": "Диван - кровать,AleksaFlex",
+        "current_price": 85800.0,
+        "previous_price": 86452.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovatyaleksaflex/",
+        "image_url": "/pics/goods/divan-krovatyaleksaflex.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1204653,
+        "name": "Диван-кровать Книжка ФОКУС- мебельная фабрика",
+        "current_price": 27333.0,
+        "previous_price": 28353.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-knighka-fokus-mebelynaya-fabrika/",
+        "image_url": "/pics/goods/divan-krovaty-knighka-fokus-mebelynaya-fabrika.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1204654,
+        "name": "Диван-кровать Фокус",
+        "current_price": 24048.0,
+        "previous_price": 26150.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-fokus/",
+        "image_url": "/pics/goods/divan-krovaty-fokus.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1204655,
+        "name": "Диван-кровать Опора ВЯЗ ФОКУС- мебельная фабрика",
+        "current_price": 33921.0,
+        "previous_price": 34515.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-opora-vyaz-fokus-mebelynaya-fabrika/",
+        "image_url": "/pics/goods/divan-krovaty-opora-vyaz-fokus-mebelynaya-fabrika.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1204656,
+        "name": "Диван-кровать Аккордеон ФОКУС- мебельная фабрика",
+        "current_price": 33633.0,
+        "previous_price": 34898.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-akkordeon-fokus-mebelynaya-fabrika/",
+        "image_url": "/pics/goods/divan-krovaty-akkordeon-fokus-mebelynaya-fabrika.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1205610,
+        "name": "Диван-кровать в скандинавском стиле Xiaomi 8H Nordic Style Double Sofa Bed Blue (",
+        "current_price": 41515.0,
+        "previous_price": 43881.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-v-skandinavskom-stile-xiaomi-8h-nordic-style-double-sofa-bed-blue/",
+        "image_url": "/pics/goods/divan-krovaty-v-skandinavskom-stile-xiaomi-8h-nordic-style-double-sofa-bed-blue.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1205784,
+        "name": "Маленький раскладной диван Live Line",
+        "current_price": 31500.0,
+        "previous_price": 31733.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/malenykiy-raskladnoy-divan-live-line/",
+        "image_url": "/pics/goods/malenykiy-raskladnoy-divan-live-line.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1205981,
+        "name": "Диван прямой Dee one",
+        "current_price": 59985.0,
+        "previous_price": 63410.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-dee-one/",
+        "image_url": "/pics/goods/divan-pryamoy-dee-one.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1206116,
+        "name": "Кресло M-City KALMAR NINI-01, цвет белый, черный каркас",
+        "current_price": 20183.0,
+        "previous_price": 20942.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/kreslo-m-city-kalmar-nini-01-cvet-belyy-chernyy-karkas/",
+        "image_url": "/pics/goods/kreslo-m-city-kalmar-nini-01-cvet-belyy-chernyy-karkas.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1206117,
+        "name": "Кресло M-City MUSSELS BLUVEL-68, цвет желтый",
+        "current_price": 21275.0,
+        "previous_price": 22503.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/kreslo-m-city-mussels-bluvel-68-cvet-gheltyy/",
+        "image_url": "/pics/goods/kreslo-m-city-mussels-bluvel-68-cvet-gheltyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1206118,
+        "name": "Скамья M-City CIAO BLUVEL-40, цвет бежевый",
+        "current_price": 35880.0,
+        "previous_price": 36160.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/skamyya-m-city-ciao-bluvel-40-cvet-beghevyy/",
+        "image_url": "/pics/goods/skamyya-m-city-ciao-bluvel-40-cvet-beghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1206119,
+        "name": "Скамья M-City CIAO BLUVEL-78, цвет зеленый",
+        "current_price": 35880.0,
+        "previous_price": 36163.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/skamyya-m-city-ciao-bluvel-78-cvet-zelenyy/",
+        "image_url": "/pics/goods/skamyya-m-city-ciao-bluvel-78-cvet-zelenyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1207289,
+        "name": "Диван-кровать раскладной Salotti",
+        "current_price": 14687.0,
+        "previous_price": 15831.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-raskladnoy-salotti/",
+        "image_url": "/pics/goods/divan-krovaty-raskladnoy-salotti.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1207295,
+        "name": "Прямой диван Brendoss",
+        "current_price": 30971.0,
+        "previous_price": 31513.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pryamoy-divan-brendoss/",
+        "image_url": "/pics/goods/pryamoy-divan-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1207303,
+        "name": "Диван прямой Brendoss",
+        "current_price": 23635.0,
+        "previous_price": 24989.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-brendoss/",
+        "image_url": "/pics/goods/divan-pryamoy-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1207850,
+        "name": "Комплект мебели Brendoss",
+        "current_price": 41342.0,
+        "previous_price": 42458.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/komplekt-mebeli-brendoss/",
+        "image_url": "/pics/goods/komplekt-mebeli-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1208141,
+        "name": "Пуф M-City для гостиной HARTA NINI-01, цвет белый",
+        "current_price": 4600.0,
+        "previous_price": 4633.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/puf-m-city-dlya-gostinoy-harta-nini-01-cvet-belyy/",
+        "image_url": "/pics/goods/puf-m-city-dlya-gostinoy-harta-nini-01-cvet-belyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1208142,
+        "name": "Пуф M-City для гостиной HARTA NINI-01, цвет темно-коричневый",
+        "current_price": 4600.0,
+        "previous_price": 4633.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/puf-m-city-dlya-gostinoy-harta-nini-01-cvet-temno-korichnevyy/",
+        "image_url": "/pics/goods/puf-m-city-dlya-gostinoy-harta-nini-01-cvet-temno-korichnevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1208151,
+        "name": "Пуф M-City для гостиной ZEN BLUVEL-78, цвет зеленый",
+        "current_price": 12075.0,
+        "previous_price": 12764.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/puf-m-city-dlya-gostinoy-zen-bluvel-78-cvet-zelenyy/",
+        "image_url": "/pics/goods/puf-m-city-dlya-gostinoy-zen-bluvel-78-cvet-zelenyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1208152,
+        "name": "Пуф M-City для гостиной ZEN BLUVEL-40, цвет бежевый",
+        "current_price": 12075.0,
+        "previous_price": 12766.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/puf-m-city-dlya-gostinoy-zen-bluvel-40-cvet-beghevyy/",
+        "image_url": "/pics/goods/puf-m-city-dlya-gostinoy-zen-bluvel-40-cvet-beghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1209399,
+        "name": "2470х1000х890 Alba 095 графит",
+        "current_price": 42686.0,
+        "previous_price": 45584.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/2470h1000h890-alba-095-grafit/",
+        "image_url": "/pics/goods/2470h1000h890-alba-095-grafit.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1209515,
+        "name": "Dee One Портленд синий",
+        "current_price": 74985.0,
+        "previous_price": 79297.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/dee-one-portlend-siniy/",
+        "image_url": "/pics/goods/dee-one-portlend-siniy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1209646,
+        "name": "Dee One Портленд серый",
+        "current_price": 74985.0,
+        "previous_price": 79304.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/dee-one-portlend-seryy/",
+        "image_url": "/pics/goods/dee-one-portlend-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1209649,
+        "name": "Dee One Портленд терракотовый",
+        "current_price": 74985.0,
+        "previous_price": 79327.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/dee-one-portlend-terrakotovyy/",
+        "image_url": "/pics/goods/dee-one-portlend-terrakotovyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1209650,
+        "name": "Dee One Портленд бежевый",
+        "current_price": 74985.0,
+        "previous_price": 79259.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/dee-one-portlend-beghevyy/",
+        "image_url": "/pics/goods/dee-one-portlend-beghevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1210815,
+        "name": "Диван НЭНДО",
+        "current_price": 155000.0,
+        "previous_price": 156163.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-nendo/",
+        "image_url": "/pics/goods/divan-nendo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1210891,
+        "name": "Мини диван-кушетка Beneli",
+        "current_price": 14750.0,
+        "previous_price": 14855.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/mini-divan-kushetka-beneli/",
+        "image_url": "/pics/goods/mini-divan-kushetka-beneli.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1211020,
+        "name": "Диван-кровать Manon's Maison Диван прямой",
+        "current_price": 44867.0,
+        "previous_price": 48322.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-manons-maison-divan-pryamoy/",
+        "image_url": "/pics/goods/divan-krovaty-manons-maison-divan-pryamoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1211746,
+        "name": "Диван-кушетка ARSKO",
+        "current_price": 39918.0,
+        "previous_price": 43415.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-kushetka-arsko/",
+        "image_url": "/pics/goods/divan-kushetka-arsko.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1212256,
+        "name": "260х100х90 см VIVALDI 5, светло-коричневый",
+        "current_price": 56169.0,
+        "previous_price": 61651.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/260h100h90-sm-vivaldi-5-svetlo-korichnevyy/",
+        "image_url": "/pics/goods/260h100h90-sm-vivaldi-5-svetlo-korichnevyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1214805,
+        "name": "Угловой диван-кровать Gupan",
+        "current_price": 64135.0,
+        "previous_price": 67823.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/uglovoy-divan-krovaty-gupan/",
+        "image_url": "/pics/goods/uglovoy-divan-krovaty-gupan.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1215393,
+        "name": "Диван кровать 125х190 см, DomA",
+        "current_price": 23685.0,
+        "previous_price": 25042.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-125h190-sm-doma/",
+        "image_url": "/pics/goods/divan-krovaty-125h190-sm-doma.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1215398,
+        "name": "Диван-кровать DomA",
+        "current_price": 50363.0,
+        "previous_price": 52267.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-doma/",
+        "image_url": "/pics/goods/divan-krovaty-doma.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1215859,
+        "name": "Раскладной диван-кровать GOSTIN",
+        "current_price": 25999.0,
+        "previous_price": 28544.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/raskladnoy-divan-krovaty-gostin/",
+        "image_url": "/pics/goods/raskladnoy-divan-krovaty-gostin.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1216276,
+        "name": "Раскладной",
+        "current_price": 25999.0,
+        "previous_price": 28537.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/raskladnoy/",
+        "image_url": "/pics/goods/raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1216638,
+        "name": "Диван-кровать угловой DomA",
+        "current_price": 33844.0,
+        "previous_price": 35462.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-uglovoy-doma/",
+        "image_url": "/pics/goods/divan-krovaty-uglovoy-doma.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1217614,
+        "name": "Кухонный диван",
+        "current_price": 10999.0,
+        "previous_price": 12070.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/kuhonnyy-divan/",
+        "image_url": "/pics/goods/kuhonnyy-divan.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1217970,
+        "name": "600х490х770, ящик для хранения 568х420х274 синий",
+        "current_price": 10101.0,
+        "previous_price": 10273.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/600h490h770-yaschik-dlya-hraneniya-568h420h274-siniy/",
+        "image_url": "/pics/goods/600h490h770-yaschik-dlya-hraneniya-568h420h274-siniy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1217971,
+        "name": "600х490х770, ящик для хранения 568х420х274 горчичный",
+        "current_price": 10101.0,
+        "previous_price": 10274.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/600h490h770-yaschik-dlya-hraneniya-568h420h274-gorchichnyy/",
+        "image_url": "/pics/goods/600h490h770-yaschik-dlya-hraneniya-568h420h274-gorchichnyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1218647,
+        "name": "Диван Stool Group",
+        "current_price": 42990.0,
+        "previous_price": 43321.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-stool-group/",
+        "image_url": "/pics/goods/divan-stool-group.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1218703,
+        "name": "Диван двухместный DEmoku",
+        "current_price": 29099.0,
+        "previous_price": 31930.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-demoku/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-demoku.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1218704,
+        "name": "Диван трехместный",
+        "current_price": 31990.0,
+        "previous_price": 32227.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-trehmestnyy/",
+        "image_url": "/pics/goods/divan-trehmestnyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1218705,
+        "name": "Диван трехместный DEmoku",
+        "current_price": 31990.0,
+        "previous_price": 32230.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-trehmestnyy-demoku/",
+        "image_url": "/pics/goods/divan-trehmestnyy-demoku.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1218706,
+        "name": "Диван трехместный DEmoku Экокожа",
+        "current_price": 32590.0,
+        "previous_price": 32838.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-trehmestnyy-demoku-ekokogha/",
+        "image_url": "/pics/goods/divan-trehmestnyy-demoku-ekokogha.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1218707,
+        "name": "Диван двухместный DEmoku Экокожа",
+        "current_price": 29099.0,
+        "previous_price": 31942.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-demoku-ekokogha/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-demoku-ekokogha.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1218816,
+        "name": "Диван малый раздвижной Класс мебель",
+        "current_price": 18850.0,
+        "previous_price": 18993.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-malyy-razdvighnoy-klass-mebely/",
+        "image_url": "/pics/goods/divan-malyy-razdvighnoy-klass-mebely.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1219395,
+        "name": "Диван прямой Дивайн",
+        "current_price": 28600.0,
+        "previous_price": 28815.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-divayn/",
+        "image_url": "/pics/goods/divan-pryamoy-divayn.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1219812,
+        "name": "Диван прямой Manon's Maison",
+        "current_price": 93219.0,
+        "previous_price": 102280.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-manons-maison/",
+        "image_url": "/pics/goods/divan-pryamoy-manons-maison.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1221931,
+        "name": "Диван-кушетка Lazurit",
+        "current_price": 25576.0,
+        "previous_price": 27292.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-kushetka-lazurit/",
+        "image_url": "/pics/goods/divan-kushetka-lazurit.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1221932,
+        "name": "Раскладной диван-кровать Lazurit",
+        "current_price": 45938.0,
+        "previous_price": 49944.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/raskladnoy-divan-krovaty-lazurit/",
+        "image_url": "/pics/goods/raskladnoy-divan-krovaty-lazurit.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1222856,
+        "name": "Диван-кровать прямой, раскладной Salotti",
+        "current_price": 16289.0,
+        "previous_price": 17879.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-pryamoy-raskladnoy-salotti/",
+        "image_url": "/pics/goods/divan-krovaty-pryamoy-raskladnoy-salotti.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1222955,
+        "name": "Мини-диван Wissar",
+        "current_price": 12619.0,
+        "previous_price": 13849.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/mini-divan-wissar/",
+        "image_url": "/pics/goods/mini-divan-wissar.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1222956,
+        "name": "Мини-диван прямой Wissar",
+        "current_price": 14617.0,
+        "previous_price": 15751.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/mini-divan-pryamoy-wissar/",
+        "image_url": "/pics/goods/mini-divan-pryamoy-wissar.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1223144,
+        "name": "Диван Manons Maison",
+        "current_price": 48867.0,
+        "previous_price": 52649.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-manons-maison/",
+        "image_url": "/pics/goods/divan-manons-maison.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1223428,
+        "name": "Диван-кровать выкатной прямой",
+        "current_price": 24990.0,
+        "previous_price": 25185.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-vykatnoy-pryamoy/",
+        "image_url": "/pics/goods/divan-krovaty-vykatnoy-pryamoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1223527,
+        "name": "Диван прямой Beneli",
+        "current_price": 23500.0,
+        "previous_price": 23681.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-beneli/",
+        "image_url": "/pics/goods/divan-pryamoy-beneli.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1223573,
+        "name": "Диван-кровать выкатной",
+        "current_price": 27316.0,
+        "previous_price": 29154.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-vykatnoy/",
+        "image_url": "/pics/goods/divan-krovaty-vykatnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1223617,
+        "name": "Диван-кровать Gupan",
+        "current_price": 65653.0,
+        "previous_price": 68128.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divany-krovati/divan-krovaty-gupan/",
+        "image_url": "/pics/goods/divan-krovaty-gupan.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1223618,
+        "name": "Диван Gupan",
+        "current_price": 45802.0,
+        "previous_price": 47075.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-gupan/",
+        "image_url": "/pics/goods/divan-gupan.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1225004,
+        "name": "Диван-кровать SoftBrand",
+        "current_price": 52999.0,
+        "previous_price": 58161.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-softbrand/",
+        "image_url": "/pics/goods/divan-krovaty-softbrand.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1226239,
+        "name": "Диван прямой Delicatex",
+        "current_price": 36899.0,
+        "previous_price": 40511.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-delicatex/",
+        "image_url": "/pics/goods/divan-pryamoy-delicatex.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1227465,
+        "name": "Диван Май Тай",
+        "current_price": 17490.0,
+        "previous_price": 17621.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-may-tay/",
+        "image_url": "/pics/goods/divan-may-tay.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228278,
+        "name": "правый DEmoku БС, рогожка бежевый/холодный серый",
+        "current_price": 42990.0,
+        "previous_price": 43325.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-bs-rogoghka-beghevyyholodnyy-seryy/",
+        "image_url": "/pics/goods/pravyy-demoku-bs-rogoghka-beghevyyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228279,
+        "name": "правый DEmoku ГБ рогожка, синий/белый",
+        "current_price": 42990.0,
+        "previous_price": 43330.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-gb-rogoghka-siniybelyy/",
+        "image_url": "/pics/goods/pravyy-demoku-gb-rogoghka-siniybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228280,
+        "name": "правый DEmoku ББ рогожка, бежевый/белый",
+        "current_price": 42990.0,
+        "previous_price": 43291.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-bb-rogoghka-beghevyybelyy/",
+        "image_url": "/pics/goods/pravyy-demoku-bb-rogoghka-beghevyybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228281,
+        "name": "правый DEmoku СБ рогожка, серый/белый",
+        "current_price": 42990.0,
+        "previous_price": 43295.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-sb-rogoghka-seryybelyy/",
+        "image_url": "/pics/goods/pravyy-demoku-sb-rogoghka-seryybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228282,
+        "name": "правый DEmoku ГС рогожка, синий/холодный серый",
+        "current_price": 42990.0,
+        "previous_price": 43300.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-gs-rogoghka-siniyholodnyy-seryy/",
+        "image_url": "/pics/goods/pravyy-demoku-gs-rogoghka-siniyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228346,
+        "name": "левый DEmoku СТ рогожка, серый/темный дуб",
+        "current_price": 42990.0,
+        "previous_price": 43317.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-st-rogoghka-seryytemnyy-dub/",
+        "image_url": "/pics/goods/levyy-demoku-st-rogoghka-seryytemnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228350,
+        "name": "правый DEmoku СС рогожка, серый/холодный серый",
+        "current_price": 42990.0,
+        "previous_price": 43291.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ss-rogoghka-seryyholodnyy-seryy/",
+        "image_url": "/pics/goods/pravyy-demoku-ss-rogoghka-seryyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228355,
+        "name": "правый DEmoku БТ рогожка, бежевый/темный дуб",
+        "current_price": 42990.0,
+        "previous_price": 43312.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-bt-rogoghka-beghevyytemnyy-dub/",
+        "image_url": "/pics/goods/pravyy-demoku-bt-rogoghka-beghevyytemnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228419,
+        "name": "Диван угловой левый DEmoku",
+        "current_price": 42990.0,
+        "previous_price": 43330.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-uglovoy-levyy-demoku/",
+        "image_url": "/pics/goods/divan-uglovoy-levyy-demoku.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228423,
+        "name": "левый DEmoku БС рогожка, бежевый/холодный серый",
+        "current_price": 42990.0,
+        "previous_price": 43304.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-bs-rogoghka-beghevyyholodnyy-seryy/",
+        "image_url": "/pics/goods/levyy-demoku-bs-rogoghka-beghevyyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228428,
+        "name": "левый DEmoku СС рогожка, серый/холодный серый",
+        "current_price": 42990.0,
+        "previous_price": 43325.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ss-rogoghka-seryyholodnyy-seryy/",
+        "image_url": "/pics/goods/levyy-demoku-ss-rogoghka-seryyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228431,
+        "name": "левый DEmoku ГС рогожка, синий/холодный серый",
+        "current_price": 42990.0,
+        "previous_price": 43295.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-gs-rogoghka-siniyholodnyy-seryy/",
+        "image_url": "/pics/goods/levyy-demoku-gs-rogoghka-siniyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228438,
+        "name": "правый DEmoku СТ рогожка, серый/темный дуб",
+        "current_price": 42990.0,
+        "previous_price": 43325.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-st-rogoghka-seryytemnyy-dub/",
+        "image_url": "/pics/goods/pravyy-demoku-st-rogoghka-seryytemnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228442,
+        "name": "левый DEmoku Экокожа Д-4 ЭШ-Б, шоколад/белый",
+        "current_price": 43590.0,
+        "previous_price": 43904.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ekokogha-d-4-esh-b-shokoladbelyy/",
+        "image_url": "/pics/goods/levyy-demoku-ekokogha-d-4-esh-b-shokoladbelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228475,
+        "name": "правый DEmoku Экокожа Д-4 ЭШ-Б, шоколад/белый",
+        "current_price": 43590.0,
+        "previous_price": 43917.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ekokogha-d-4-esh-b-shokoladbelyy/",
+        "image_url": "/pics/goods/pravyy-demoku-ekokogha-d-4-esh-b-shokoladbelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229097,
+        "name": "Диван-кровать WESTENY",
+        "current_price": 56283.0,
+        "previous_price": 58405.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-westeny/",
+        "image_url": "/pics/goods/divan-krovaty-westeny.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229155,
+        "name": "левый DEmoku Экокожа ЭШ-Ш, шоколад/шоколад",
+        "current_price": 43590.0,
+        "previous_price": 43917.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ekokogha-esh-sh-shokoladshokolad/",
+        "image_url": "/pics/goods/levyy-demoku-ekokogha-esh-sh-shokoladshokolad.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229156,
+        "name": "левый DEmoku Экокожа ЭТС-Б, темно-серый/белый",
+        "current_price": 43590.0,
+        "previous_price": 43921.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ekokogha-ets-b-temno-seryybelyy/",
+        "image_url": "/pics/goods/levyy-demoku-ekokogha-ets-b-temno-seryybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229157,
+        "name": "левый DEmoku Экокожа ЭТБ-С, бежевый/холодный серый",
+        "current_price": 43590.0,
+        "previous_price": 43926.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ekokogha-etb-s-beghevyyholodnyy-seryy/",
+        "image_url": "/pics/goods/levyy-demoku-ekokogha-etb-s-beghevyyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229160,
+        "name": "левый DEmoku КТ, коричневый/темный дуб",
+        "current_price": 42990.0,
+        "previous_price": 43291.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-kt-korichnevyytemnyy-dub/",
+        "image_url": "/pics/goods/levyy-demoku-kt-korichnevyytemnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229164,
+        "name": "левый DEmoku Экокожа ЭТС-С, темно-серый/холодный серый",
+        "current_price": 43590.0,
+        "previous_price": 43913.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ekokogha-ets-s-temno-seryyholodnyy-seryy/",
+        "image_url": "/pics/goods/levyy-demoku-ekokogha-ets-s-temno-seryyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229166,
+        "name": "левый DEmoku Экокожа ЭТБ-Б, бежевый/белый",
+        "current_price": 43590.0,
+        "previous_price": 43921.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ekokogha-etb-b-beghevyybelyy/",
+        "image_url": "/pics/goods/levyy-demoku-ekokogha-etb-b-beghevyybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229171,
+        "name": "левый DEmoku Экокожа ЭТС-Т, темно-серый/темный дуб",
+        "current_price": 43590.0,
+        "previous_price": 43899.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ekokogha-ets-t-temno-seryytemnyy-dub/",
+        "image_url": "/pics/goods/levyy-demoku-ekokogha-ets-t-temno-seryytemnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229259,
+        "name": "левый DEmoku ГШ, синий/шоколад укрывной",
+        "current_price": 42990.0,
+        "previous_price": 43330.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-gsh-siniyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/levyy-demoku-gsh-siniyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229262,
+        "name": "левый DEmoku Экокожа ЭТБ-Т, бежевый/темный дуб",
+        "current_price": 43590.0,
+        "previous_price": 43904.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ekokogha-etb-t-beghevyytemnyy-dub/",
+        "image_url": "/pics/goods/levyy-demoku-ekokogha-etb-t-beghevyytemnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229263,
+        "name": "левый DEmoku КБ, коричневый/белый",
+        "current_price": 42990.0,
+        "previous_price": 43304.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-kb-korichnevyybelyy/",
+        "image_url": "/pics/goods/levyy-demoku-kb-korichnevyybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229264,
+        "name": "Прямой диван-кровать WESTENY",
+        "current_price": 47383.0,
+        "previous_price": 49155.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pryamoy-divan-krovaty-westeny/",
+        "image_url": "/pics/goods/pryamoy-divan-krovaty-westeny.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229267,
+        "name": "левый DEmoku КС, коричневый/холодный серый",
+        "current_price": 42990.0,
+        "previous_price": 43321.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ks-korichnevyyholodnyy-seryy/",
+        "image_url": "/pics/goods/levyy-demoku-ks-korichnevyyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229268,
+        "name": "левый DEmoku Экокожа ЭТС-Ш, темно-серый/шоколад укрывной",
+        "current_price": 43590.0,
+        "previous_price": 43930.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ekokogha-ets-sh-temno-seryyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/levyy-demoku-ekokogha-ets-sh-temno-seryyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229270,
+        "name": "левый DEmoku Экокожа ЭТБ-Ш, бежевый/шоколад укрывной",
+        "current_price": 43590.0,
+        "previous_price": 43895.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ekokogha-etb-sh-beghevyyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/levyy-demoku-ekokogha-etb-sh-beghevyyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229288,
+        "name": "левый DEmoku СШ, серый/шоколад укрывной",
+        "current_price": 42990.0,
+        "previous_price": 43325.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ssh-seryyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/levyy-demoku-ssh-seryyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229304,
+        "name": "левый DEmoku КШ, коричневый/шоколад укрывной",
+        "current_price": 42990.0,
+        "previous_price": 43308.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-ksh-korichnevyyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/levyy-demoku-ksh-korichnevyyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229314,
+        "name": "правый DEmoku БШ, бежевый/шоколад укрывной",
+        "current_price": 42990.0,
+        "previous_price": 43308.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-bsh-beghevyyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/pravyy-demoku-bsh-beghevyyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229321,
+        "name": "правый DEmoku КБ, коричневый, деревянный каркас - белый",
+        "current_price": 42990.0,
+        "previous_price": 43295.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-kb-korichnevyy-derevyannyy-karkas-belyy/",
+        "image_url": "/pics/goods/pravyy-demoku-kb-korichnevyy-derevyannyy-karkas-belyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229331,
+        "name": "правый DEmoku ГШ, синий/шоколад укрывной",
+        "current_price": 42990.0,
+        "previous_price": 43295.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-gsh-siniyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/pravyy-demoku-gsh-siniyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229363,
+        "name": "правый DEmoku СШ, серый/шоколад укрывной",
+        "current_price": 42990.0,
+        "previous_price": 43304.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ssh-seryyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/pravyy-demoku-ssh-seryyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229372,
+        "name": "правый DEmoku Экокожа ЭТБ-Т, бежевый/темный дуб",
+        "current_price": 43590.0,
+        "previous_price": 43904.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ekokogha-etb-t-beghevyytemnyy-dub/",
+        "image_url": "/pics/goods/pravyy-demoku-ekokogha-etb-t-beghevyytemnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229378,
+        "name": "правый DEmoku КС, коричневый/холодный серый",
+        "current_price": 42990.0,
+        "previous_price": 43325.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ks-korichnevyyholodnyy-seryy/",
+        "image_url": "/pics/goods/pravyy-demoku-ks-korichnevyyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229384,
+        "name": "правый DEmoku Экокожа ЭШ-Ш, шоколад/шоколад укрывной",
+        "current_price": 43590.0,
+        "previous_price": 43913.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ekokogha-esh-sh-shokoladshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/pravyy-demoku-ekokogha-esh-sh-shokoladshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229391,
+        "name": "правый DEmoku КТ, коричневый/темный дуб",
+        "current_price": 42990.0,
+        "previous_price": 43295.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-kt-korichnevyytemnyy-dub/",
+        "image_url": "/pics/goods/pravyy-demoku-kt-korichnevyytemnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229399,
+        "name": "правый DEmoku Экокожа ЭТС-Ш, темно-серый/шоколад укрывной",
+        "current_price": 43590.0,
+        "previous_price": 43934.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ekokogha-ets-sh-temno-seryyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/pravyy-demoku-ekokogha-ets-sh-temno-seryyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229402,
+        "name": "правый DEmoku Экокожа ЭТС-Т, темно-серый/темный дуб",
+        "current_price": 43590.0,
+        "previous_price": 43904.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ekokogha-ets-t-temno-seryytemnyy-dub/",
+        "image_url": "/pics/goods/pravyy-demoku-ekokogha-ets-t-temno-seryytemnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229412,
+        "name": "правый DEmoku Экокожа ЭТБ-С, бежевый/холодный серый",
+        "current_price": 43590.0,
+        "previous_price": 43904.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ekokogha-etb-s-beghevyyholodnyy-seryy/",
+        "image_url": "/pics/goods/pravyy-demoku-ekokogha-etb-s-beghevyyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229413,
+        "name": "Угловой диван WESTENY",
+        "current_price": 64932.0,
+        "previous_price": 66705.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/uglovoy-divan-westeny/",
+        "image_url": "/pics/goods/uglovoy-divan-westeny.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229416,
+        "name": "правый DEmoku Экокожа ЭТС-Б, темно-серый/белый",
+        "current_price": 43590.0,
+        "previous_price": 43921.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ekokogha-ets-b-temno-seryybelyy/",
+        "image_url": "/pics/goods/pravyy-demoku-ekokogha-ets-b-temno-seryybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229421,
+        "name": "правый DEmoku КШ, коричневый/шоколад укрывной",
+        "current_price": 42990.0,
+        "previous_price": 43295.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ksh-korichnevyyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/pravyy-demoku-ksh-korichnevyyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229425,
+        "name": "правый DEmoku Экокожа ЭТБ-Б, бежевый/белый",
+        "current_price": 43590.0,
+        "previous_price": 43917.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ekokogha-etb-b-beghevyybelyy/",
+        "image_url": "/pics/goods/pravyy-demoku-ekokogha-etb-b-beghevyybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229436,
+        "name": "правый DEmoku Экокожа ЭТС-С, темно-серый/холодный серый",
+        "current_price": 43590.0,
+        "previous_price": 43921.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ekokogha-ets-s-temno-seryyholodnyy-seryy/",
+        "image_url": "/pics/goods/pravyy-demoku-ekokogha-ets-s-temno-seryyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229439,
+        "name": "правый DEmoku Экокожа ЭТБ-Ш, бежевый/шоколад укрывной",
+        "current_price": 43590.0,
+        "previous_price": 43934.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-ekokogha-etb-sh-beghevyyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/pravyy-demoku-ekokogha-etb-sh-beghevyyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229791,
+        "name": "Диван-кровать прямой WESTENY",
+        "current_price": 40489.0,
+        "previous_price": 44420.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-pryamoy-westeny/",
+        "image_url": "/pics/goods/divan-krovaty-pryamoy-westeny.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229792,
+        "name": "Диван-кровать прямой WESTEBY",
+        "current_price": 40489.0,
+        "previous_price": 44425.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-pryamoy-westeby/",
+        "image_url": "/pics/goods/divan-krovaty-pryamoy-westeby.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229918,
+        "name": "Кушетка WESTENY",
+        "current_price": 37355.0,
+        "previous_price": 39514.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/kushetka-westeny/",
+        "image_url": "/pics/goods/kushetka-westeny.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229934,
+        "name": "Диван-кровать прямой выкатной",
+        "current_price": 24990.0,
+        "previous_price": 25175.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-pryamoy-vykatnoy/",
+        "image_url": "/pics/goods/divan-krovaty-pryamoy-vykatnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1230113,
+        "name": "Диван прямой IKEA",
+        "current_price": 23966.0,
+        "previous_price": 25579.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-ikea/",
+        "image_url": "/pics/goods/divan-pryamoy-ikea.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231462,
+        "name": "Диван Первый Мягкий",
+        "current_price": 72900.0,
+        "previous_price": 73425.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pervyy-myagkiy/",
+        "image_url": "/pics/goods/divan-pervyy-myagkiy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231472,
+        "name": "Диван-кровать Первый Мягкий",
+        "current_price": 69900.0,
+        "previous_price": 70403.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-pervyy-myagkiy/",
+        "image_url": "/pics/goods/divan-krovaty-pervyy-myagkiy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231543,
+        "name": "Диван Лига диванов",
+        "current_price": 72855.0,
+        "previous_price": 77030.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-liga-divanov/",
+        "image_url": "/pics/goods/divan-liga-divanov.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231584,
+        "name": "Диван двухместный DEmoku Оксфорд",
+        "current_price": 29990.0,
+        "previous_price": 30212.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-demoku-oksford/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-demoku-oksford.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231585,
+        "name": "Диван-кровать Fiesta",
+        "current_price": 44649.0,
+        "previous_price": 49002.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-fiesta/",
+        "image_url": "/pics/goods/divan-krovaty-fiesta.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231587,
+        "name": "Диван Fiesta",
+        "current_price": 21175.0,
+        "previous_price": 22397.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-fiesta/",
+        "image_url": "/pics/goods/divan-fiesta.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231631,
+        "name": "Диван трехместный DEmoku Оксфорд",
+        "current_price": 33490.0,
+        "previous_price": 33728.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-trehmestnyy-demoku-oksford/",
+        "image_url": "/pics/goods/divan-trehmestnyy-demoku-oksford.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231635,
+        "name": "ЛЕВЫЙ DEmoku Оксфорд Д-4 ОПК-Б, полоса + коричневый/белый",
+        "current_price": 44990.0,
+        "previous_price": 45327.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-oksford-d-4-opk-b-polosa-korichnevyybelyy/",
+        "image_url": "/pics/goods/levyy-demoku-oksford-d-4-opk-b-polosa-korichnevyybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231641,
+        "name": "ЛЕВЫЙ DEmoku Оксфорд Д-4 ОПК-Т, полоса + коричневый/темный дуб",
+        "current_price": 44990.0,
+        "previous_price": 45309.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-oksford-d-4-opk-t-polosa-korichnevyytemnyy-dub/",
+        "image_url": "/pics/goods/levyy-demoku-oksford-d-4-opk-t-polosa-korichnevyytemnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231645,
+        "name": "ПРАВЫЙ DEmoku Оксфорд Д-4 ОПК-Б, полоса + коричневый/белый",
+        "current_price": 44990.0,
+        "previous_price": 45327.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-oksford-d-4-opk-b-polosa-korichnevyybelyy/",
+        "image_url": "/pics/goods/pravyy-demoku-oksford-d-4-opk-b-polosa-korichnevyybelyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231650,
+        "name": "ПРАВЫЙ DEmoku Оксфорд Д-4 ОПК-Ш, полоса + коричневый/шоколад укрывной",
+        "current_price": 44990.0,
+        "previous_price": 45305.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-oksford-d-4-opk-sh-polosa-korichnevyyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/pravyy-demoku-oksford-d-4-opk-sh-polosa-korichnevyyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231671,
+        "name": "ЛЕВЫЙ DEmoku Оксфорд Д-4 ОПК-С, полоса + коричневый/холодный серый",
+        "current_price": 44990.0,
+        "previous_price": 45309.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-oksford-d-4-opk-s-polosa-korichnevyyholodnyy-seryy/",
+        "image_url": "/pics/goods/levyy-demoku-oksford-d-4-opk-s-polosa-korichnevyyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231674,
+        "name": "ЛЕВЫЙ DEmoku Оксфорд Д-4 ОПК-Ш, полоса + коричневый/шоколад укрывной",
+        "current_price": 44990.0,
+        "previous_price": 45323.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/levyy-demoku-oksford-d-4-opk-sh-polosa-korichnevyyshokolad-ukryvnoy/",
+        "image_url": "/pics/goods/levyy-demoku-oksford-d-4-opk-sh-polosa-korichnevyyshokolad-ukryvnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231677,
+        "name": "правый DEmoku Оксфорд Д-4 ОПК-С, полоса + коричневый/холодный серый",
+        "current_price": 44990.0,
+        "previous_price": 45336.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-oksford-d-4-opk-s-polosa-korichnevyyholodnyy-seryy/",
+        "image_url": "/pics/goods/pravyy-demoku-oksford-d-4-opk-s-polosa-korichnevyyholodnyy-seryy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231680,
+        "name": "правый DEmoku Оксфорд Д-4 ОПК-Т, полоса + коричневый/темный дуб",
+        "current_price": 44990.0,
+        "previous_price": 45305.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pravyy-demoku-oksford-d-4-opk-t-polosa-korichnevyytemnyy-dub/",
+        "image_url": "/pics/goods/pravyy-demoku-oksford-d-4-opk-t-polosa-korichnevyytemnyy-dub.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231852,
+        "name": "Диван-кушетка Лига Диванов",
+        "current_price": 33116.0,
+        "previous_price": 35341.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-kushetka-liga-divanov/",
+        "image_url": "/pics/goods/divan-kushetka-liga-divanov.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1233046,
+        "name": "Диван офисный Alderson",
+        "current_price": 14040.0,
+        "previous_price": 14147.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-ofisnyy-alderson/",
+        "image_url": "/pics/goods/divan-ofisnyy-alderson.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1233079,
+        "name": "Диван-кровать Home Time",
+        "current_price": 36533.0,
+        "previous_price": 37918.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-home-time/",
+        "image_url": "/pics/goods/divan-krovaty-home-time.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1233162,
+        "name": "Прямой диван Divan24",
+        "current_price": 6650.0,
+        "previous_price": 6698.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pryamoy-divan-divan24/",
+        "image_url": "/pics/goods/pryamoy-divan-divan24.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1233463,
+        "name": "Маленький диван Live Line",
+        "current_price": 46800.0,
+        "previous_price": 47142.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/malenykiy-divan-live-line/",
+        "image_url": "/pics/goods/malenykiy-divan-live-line.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1233782,
+        "name": "Диван-кровать База Диванов",
+        "current_price": 22900.0,
+        "previous_price": 23065.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-baza-divanov/",
+        "image_url": "/pics/goods/divan-krovaty-baza-divanov.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1234141,
+        "name": "Прямой диван Первый Мягкий",
+        "current_price": 44900.0,
+        "previous_price": 45219.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pryamoy-divan-pervyy-myagkiy/",
+        "image_url": "/pics/goods/pryamoy-divan-pervyy-myagkiy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1235603,
+        "name": "Диван-книжка",
+        "current_price": 30609.0,
+        "previous_price": 33587.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-knighka/",
+        "image_url": "/pics/goods/divan-knighka.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1235609,
+        "name": "Диван прямой, City Мебель",
+        "current_price": 28080.0,
+        "previous_price": 28302.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-city-mebely/",
+        "image_url": "/pics/goods/divan-pryamoy-city-mebely.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1237829,
+        "name": "Прямой диван Фокус",
+        "current_price": 28674.0,
+        "previous_price": 30047.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pryamoy-divan-fokus/",
+        "image_url": "/pics/goods/pryamoy-divan-fokus.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1238296,
+        "name": "Диван-кровать раскладной",
+        "current_price": 37610.0,
+        "previous_price": 37896.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-raskladnoy/",
+        "image_url": "/pics/goods/divan-krovaty-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1238454,
+        "name": "Диван-кровать Bravo Мебель",
+        "current_price": 29000.0,
+        "previous_price": 29215.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-bravo-mebely/",
+        "image_url": "/pics/goods/divan-krovaty-bravo-mebely.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1239856,
+        "name": "Диван прямой City Мебель Виго",
+        "current_price": 25454.0,
+        "previous_price": 26666.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-city-mebely-vigo/",
+        "image_url": "/pics/goods/divan-pryamoy-city-mebely-vigo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1239857,
+        "name": "Диван прямой City Мебель Кёльн",
+        "current_price": 25740.0,
+        "previous_price": 25938.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-city-mebely-kelyn/",
+        "image_url": "/pics/goods/divan-pryamoy-city-mebely-kelyn.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1239858,
+        "name": "Диван прямой City Мебель Киото",
+        "current_price": 25740.0,
+        "previous_price": 25941.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-city-mebely-kioto/",
+        "image_url": "/pics/goods/divan-pryamoy-city-mebely-kioto.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1241890,
+        "name": "Диван Glasar Рапсодия, двухместный 107х61х70см",
+        "current_price": 67518.0,
+        "previous_price": 73392.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-glasar-rapsodiya-dvuhmestnyy-107h61h70sm/",
+        "image_url": "/pics/goods/divan-glasar-rapsodiya-dvuhmestnyy-107h61h70sm.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1244421,
+        "name": "Диван Homage",
+        "current_price": 139947.0,
+        "previous_price": 150737.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-homage/",
+        "image_url": "/pics/goods/divan-homage.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1245116,
+        "name": "Диван Orix",
+        "current_price": 168371.0,
+        "previous_price": 171334.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-orix/",
+        "image_url": "/pics/goods/divan-orix.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1245731,
+        "name": "Раскладной диван Алито",
+        "current_price": 25920.0,
+        "previous_price": 26104.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/raskladnoy-divan-alito/",
+        "image_url": "/pics/goods/raskladnoy-divan-alito.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1247581,
+        "name": "Диван для дома и офиса ТУТ-БЕРИ",
+        "current_price": 14780.0,
+        "previous_price": 14885.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dlya-doma-i-ofisa-tut-beri/",
+        "image_url": "/pics/goods/divan-dlya-doma-i-ofisa-tut-beri.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1247626,
+        "name": "Диван-кровать прямой Gupan",
+        "current_price": 35177.0,
+        "previous_price": 37907.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-pryamoy-gupan/",
+        "image_url": "/pics/goods/divan-krovaty-pryamoy-gupan.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1247628,
+        "name": "Диван модульный прямой Gupan",
+        "current_price": 53505.0,
+        "previous_price": 56598.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-modulynyy-pryamoy-gupan/",
+        "image_url": "/pics/goods/divan-modulynyy-pryamoy-gupan.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1248290,
+        "name": "Диван-кровать Нижегородмебель и К",
+        "current_price": 24600.0,
+        "previous_price": 24772.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-nighegorodmebely-i-k/",
+        "image_url": "/pics/goods/divan-krovaty-nighegorodmebely-i-k.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1248805,
+        "name": "Диван Нижегородмебель и К",
+        "current_price": 24779.0,
+        "previous_price": 27195.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-nighegorodmebely-i-k/",
+        "image_url": "/pics/goods/divan-nighegorodmebely-i-k.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1248973,
+        "name": "Диван El todo",
+        "current_price": 8990.0,
+        "previous_price": 9056.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-el-todo/",
+        "image_url": "/pics/goods/divan-el-todo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1249081,
+        "name": "Диван офисный прямой Divan24",
+        "current_price": 14100.0,
+        "previous_price": 14200.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-ofisnyy-pryamoy-divan24/",
+        "image_url": "/pics/goods/divan-ofisnyy-pryamoy-divan24.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1250737,
+        "name": "Диван-кровать Нота мебель",
+        "current_price": 43020.0,
+        "previous_price": 43351.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-nota-mebely/",
+        "image_url": "/pics/goods/divan-krovaty-nota-mebely.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251416,
+        "name": "Диван двухместный MVM Комфорт прямой серый экокожа не раскладной",
+        "current_price": 14391.0,
+        "previous_price": 14644.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-mvm-komfort-pryamoy-seryy-ekokogha-ne-raskladnoy/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-mvm-komfort-pryamoy-seryy-ekokogha-ne-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251417,
+        "name": "Диван двухместный MVM Комфорт прямой черный велюр не раскладной",
+        "current_price": 14391.0,
+        "previous_price": 14646.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-mvm-komfort-pryamoy-chernyy-velyur-ne-raskladnoy/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-mvm-komfort-pryamoy-chernyy-velyur-ne-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251418,
+        "name": "Диван двухместный MVM Комфорт прямой изумрудный велюр не раскладной",
+        "current_price": 14391.0,
+        "previous_price": 14647.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-mvm-komfort-pryamoy-izumrudnyy-velyur-ne-raskladnoy/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-mvm-komfort-pryamoy-izumrudnyy-velyur-ne-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251419,
+        "name": "Диван двухместный MVM Комфорт прямой белый экокожа не раскладной",
+        "current_price": 14391.0,
+        "previous_price": 14649.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-mvm-komfort-pryamoy-belyy-ekokogha-ne-raskladnoy/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-mvm-komfort-pryamoy-belyy-ekokogha-ne-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251420,
+        "name": "Диван двухместный MVM Комфорт прямой черный экокожа не раскладной",
+        "current_price": 14391.0,
+        "previous_price": 14636.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-mvm-komfort-pryamoy-chernyy-ekokogha-ne-raskladnoy/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-mvm-komfort-pryamoy-chernyy-ekokogha-ne-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251421,
+        "name": "Диван двухместный MVM Комфорт прямой бежевый экокожа не раскладной",
+        "current_price": 14391.0,
+        "previous_price": 14637.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-mvm-komfort-pryamoy-beghevyy-ekokogha-ne-raskladnoy/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-mvm-komfort-pryamoy-beghevyy-ekokogha-ne-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251422,
+        "name": "Диван двухместный MVM Комфорт прямой серый велюр не раскладной",
+        "current_price": 14391.0,
+        "previous_price": 14639.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-mvm-komfort-pryamoy-seryy-velyur-ne-raskladnoy/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-mvm-komfort-pryamoy-seryy-velyur-ne-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251423,
+        "name": "Диван двухместный MVM Комфорт прямой розовый велюр не раскладной",
+        "current_price": 14391.0,
+        "previous_price": 14640.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-mvm-komfort-pryamoy-rozovyy-velyur-ne-raskladnoy/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-mvm-komfort-pryamoy-rozovyy-velyur-ne-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251424,
+        "name": "Диван двухместный MVM",
+        "current_price": 14391.0,
+        "previous_price": 14641.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-mvm/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-mvm.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251425,
+        "name": "Диван двухместный MVM Комфорт прямой бежевый велюр не раскладной",
+        "current_price": 14391.0,
+        "previous_price": 14643.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-mvm-komfort-pryamoy-beghevyy-velyur-ne-raskladnoy/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-mvm-komfort-pryamoy-beghevyy-velyur-ne-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251426,
+        "name": "Диван двухместный MVM Комфорт прямой синий велюр не раскладной",
+        "current_price": 14391.0,
+        "previous_price": 14644.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-mvm-komfort-pryamoy-siniy-velyur-ne-raskladnoy/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-mvm-komfort-pryamoy-siniy-velyur-ne-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251427,
+        "name": "Диван офисный MVM",
+        "current_price": 14391.0,
+        "previous_price": 14646.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-ofisnyy-mvm/",
+        "image_url": "/pics/goods/divan-ofisnyy-mvm.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1252187,
+        "name": "Комплект мебели Milli",
+        "current_price": 33500.0,
+        "previous_price": 33758.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/komplekt-mebeli-milli/",
+        "image_url": "/pics/goods/komplekt-mebeli-milli.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1252588,
+        "name": "Диван прямой офисный Divan24",
+        "current_price": 32000.0,
+        "previous_price": 32250.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-ofisnyy-divan24/",
+        "image_url": "/pics/goods/divan-pryamoy-ofisnyy-divan24.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1254386,
+        "name": "Диван Юнион",
+        "current_price": 243800.0,
+        "previous_price": 245653.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-yunion/",
+        "image_url": "/pics/goods/divan-yunion.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1256496,
+        "name": "Диван-трансформер Первый Мягкий",
+        "current_price": 69900.0,
+        "previous_price": 70431.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-transformer-pervyy-myagkiy/",
+        "image_url": "/pics/goods/divan-transformer-pervyy-myagkiy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1256498,
+        "name": "Прямой диван-кровать Первый Мягкий",
+        "current_price": 55900.0,
+        "previous_price": 56336.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pryamoy-divan-krovaty-pervyy-myagkiy/",
+        "image_url": "/pics/goods/pryamoy-divan-krovaty-pervyy-myagkiy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1256694,
+        "name": "Прямой офисный диван Divan24",
+        "current_price": 7290.0,
+        "previous_price": 7344.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pryamoy-ofisnyy-divan-divan24/",
+        "image_url": "/pics/goods/pryamoy-ofisnyy-divan-divan24.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1257059,
+        "name": "Диван раскладной Romack",
+        "current_price": 47509.0,
+        "previous_price": 52160.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-raskladnoy-romack/",
+        "image_url": "/pics/goods/divan-raskladnoy-romack.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1257081,
+        "name": "Диван кровать Yorcom",
+        "current_price": 29000.0,
+        "previous_price": 29206.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-yorcom/",
+        "image_url": "/pics/goods/divan-krovaty-yorcom.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1257193,
+        "name": "Диван-кровать Romack",
+        "current_price": 41375.0,
+        "previous_price": 43746.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-romack/",
+        "image_url": "/pics/goods/divan-krovaty-romack.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1257229,
+        "name": "Диван угловой раскладной Romack",
+        "current_price": 48934.0,
+        "previous_price": 51278.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-uglovoy-raskladnoy-romack/",
+        "image_url": "/pics/goods/divan-uglovoy-raskladnoy-romack.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1257270,
+        "name": "Диван прямой Romack",
+        "current_price": 44250.0,
+        "previous_price": 44560.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-romack/",
+        "image_url": "/pics/goods/divan-pryamoy-romack.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1257287,
+        "name": "Угловой диван Romack",
+        "current_price": 44548.0,
+        "previous_price": 48455.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/uglovoy-divan-romack/",
+        "image_url": "/pics/goods/uglovoy-divan-romack.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1257317,
+        "name": "Диван Romack",
+        "current_price": 43250.0,
+        "previous_price": 43583.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-romack/",
+        "image_url": "/pics/goods/divan-romack.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1257329,
+        "name": "Диван раскладной угловой Romack",
+        "current_price": 45884.0,
+        "previous_price": 48082.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-raskladnoy-uglovoy-romack/",
+        "image_url": "/pics/goods/divan-raskladnoy-uglovoy-romack.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1258026,
+        "name": "Диван прямой Золотое руно",
+        "current_price": 45600.0,
+        "previous_price": 45947.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-zolotoe-runo/",
+        "image_url": "/pics/goods/divan-pryamoy-zolotoe-runo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1258779,
+        "name": "Офисный диван Divan24",
+        "current_price": 9900.0,
+        "previous_price": 9978.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/ofisnyy-divan-divan24/",
+        "image_url": "/pics/goods/ofisnyy-divan-divan24.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1258783,
+        "name": "Диван-кровать Yorcom Палермо, Велюта 26, 180х",
+        "current_price": 50000.0,
+        "previous_price": 50365.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-yorcom-palermo-velyuta-26-180h/",
+        "image_url": "/pics/goods/divan-krovaty-yorcom-palermo-velyuta-26-180h.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1259341,
+        "name": "Чехол для кресла VMMGAME",
+        "current_price": 3590.0,
+        "previous_price": 3615.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/chehly-dlya-myagkoy-mebeli/chehol-dlya-kresla-vmmgame/",
+        "image_url": "/pics/goods/chehol-dlya-kresla-vmmgame.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1259912,
+        "name": "Диван Сток Диванов",
+        "current_price": 20299.0,
+        "previous_price": 22272.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-stok-divanov/",
+        "image_url": "/pics/goods/divan-stok-divanov.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1431679,
+        "name": "Диван садовый Lex",
+        "current_price": 25573.0,
+        "previous_price": 26542.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-sadovyy-lex/",
+        "image_url": "/pics/goods/divan-sadovyy-lex.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1443279,
+        "name": "Диван Диван не мебель",
+        "current_price": 17490.0,
+        "previous_price": 17628.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-divan-ne-mebely/",
+        "image_url": "/pics/goods/divan-divan-ne-mebely.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1443547,
+        "name": "Диван-кровать, кушетка, прямой диван Beneli",
+        "current_price": 24980.0,
+        "previous_price": 25172.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-kushetka-pryamoy-divan-beneli/",
+        "image_url": "/pics/goods/divan-krovaty-kushetka-pryamoy-divan-beneli.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1443680,
+        "name": "Комплект мебели диван и кресло BRENDOSS",
+        "current_price": 99554.0,
+        "previous_price": 104233.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/komplekt-mebeli-divan-i-kreslo-brendoss/",
+        "image_url": "/pics/goods/komplekt-mebeli-divan-i-kreslo-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1445692,
+        "name": "Диван двухместный",
+        "current_price": 28490.0,
+        "previous_price": 28695.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1446299,
+        "name": "Диван-кровать Армос",
+        "current_price": 62864.0,
+        "previous_price": 65875.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-armos/",
+        "image_url": "/pics/goods/divan-krovaty-armos.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1447935,
+        "name": "Диван Live line",
+        "current_price": 15500.0,
+        "previous_price": 15616.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-live-line/",
+        "image_url": "/pics/goods/divan-live-line.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1447942,
+        "name": "Диван для дома Мастерская мебели Roann",
+        "current_price": 25920.0,
+        "previous_price": 26107.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dlya-doma-masterskaya-mebeli-roann/",
+        "image_url": "/pics/goods/divan-dlya-doma-masterskaya-mebeli-roann.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1448384,
+        "name": "Комплект диван и кресло BRENDOSS",
+        "current_price": 96685.0,
+        "previous_price": 102235.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/komplekt-divan-i-kreslo-brendoss/",
+        "image_url": "/pics/goods/komplekt-divan-i-kreslo-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1448423,
+        "name": "Диван-кровать Фабрика мебели Олимп",
+        "current_price": 36283.0,
+        "previous_price": 37636.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-fabrika-mebeli-olimp/",
+        "image_url": "/pics/goods/divan-krovaty-fabrika-mebeli-olimp.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1448510,
+        "name": "Диван прямой NelLeva",
+        "current_price": 14500.0,
+        "previous_price": 14602.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-nelleva/",
+        "image_url": "/pics/goods/divan-pryamoy-nelleva.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1448993,
+        "name": "Диван раскладной Brendoss",
+        "current_price": 59028.0,
+        "previous_price": 64181.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-raskladnoy-brendoss/",
+        "image_url": "/pics/goods/divan-raskladnoy-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1449240,
+        "name": "Прямой диван-кровать фабрика мебели Олимп",
+        "current_price": 39900.0,
+        "previous_price": 40179.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/pryamoy-divan-krovaty-fabrika-mebeli-olimp/",
+        "image_url": "/pics/goods/pryamoy-divan-krovaty-fabrika-mebeli-olimp.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1450313,
+        "name": "Диван-кровать прямой, раскладной",
+        "current_price": 17990.0,
+        "previous_price": 18121.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-pryamoy-raskladnoy/",
+        "image_url": "/pics/goods/divan-krovaty-pryamoy-raskladnoy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1450629,
+        "name": "Чехол без поролона LuxAlto",
+        "current_price": 2490.0,
+        "previous_price": 2510.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/chehly-dlya-myagkoy-mebeli/chehol-bez-porolona-luxalto/",
+        "image_url": "/pics/goods/chehol-bez-porolona-luxalto.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1451600,
+        "name": "Диван двухместный Пан-Диван",
+        "current_price": 11000.0,
+        "previous_price": 11077.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-pan-divan/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-pan-divan.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1451733,
+        "name": "Диван и кушетка BRENDOSS",
+        "current_price": 87352.0,
+        "previous_price": 89737.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/komplekty-myagkoy-mebeli/divan-i-kushetka-brendoss/",
+        "image_url": "/pics/goods/divan-i-kushetka-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1451912,
+        "name": "Диван-кровать buyson",
+        "current_price": 24850.0,
+        "previous_price": 25029.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-buyson/",
+        "image_url": "/pics/goods/divan-krovaty-buyson.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1452630,
+        "name": "Диван-кровать Союз Мебель",
+        "current_price": 29900.0,
+        "previous_price": 30109.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-soyuz-mebely/",
+        "image_url": "/pics/goods/divan-krovaty-soyuz-mebely.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1453163,
+        "name": "Диван-кровать Нижегородмебель",
+        "current_price": 24600.0,
+        "previous_price": 24780.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-nighegorodmebely/",
+        "image_url": "/pics/goods/divan-krovaty-nighegorodmebely.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1453791,
+        "name": "Диван кухонный МЕБЕЛИТ",
+        "current_price": 13500.0,
+        "previous_price": 13596.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-kuhonnyy-mebelit/",
+        "image_url": "/pics/goods/divan-kuhonnyy-mebelit.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1453797,
+        "name": "Диван-кровать Сток Диванов",
+        "current_price": 30499.0,
+        "previous_price": 33479.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-krovaty-stok-divanov/",
+        "image_url": "/pics/goods/divan-krovaty-stok-divanov.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1453807,
+        "name": "Диван двухместный BRENDOSS",
+        "current_price": 62800.0,
+        "previous_price": 63284.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-dvuhmestnyy-brendoss/",
+        "image_url": "/pics/goods/divan-dvuhmestnyy-brendoss.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1455108,
+        "name": "Диван прямой D.STYLE",
+        "current_price": 16900.0,
+        "previous_price": 17032.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-pryamoy-dstyle/",
+        "image_url": "/pics/goods/divan-pryamoy-dstyle.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1455247,
+        "name": "Диван офисный D.STYLE",
+        "current_price": 18900.0,
+        "previous_price": 19046.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/divan-ofisnyy-dstyle/",
+        "image_url": "/pics/goods/divan-ofisnyy-dstyle.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1455441,
+        "name": "Маленький выкатной диван-кровать LIVE LINE",
+        "current_price": 28500.0,
+        "previous_price": 28702.0,
+        "url": "https://x-catalog.ru/mebel/myagkaya-mebely/divany/malenykiy-vykatnoy-divan-krovaty-live-line/",
+        "image_url": "/pics/goods/malenykiy-vykatnoy-divan-krovaty-live-line.jpg",
+        "availability": "InStock"
+    }
+]

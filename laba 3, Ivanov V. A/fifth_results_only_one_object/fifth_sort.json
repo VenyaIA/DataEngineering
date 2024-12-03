@@ -1,0 +1,2594 @@
+[
+    {
+        "id": 1000038,
+        "name": "Компьютерное кресло Бюрократ",
+        "current_price": 10790.0,
+        "previous_price": 10874.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-byurokrat/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1000040,
+        "name": "Кресло руководителя Бюрократ",
+        "current_price": 83490.0,
+        "previous_price": 84074.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-rukovoditelya-byurokrat/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1000040,
+        "name": "Кресло руководителя Бюрократ",
+        "current_price": 83490.0,
+        "previous_price": 84074.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-rukovoditelya-byurokrat/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1003236,
+        "name": "Компьютерное кресло",
+        "current_price": 7650.0,
+        "previous_price": 7708.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1014698,
+        "name": "Игровое кресло AeroCool",
+        "current_price": 29597.0,
+        "previous_price": 31900.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/igrovoe-kreslo-aerocool/",
+        "image_url": "/pics/goods/igrovoe-kreslo-aerocool.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1015043,
+        "name": "Компьютерное кресло CHAIRMAN",
+        "current_price": 11250.0,
+        "previous_price": 11332.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-chairman/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-chairman.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1018568,
+        "name": "Кресло Everprof",
+        "current_price": 13500.0,
+        "previous_price": 13605.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-everprof/",
+        "image_url": "/pics/goods/kreslo-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1018707,
+        "name": "Кресло для руководителя",
+        "current_price": 22743.0,
+        "previous_price": 23600.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kresla-rukovoditelya/kreslo-dlya-rukovoditelya/",
+        "image_url": "/pics/goods/kreslo-dlya-rukovoditelya.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1018709,
+        "name": "Игровое кресло Everprof",
+        "current_price": 17531.0,
+        "previous_price": 17845.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-everprof/",
+        "image_url": "/pics/goods/igrovoe-kreslo-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1018710,
+        "name": "Компьютерное кресло Everprof",
+        "current_price": 28990.0,
+        "previous_price": 29193.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-everprof/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1018711,
+        "name": "Кресло руководителя Everprof",
+        "current_price": 11001.0,
+        "previous_price": 11189.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kresla-rukovoditelya/kreslo-rukovoditelya-everprof/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1018712,
+        "name": "Кресло игровое",
+        "current_price": 10990.0,
+        "previous_price": 11069.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe/",
+        "image_url": "/pics/goods/kreslo-igrovoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1018712,
+        "name": "Кресло игровое",
+        "current_price": 10990.0,
+        "previous_price": 11069.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe/",
+        "image_url": "/pics/goods/kreslo-igrovoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1018714,
+        "name": "Кресло для руководителя Бюрократ",
+        "current_price": 21338.0,
+        "previous_price": 23203.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kresla-rukovoditelya/kreslo-dlya-rukovoditelya-byurokrat/",
+        "image_url": "/pics/goods/kreslo-dlya-rukovoditelya-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1018715,
+        "name": "Игровое кресло ZOMBIE",
+        "current_price": 13790.0,
+        "previous_price": 13893.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/igrovoe-kreslo-zombie/",
+        "image_url": "/pics/goods/igrovoe-kreslo-zombie.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1019036,
+        "name": "К/Кресло Canyon",
+        "current_price": 20999.0,
+        "previous_price": 23049.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kkreslo-canyon/",
+        "image_url": "/pics/goods/kkreslo-canyon.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1019037,
+        "name": "Компьютерное кресло Canyon",
+        "current_price": 22999.0,
+        "previous_price": 25246.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-canyon/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-canyon.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1019338,
+        "name": "Игровое кресло College CLG-802 LXH",
+        "current_price": 17837.0,
+        "previous_price": 19225.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-college-clg-802-lxh/",
+        "image_url": "/pics/goods/igrovoe-kreslo-college-clg-802-lxh.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1019741,
+        "name": "Игровое кресло Brabix GT Racer GM-100",
+        "current_price": 16009.0,
+        "previous_price": 17563.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-brabix-gt-racer-gm-100/",
+        "image_url": "/pics/goods/igrovoe-kreslo-brabix-gt-racer-gm-100.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1020449,
+        "name": "Кресло игровое Aerocool",
+        "current_price": 26583.0,
+        "previous_price": 27590.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-igrovoe-aerocool/",
+        "image_url": "/pics/goods/kreslo-igrovoe-aerocool.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1020568,
+        "name": "Игровое кресло Brabix",
+        "current_price": 18677.0,
+        "previous_price": 20130.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-brabix/",
+        "image_url": "/pics/goods/igrovoe-kreslo-brabix.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1023350,
+        "name": "Кресло офисное BRABIX Rider EX-544, экокожа черная/ткань красная",
+        "current_price": 10026.0,
+        "previous_price": 10698.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-ofisnoe-brabix-rider-ex-544-ekokogha-chernayatkany-krasnaya/",
+        "image_url": "/pics/goods/kreslo-ofisnoe-brabix-rider-ex-544-ekokogha-chernayatkany-krasnaya.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1023393,
+        "name": "Компьютерное кресло A4 Tech",
+        "current_price": 10990.0,
+        "previous_price": 11070.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-a4-tech/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-a4-tech.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1023570,
+        "name": "Игровое кресло",
+        "current_price": 19990.0,
+        "previous_price": 20130.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo/",
+        "image_url": "/pics/goods/igrovoe-kreslo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1026323,
+        "name": "Игровое кресло A4Tech",
+        "current_price": 8100.0,
+        "previous_price": 8159.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/igrovoe-kreslo-a4tech/",
+        "image_url": "/pics/goods/igrovoe-kreslo-a4tech.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1026335,
+        "name": "Кресло геймерское",
+        "current_price": 20785.0,
+        "previous_price": 21980.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-geymerskoe/",
+        "image_url": "/pics/goods/kreslo-geymerskoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1026335,
+        "name": "Кресло геймерское",
+        "current_price": 20785.0,
+        "previous_price": 21980.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-geymerskoe/",
+        "image_url": "/pics/goods/kreslo-geymerskoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1026337,
+        "name": "Кресло геймерское Cougar",
+        "current_price": 41445.0,
+        "previous_price": 43836.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-geymerskoe-cougar/",
+        "image_url": "/pics/goods/kreslo-geymerskoe-cougar.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1028545,
+        "name": "Кресло компьютерное Меб фф",
+        "current_price": 9291.0,
+        "previous_price": 9454.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-meb-ff/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-meb-ff.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1029456,
+        "name": "Кресло игровое ZOMBIE Z4, черный/красный [viking zombie z4 red]",
+        "current_price": 21093.0,
+        "previous_price": 21886.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-z4-chernyykrasnyy-viking-zombie-z4-red/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-z4-chernyykrasnyy-viking-zombie-z4-red.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1029465,
+        "name": "Кресло игровое ZOMBIE RUNNER, черный/желтый [zombie runner yellow]",
+        "current_price": 9325.0,
+        "previous_price": 9861.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-runner-chernyygheltyy-zombie-runner-yellow/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-runner-chernyygheltyy-zombie-runner-yellow.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1029466,
+        "name": "Кресло игровое ZOMBIE RUNNER, черный/зеленый [zombie runner green]",
+        "current_price": 10050.0,
+        "previous_price": 10126.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-runner-chernyyzelenyy-zombie-runner-green/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-runner-chernyyzelenyy-zombie-runner-green.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1029476,
+        "name": "Кресло игровое ZOMBIE Z3, черный/зеленый [viking zombie z3 grn]",
+        "current_price": 10070.0,
+        "previous_price": 10147.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-z3-chernyyzelenyy-viking-zombie-z3-grn/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-z3-chernyyzelenyy-viking-zombie-z3-grn.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1029477,
+        "name": "Кресло игровое ZOMBIE VIKING 5 AERO, оранжевый/черный [viking 5 aero orange]",
+        "current_price": 20269.0,
+        "previous_price": 22249.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-viking-5-aero-oranghevyychernyy-viking-5-aero-orange/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-viking-5-aero-oranghevyychernyy-viking-5-aero-orange.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1029479,
+        "name": "Кресло руководителя БЮРОКРАТ CH-600SL, черный [ch-600sl/lux/black]",
+        "current_price": 10090.0,
+        "previous_price": 10170.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-byurokrat-ch-600sl-chernyy-ch-600slluxblack/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-byurokrat-ch-600sl-chernyy-ch-600slluxblack.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1029482,
+        "name": "Кресло БЮРОКРАТ",
+        "current_price": 7466.0,
+        "previous_price": 7968.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-byurokrat/",
+        "image_url": "/pics/goods/kreslo-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1029482,
+        "name": "Кресло БЮРОКРАТ",
+        "current_price": 7466.0,
+        "previous_price": 7968.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-byurokrat/",
+        "image_url": "/pics/goods/kreslo-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1029497,
+        "name": "Кресло игровое ZOMBIE DRIVER, черный/голубой [zombie driver lb]",
+        "current_price": 13189.0,
+        "previous_price": 14478.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-driver-chernyygoluboy-zombie-driver-lb/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-driver-chernyygoluboy-zombie-driver-lb.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1029503,
+        "name": "Кресло игровое ZOMBIE Viking-8, белый/черный [viking-8/wh+black]",
+        "current_price": 10255.0,
+        "previous_price": 10843.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-viking-8-belyychernyy-viking-8whblack/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-viking-8-belyychernyy-viking-8whblack.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1031920,
+        "name": "Кресло компьютерное на колесиках для школьника детское ортопедическое Tetchair",
+        "current_price": 9241.0,
+        "previous_price": 9398.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-kompyyuternoe-na-kolesikah-dlya-shkolynika-detskoe-ortopedicheskoe-tetchair/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-na-kolesikah-dlya-shkolynika-detskoe-ortopedicheskoe-tetchair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1033606,
+        "name": "Кресло игровое ZOMBIE",
+        "current_price": 21690.0,
+        "previous_price": 21855.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1039018,
+        "name": "Кресло игровое ZOMBIE 10",
+        "current_price": 8395.0,
+        "previous_price": 8880.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-10/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-10.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1039117,
+        "name": "Кресло Бюрократ CH-330M черный",
+        "current_price": 10570.0,
+        "previous_price": 10651.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-byurokrat-ch-330m-chernyy/",
+        "image_url": "/pics/goods/kreslo-byurokrat-ch-330m-chernyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1039128,
+        "name": "Кресло игровое Zombie GAME 17 черный/красный",
+        "current_price": 11390.0,
+        "previous_price": 11479.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-game-17-chernyykrasnyy/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-game-17-chernyykrasnyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1039842,
+        "name": "Стул офисный",
+        "current_price": 19000.0,
+        "previous_price": 19137.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/stul-ofisnyy/",
+        "image_url": "/pics/goods/stul-ofisnyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1039846,
+        "name": "Кресло офисное",
+        "current_price": 15807.0,
+        "previous_price": 17034.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-ofisnoe/",
+        "image_url": "/pics/goods/kreslo-ofisnoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1039846,
+        "name": "Кресло офисное",
+        "current_price": 15807.0,
+        "previous_price": 17034.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-ofisnoe/",
+        "image_url": "/pics/goods/kreslo-ofisnoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1044582,
+        "name": "Zombie Кресло для геймеров Zombie",
+        "current_price": 9173.0,
+        "previous_price": 9514.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/zombie-kreslo-dlya-geymerov-zombie/",
+        "image_url": "/pics/goods/zombie-kreslo-dlya-geymerov-zombie.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1044583,
+        "name": "Zombie Кресло для геймеров Zombie Zombie",
+        "current_price": 9173.0,
+        "previous_price": 9515.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/zombie-kreslo-dlya-geymerov-zombie-zombie/",
+        "image_url": "/pics/goods/zombie-kreslo-dlya-geymerov-zombie-zombie.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1044584,
+        "name": "Akracing Игровое Кресло AKRacing",
+        "current_price": 52990.0,
+        "previous_price": 53382.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/akracing-igrovoe-kreslo-akracing/",
+        "image_url": "/pics/goods/akracing-igrovoe-kreslo-akracing.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1044606,
+        "name": "Aerocool Кресло для геймеров Aerocool",
+        "current_price": 27533.0,
+        "previous_price": 28568.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/aerocool-kreslo-dlya-geymerov-aerocool/",
+        "image_url": "/pics/goods/aerocool-kreslo-dlya-geymerov-aerocool.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1046013,
+        "name": "Кресло игровое HIPER",
+        "current_price": 8446.0,
+        "previous_price": 9014.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-hiper/",
+        "image_url": "/pics/goods/kreslo-igrovoe-hiper.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1048603,
+        "name": "Easy Chair",
+        "current_price": 12574.0,
+        "previous_price": 13169.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/easy-chair/",
+        "image_url": "/pics/goods/easy-chair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1048686,
+        "name": "Кресло детское",
+        "current_price": 12900.0,
+        "previous_price": 12998.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/detskie-kompyyuternye-kresla/kreslo-detskoe/",
+        "image_url": "/pics/goods/kreslo-detskoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1049733,
+        "name": "Helmi",
+        "current_price": 10099.0,
+        "previous_price": 11082.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/helmi/",
+        "image_url": "/pics/goods/helmi.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1056354,
+        "name": "Кресло игровое компьютерное геймерское для пк Tetchair",
+        "current_price": 15172.0,
+        "previous_price": 15588.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-igrovoe-kompyyuternoe-geymerskoe-dlya-pk-tetchair/",
+        "image_url": "/pics/goods/kreslo-igrovoe-kompyyuternoe-geymerskoe-dlya-pk-tetchair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1056361,
+        "name": "Кресло компьютерное Everprof",
+        "current_price": 11622.0,
+        "previous_price": 11937.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-kompyyuternoe-everprof/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1056504,
+        "name": "Zombie",
+        "current_price": 9340.0,
+        "previous_price": 9409.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/zombie/",
+        "image_url": "/pics/goods/zombie.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1056643,
+        "name": "Кресло для персонала Norden",
+        "current_price": 28290.0,
+        "previous_price": 28497.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-dlya-personala-norden/",
+        "image_url": "/pics/goods/kreslo-dlya-personala-norden.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1056645,
+        "name": "Кресло игровое Cooler Master",
+        "current_price": 31129.0,
+        "previous_price": 34164.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-cooler-master/",
+        "image_url": "/pics/goods/kreslo-igrovoe-cooler-master.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1056663,
+        "name": "Кресло офисное Norden",
+        "current_price": 28900.0,
+        "previous_price": 29111.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-ofisnoe-norden/",
+        "image_url": "/pics/goods/kreslo-ofisnoe-norden.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1069892,
+        "name": "Кресло геймерское Everprof",
+        "current_price": 16190.0,
+        "previous_price": 16307.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-geymerskoe-everprof/",
+        "image_url": "/pics/goods/kreslo-geymerskoe-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1072171,
+        "name": "Кресло офисное Бюрократ",
+        "current_price": 7290.0,
+        "previous_price": 7342.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-ofisnoe-byurokrat/",
+        "image_url": "/pics/goods/kreslo-ofisnoe-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1072506,
+        "name": "Кресло для геймеров Zombie",
+        "current_price": 9384.0,
+        "previous_price": 9831.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-dlya-geymerov-zombie/",
+        "image_url": "/pics/goods/kreslo-dlya-geymerov-zombie.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1074705,
+        "name": "Офисное кресло или стул Кресло руководителя Бюрократ T-898/3C11BL черный 3C11",
+        "current_price": 8938.0,
+        "previous_price": 9720.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnoe-kreslo-ili-stul-kreslo-rukovoditelya-byurokrat-t-8983c11bl-chernyy-3c11/",
+        "image_url": "/pics/goods/ofisnoe-kreslo-ili-stul-kreslo-rukovoditelya-byurokrat-t-8983c11bl-chernyy-3c11.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1074719,
+        "name": "Офисные кресла Офисное кресло Chairman game 16 Россия экопремиум черный/желтый (",
+        "current_price": 12832.0,
+        "previous_price": 13190.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla-ofisnoe-kreslo-chairman-game-16-rossiya-ekopremium-chernyygheltyy/",
+        "image_url": "/pics/goods/ofisnye-kresla-ofisnoe-kreslo-chairman-game-16-rossiya-ekopremium-chernyygheltyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1074883,
+        "name": "Akracing Кресло компьютерное игровое Akracing Gaming Chair черно-синий",
+        "current_price": 33840.0,
+        "previous_price": 34087.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/akracing-kreslo-kompyyuternoe-igrovoe-akracing-gaming-chair-cherno-siniy/",
+        "image_url": "/pics/goods/akracing-kreslo-kompyyuternoe-igrovoe-akracing-gaming-chair-cherno-siniy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1074886,
+        "name": "Akracing Кресло для геймеров Akracing K7012 чёрный красный",
+        "current_price": 36990.0,
+        "previous_price": 37271.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/akracing-kreslo-dlya-geymerov-akracing-k7012-chernyy-krasnyy/",
+        "image_url": "/pics/goods/akracing-kreslo-dlya-geymerov-akracing-k7012-chernyy-krasnyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1074894,
+        "name": "Бюрократ Кресло руководителя Бюрократ",
+        "current_price": 32067.0,
+        "previous_price": 34549.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kresla-rukovoditelya/byurokrat-kreslo-rukovoditelya-byurokrat/",
+        "image_url": "/pics/goods/byurokrat-kreslo-rukovoditelya-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1074966,
+        "name": "Компьютерное кресло Мебельные решения",
+        "current_price": 7818.0,
+        "previous_price": 8503.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-mebelynye-resheniya/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-mebelynye-resheniya.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1074987,
+        "name": "Кресло Everprof Relax (",
+        "current_price": 88692.0,
+        "previous_price": 91149.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-everprof-relax/",
+        "image_url": "/pics/goods/kreslo-everprof-relax.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1080496,
+        "name": "Кресло компьютерое",
+        "current_price": 3900.0,
+        "previous_price": 3930.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuteroe/",
+        "image_url": "/pics/goods/kreslo-kompyyuteroe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1080500,
+        "name": "Tetchair Zero",
+        "current_price": 8992.0,
+        "previous_price": 9235.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/tetchair-zero/",
+        "image_url": "/pics/goods/tetchair-zero.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1080511,
+        "name": "Samurai",
+        "current_price": 33981.0,
+        "previous_price": 34562.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/samurai/",
+        "image_url": "/pics/goods/samurai.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1085103,
+        "name": "Кресло для геймеров Aerocool",
+        "current_price": 29336.0,
+        "previous_price": 31310.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-dlya-geymerov-aerocool/",
+        "image_url": "/pics/goods/kreslo-dlya-geymerov-aerocool.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1090362,
+        "name": "Кресло игровое Helmi HL-S02 Virage, экокожа/ткань черная (арт.",
+        "current_price": 9933.0,
+        "previous_price": 10303.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-helmi-hl-s02-virage-ekokoghatkany-chernaya-art/",
+        "image_url": "/pics/goods/kreslo-igrovoe-helmi-hl-s02-virage-ekokoghatkany-chernaya-art.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1090363,
+        "name": "Кресло игровое Helmi HL-S07 Boost, экокожа/ткань черная/синяя (арт.",
+        "current_price": 9961.0,
+        "previous_price": 10133.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-helmi-hl-s07-boost-ekokoghatkany-chernayasinyaya-art/",
+        "image_url": "/pics/goods/kreslo-igrovoe-helmi-hl-s07-boost-ekokoghatkany-chernayasinyaya-art.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1090367,
+        "name": "Кресло руководителя Helmi HL-E08 Receipt, экокожа коричневая (арт.",
+        "current_price": 11837.0,
+        "previous_price": 12757.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-helmi-hl-e08-receipt-ekokogha-korichnevaya-art/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-helmi-hl-e08-receipt-ekokogha-korichnevaya-art.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1090369,
+        "name": "Кресло руководителя Helmi HL-E09 Capital, экокожа коричневая (арт.",
+        "current_price": 14649.0,
+        "previous_price": 16083.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-helmi-hl-e09-capital-ekokogha-korichnevaya-art/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-helmi-hl-e09-capital-ekokogha-korichnevaya-art.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1098550,
+        "name": "Кресло ЯрКресло",
+        "current_price": 8152.0,
+        "previous_price": 8372.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-yarkreslo/",
+        "image_url": "/pics/goods/kreslo-yarkreslo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1099793,
+        "name": "Бюрократ Кресло детское Бюрократ",
+        "current_price": 6960.0,
+        "previous_price": 7011.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/byurokrat-kreslo-detskoe-byurokrat/",
+        "image_url": "/pics/goods/byurokrat-kreslo-detskoe-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1113887,
+        "name": "Компьютерное кресло Karnox",
+        "current_price": 32990.0,
+        "previous_price": 33244.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-karnox/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-karnox.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1113888,
+        "name": "Кресло игровое GT Chair",
+        "current_price": 21990.0,
+        "previous_price": 22162.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-gt-chair/",
+        "image_url": "/pics/goods/kreslo-igrovoe-gt-chair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1113891,
+        "name": "Кресло Aerocool",
+        "current_price": 29286.0,
+        "previous_price": 31251.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-aerocool/",
+        "image_url": "/pics/goods/kreslo-aerocool.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1113895,
+        "name": "Игровое компьютерное кресло",
+        "current_price": 62990.0,
+        "previous_price": 63462.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kompyyuternoe-kreslo/",
+        "image_url": "/pics/goods/igrovoe-kompyyuternoe-kreslo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1113898,
+        "name": "Эргономичное офисное кресло Falto",
+        "current_price": 51550.0,
+        "previous_price": 51952.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/ergonomichnoe-ofisnoe-kreslo-falto/",
+        "image_url": "/pics/goods/ergonomichnoe-ofisnoe-kreslo-falto.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1113906,
+        "name": "Компьютерное кресло Woodville",
+        "current_price": 7460.0,
+        "previous_price": 7517.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-woodville/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-woodville.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1113906,
+        "name": "Компьютерное кресло Woodville",
+        "current_price": 7460.0,
+        "previous_price": 7517.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-woodville/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-woodville.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1114419,
+        "name": "Кресло игровое College",
+        "current_price": 22790.0,
+        "previous_price": 22970.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-college/",
+        "image_url": "/pics/goods/kreslo-igrovoe-college.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1114421,
+        "name": "Кресло компьютерное TetChair",
+        "current_price": 5970.0,
+        "previous_price": 6012.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-kompyyuternoe-tetchair/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-tetchair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1114422,
+        "name": "Кресло компьютерное CHAIRMAN",
+        "current_price": 9764.0,
+        "previous_price": 10225.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-chairman/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-chairman.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1114423,
+        "name": "Кресло компьютерное College",
+        "current_price": 15238.0,
+        "previous_price": 16568.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-college/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-college.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1114424,
+        "name": "Кресло компьютерное Samurai",
+        "current_price": 44912.0,
+        "previous_price": 46143.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-kompyyuternoe-samurai/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-samurai.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1115754,
+        "name": "Кресло игровое Hiper Strong",
+        "current_price": 12865.0,
+        "previous_price": 13603.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-hiper-strong/",
+        "image_url": "/pics/goods/kreslo-igrovoe-hiper-strong.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1115756,
+        "name": "Кресло игровое Hiper Energy",
+        "current_price": 12865.0,
+        "previous_price": 13606.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-hiper-energy/",
+        "image_url": "/pics/goods/kreslo-igrovoe-hiper-energy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1115757,
+        "name": "Кресло игровое Hiper Lumen",
+        "current_price": 17419.0,
+        "previous_price": 19121.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-hiper-lumen/",
+        "image_url": "/pics/goods/kreslo-igrovoe-hiper-lumen.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1115869,
+        "name": "Кресло руководителя Метта",
+        "current_price": 34942.0,
+        "previous_price": 35917.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-rukovoditelya-metta/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-metta.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1119384,
+        "name": "Кресло игровое Defender",
+        "current_price": 13950.0,
+        "previous_price": 14053.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-defender/",
+        "image_url": "/pics/goods/kreslo-igrovoe-defender.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1121123,
+        "name": "Премиум игровое кресло KARNOX",
+        "current_price": 38670.0,
+        "previous_price": 38952.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/premium-igrovoe-kreslo-karnox/",
+        "image_url": "/pics/goods/premium-igrovoe-kreslo-karnox.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1121124,
+        "name": "Компьютерное",
+        "current_price": 7455.0,
+        "previous_price": 7883.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe/",
+        "image_url": "/pics/goods/kompyyuternoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1139082,
+        "name": "Кресло игровое Cougar",
+        "current_price": 23999.0,
+        "previous_price": 26332.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-cougar/",
+        "image_url": "/pics/goods/kreslo-igrovoe-cougar.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1139670,
+        "name": "Кресло руководителя Helmi HL-E79",
+        "current_price": 16565.0,
+        "previous_price": 17509.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-helmi-hl-e79/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-helmi-hl-e79.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1139672,
+        "name": "Кресло руководителя Helmi",
+        "current_price": 12698.0,
+        "previous_price": 13805.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-helmi/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-helmi.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1139674,
+        "name": "Кресло игровое Zombie Viking-8 черный искусственная кожа",
+        "current_price": 6800.0,
+        "previous_price": 6850.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-viking-8-chernyy-iskusstvennaya-kogha/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-viking-8-chernyy-iskusstvennaya-kogha.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1139865,
+        "name": "Кресло руководителя Brabix",
+        "current_price": 14061.0,
+        "previous_price": 14307.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-brabix/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-brabix.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1139936,
+        "name": "Кресло игровое BRABIX",
+        "current_price": 11141.0,
+        "previous_price": 11337.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-brabix/",
+        "image_url": "/pics/goods/kreslo-igrovoe-brabix.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1140121,
+        "name": "Кресло игровое GameLab",
+        "current_price": 6999.0,
+        "previous_price": 7679.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-gamelab/",
+        "image_url": "/pics/goods/kreslo-igrovoe-gamelab.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1140123,
+        "name": "Кресло игровое Метта",
+        "current_price": 19244.0,
+        "previous_price": 20154.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-metta/",
+        "image_url": "/pics/goods/kreslo-igrovoe-metta.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1140614,
+        "name": "Кресло руководителя Stool Group TopChairs",
+        "current_price": 21150.0,
+        "previous_price": 21307.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-stool-group-topchairs/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-stool-group-topchairs.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1140616,
+        "name": "Кресло руководителя Stool Group",
+        "current_price": 17380.0,
+        "previous_price": 17512.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-stool-group/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-stool-group.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1143242,
+        "name": "Кресло МЕТТА",
+        "current_price": 38902.0,
+        "previous_price": 39960.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-metta/",
+        "image_url": "/pics/goods/kreslo-metta.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1143242,
+        "name": "Кресло МЕТТА",
+        "current_price": 38902.0,
+        "previous_price": 39960.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-metta/",
+        "image_url": "/pics/goods/kreslo-metta.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1143824,
+        "name": "Стул Everprof",
+        "current_price": 8190.0,
+        "previous_price": 8251.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stulyya/stulyya-dlya-kuhni/stul-everprof/",
+        "image_url": "/pics/goods/stul-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1149905,
+        "name": "Игровое кресло Arozzi Vernazza Soft Fabric Ash",
+        "current_price": 79620.0,
+        "previous_price": 80217.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-arozzi-vernazza-soft-fabric-ash/",
+        "image_url": "/pics/goods/igrovoe-kreslo-arozzi-vernazza-soft-fabric-ash.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1149906,
+        "name": "Игровое кресло Arozzi Vernazza Soft Fabric Blue",
+        "current_price": 75049.0,
+        "previous_price": 82374.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-arozzi-vernazza-soft-fabric-blue/",
+        "image_url": "/pics/goods/igrovoe-kreslo-arozzi-vernazza-soft-fabric-blue.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1149908,
+        "name": "Игровое кресло Arozzi Vernazza Soft Fabric Light Grey",
+        "current_price": 77660.0,
+        "previous_price": 78266.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-arozzi-vernazza-soft-fabric-light-grey/",
+        "image_url": "/pics/goods/igrovoe-kreslo-arozzi-vernazza-soft-fabric-light-grey.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1150193,
+        "name": "Игровое кресло VMM GAMING THRONE WHITE",
+        "current_price": 25339.0,
+        "previous_price": 27804.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-vmm-gaming-throne-white/",
+        "image_url": "/pics/goods/igrovoe-kreslo-vmm-gaming-throne-white.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1150731,
+        "name": "Игровое кресло Cougar Throne",
+        "current_price": 75280.0,
+        "previous_price": 75814.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-cougar-throne/",
+        "image_url": "/pics/goods/igrovoe-kreslo-cougar-throne.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1150732,
+        "name": "Игровое кресло Cougar Titan",
+        "current_price": 76740.0,
+        "previous_price": 77293.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-cougar-titan/",
+        "image_url": "/pics/goods/igrovoe-kreslo-cougar-titan.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1152939,
+        "name": "Кресло игровое A4",
+        "current_price": 18627.0,
+        "previous_price": 20078.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-a4/",
+        "image_url": "/pics/goods/kreslo-igrovoe-a4.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1161634,
+        "name": "Игровое кресло Бюрократ",
+        "current_price": 9441.0,
+        "previous_price": 9605.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-byurokrat/",
+        "image_url": "/pics/goods/igrovoe-kreslo-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1166912,
+        "name": "Игровое кресло Бюрократ Zombie",
+        "current_price": 11062.0,
+        "previous_price": 11363.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-byurokrat-zombie/",
+        "image_url": "/pics/goods/igrovoe-kreslo-byurokrat-zombie.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1172692,
+        "name": "Кресло игровое EL33T",
+        "current_price": 27690.0,
+        "previous_price": 27889.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-el33t/",
+        "image_url": "/pics/goods/kreslo-igrovoe-el33t.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1173077,
+        "name": "Компьютерное кресло TetChair",
+        "current_price": 7695.0,
+        "previous_price": 8139.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-tetchair/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-tetchair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1173077,
+        "name": "Компьютерное кресло TetChair",
+        "current_price": 7695.0,
+        "previous_price": 8139.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-tetchair/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-tetchair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1174566,
+        "name": "Кресло игровое Knight",
+        "current_price": 22967.0,
+        "previous_price": 24749.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-knight/",
+        "image_url": "/pics/goods/kreslo-igrovoe-knight.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1178350,
+        "name": "Компьютерное кресло Стандарт",
+        "current_price": 7900.0,
+        "previous_price": 7955.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-standart/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-standart.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1181421,
+        "name": "Кресло детское Бюрократ",
+        "current_price": 6831.0,
+        "previous_price": 6948.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/detskie-kompyyuternye-kresla/kreslo-detskoe-byurokrat/",
+        "image_url": "/pics/goods/kreslo-detskoe-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1182628,
+        "name": "Кресло игровое, Бюрократ",
+        "current_price": 10390.0,
+        "previous_price": 10471.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-byurokrat/",
+        "image_url": "/pics/goods/kreslo-igrovoe-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1183402,
+        "name": "Игровое компьютерное кресло VMMGAME",
+        "current_price": 20990.0,
+        "previous_price": 21141.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kompyyuternoe-kreslo-vmmgame/",
+        "image_url": "/pics/goods/igrovoe-kompyyuternoe-kreslo-vmmgame.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1183402,
+        "name": "Игровое компьютерное кресло VMMGAME",
+        "current_price": 20990.0,
+        "previous_price": 21141.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kompyyuternoe-kreslo-vmmgame/",
+        "image_url": "/pics/goods/igrovoe-kompyyuternoe-kreslo-vmmgame.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1183894,
+        "name": "Игровое компьютерное кресло CHAIRMAN",
+        "current_price": 10190.0,
+        "previous_price": 10265.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kompyyuternoe-kreslo-chairman/",
+        "image_url": "/pics/goods/igrovoe-kompyyuternoe-kreslo-chairman.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1186413,
+        "name": "Кресло игровое Cactus",
+        "current_price": 20167.0,
+        "previous_price": 21726.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-cactus/",
+        "image_url": "/pics/goods/kreslo-igrovoe-cactus.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1186414,
+        "name": "Кресло игровое с подголовником Cactus",
+        "current_price": 23308.0,
+        "previous_price": 25345.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-s-podgolovnikom-cactus/",
+        "image_url": "/pics/goods/kreslo-igrovoe-s-podgolovnikom-cactus.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1192266,
+        "name": "Кресло компьютерное игровое Cougar",
+        "current_price": 26674.0,
+        "previous_price": 27944.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-cougar/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-cougar.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1192840,
+        "name": "Игровое кресло Меб-фф",
+        "current_price": 28615.0,
+        "previous_price": 30246.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-meb-ff/",
+        "image_url": "/pics/goods/igrovoe-kreslo-meb-ff.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1197203,
+        "name": "Офисное кресло DEFENDER",
+        "current_price": 5122.0,
+        "previous_price": 5262.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnoe-kreslo-defender/",
+        "image_url": "/pics/goods/ofisnoe-kreslo-defender.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1198115,
+        "name": "Игровое кресло DEFENDER",
+        "current_price": 30718.0,
+        "previous_price": 33406.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-defender/",
+        "image_url": "/pics/goods/igrovoe-kreslo-defender.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1198999,
+        "name": "Кресло игровое компьютерное Бюрократ Zombie",
+        "current_price": 12990.0,
+        "previous_price": 13093.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-kompyyuternoe-byurokrat-zombie/",
+        "image_url": "/pics/goods/kreslo-igrovoe-kompyyuternoe-byurokrat-zombie.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1199788,
+        "name": "Кресло DxRacer",
+        "current_price": 52990.0,
+        "previous_price": 53403.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-dxracer/",
+        "image_url": "/pics/goods/kreslo-dxracer.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1200891,
+        "name": "Кресло компьютерное массажное ZONE 51",
+        "current_price": 33990.0,
+        "previous_price": 34231.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-massaghnoe-zone-51/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-massaghnoe-zone-51.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1202657,
+        "name": "Кресло компьютерное Chairman 406 N",
+        "current_price": 38942.0,
+        "previous_price": 40021.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-kompyyuternoe-chairman-406-n/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-chairman-406-n.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1203289,
+        "name": "Кресло компьютерное офисное Mega Мебель",
+        "current_price": 18800.0,
+        "previous_price": 18949.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-kompyyuternoe-ofisnoe-mega-mebely/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-ofisnoe-mega-mebely.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1203364,
+        "name": "Кресло компьютерное игровое ZONE 51 Cyberpunk",
+        "current_price": 38446.0,
+        "previous_price": 41037.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-zone-51-cyberpunk/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-zone-51-cyberpunk.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1204033,
+        "name": "Кресло Stool Group для посетителей TopChairs",
+        "current_price": 20890.0,
+        "previous_price": 21042.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kreslo-stool-group-dlya-posetiteley-topchairs/",
+        "image_url": "/pics/goods/kreslo-stool-group-dlya-posetiteley-topchairs.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1204672,
+        "name": "Кресло компьютерное игровое GAMELAB",
+        "current_price": 17320.0,
+        "previous_price": 17445.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-gamelab/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-gamelab.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1205045,
+        "name": "Игровое кресло Gamerzen",
+        "current_price": 15445.0,
+        "previous_price": 16333.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-gamerzen/",
+        "image_url": "/pics/goods/igrovoe-kreslo-gamerzen.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1206023,
+        "name": "Кресло руководителя Mega Мебель",
+        "current_price": 11950.0,
+        "previous_price": 12037.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-mega-mebely/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-mega-mebely.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1206025,
+        "name": "Кресло офисное Mega Мебель",
+        "current_price": 13450.0,
+        "previous_price": 13551.0,
+        "url": "https://x-catalog.ru/mebel/mebely-po-pomescheniyam/mebely-dlya-ofisa-i-kabineta/ofisnye-kresla-i-stulyya/kresla-dlya-konferenc-zalov/kreslo-ofisnoe-mega-mebely/",
+        "image_url": "/pics/goods/kreslo-ofisnoe-mega-mebely.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1206243,
+        "name": "Кресло компьютерное игровое ZONE 51",
+        "current_price": 59240.0,
+        "previous_price": 59672.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-zone-51/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-zone-51.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1206247,
+        "name": "Кресло офисное CHAIRMAN",
+        "current_price": 32114.0,
+        "previous_price": 33646.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-ofisnoe-chairman/",
+        "image_url": "/pics/goods/kreslo-ofisnoe-chairman.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1206755,
+        "name": "Игровое кресло Xigmatek",
+        "current_price": 18240.0,
+        "previous_price": 18377.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-xigmatek/",
+        "image_url": "/pics/goods/igrovoe-kreslo-xigmatek.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1208139,
+        "name": "Кресло офисное Chairman 590",
+        "current_price": 15568.0,
+        "previous_price": 16936.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-ofisnoe-chairman-590/",
+        "image_url": "/pics/goods/kreslo-ofisnoe-chairman-590.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1210554,
+        "name": "Кресло компьютерное детское Бюрократ",
+        "current_price": 8790.0,
+        "previous_price": 8855.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-detskoe-byurokrat/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-detskoe-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1210838,
+        "name": "Компьютерное кресло Falto",
+        "current_price": 62350.0,
+        "previous_price": 62836.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnye-kresla/kompyyuternoe-kreslo-falto/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-falto.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1210898,
+        "name": "Кресло компьютерное игровое ThunderX3",
+        "current_price": 45990.0,
+        "previous_price": 46349.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-thunderx3/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-thunderx3.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1210898,
+        "name": "Кресло компьютерное игровое ThunderX3",
+        "current_price": 45990.0,
+        "previous_price": 46349.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-thunderx3/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-thunderx3.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1211178,
+        "name": "Компьютерное кресло серия",
+        "current_price": 41600.0,
+        "previous_price": 41924.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-seriya/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-seriya.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1211346,
+        "name": "Кресло оператора Helmi",
+        "current_price": 12886.0,
+        "previous_price": 13757.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-operatora-helmi/",
+        "image_url": "/pics/goods/kreslo-operatora-helmi.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1211442,
+        "name": "Детское кресло",
+        "current_price": 41990.0,
+        "previous_price": 42292.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/detskoe-kreslo/",
+        "image_url": "/pics/goods/detskoe-kreslo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1211453,
+        "name": "Кресло для офиса",
+        "current_price": 67470.0,
+        "previous_price": 67963.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-dlya-ofisa/",
+        "image_url": "/pics/goods/kreslo-dlya-ofisa.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1211867,
+        "name": "Кресло компьютерное руководителя Бюрократ",
+        "current_price": 19460.0,
+        "previous_price": 19610.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-rukovoditelya-byurokrat/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-rukovoditelya-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1212041,
+        "name": "Кресло геймерское Arozzi",
+        "current_price": 111910.0,
+        "previous_price": 112705.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-geymerskoe-arozzi/",
+        "image_url": "/pics/goods/kreslo-geymerskoe-arozzi.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1213775,
+        "name": "Кресло для геймера GameMax",
+        "current_price": 14730.0,
+        "previous_price": 14840.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-dlya-geymera-gamemax/",
+        "image_url": "/pics/goods/kreslo-dlya-geymera-gamemax.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1216403,
+        "name": "Кресло игровое Zombie Defender",
+        "current_price": 14790.0,
+        "previous_price": 14898.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-defender/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-defender.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1216658,
+        "name": "Игровое кресло Classmark",
+        "current_price": 7888.0,
+        "previous_price": 8581.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-classmark/",
+        "image_url": "/pics/goods/igrovoe-kreslo-classmark.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1216980,
+        "name": "Стул офисный Stool Group",
+        "current_price": 12990.0,
+        "previous_price": 13081.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/stul-ofisnyy-stool-group/",
+        "image_url": "/pics/goods/stul-ofisnyy-stool-group.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1217380,
+        "name": "Ортопедическое офисное кресло Falto",
+        "current_price": 96050.0,
+        "previous_price": 96722.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ortopedicheskoe-ofisnoe-kreslo-falto/",
+        "image_url": "/pics/goods/ortopedicheskoe-ofisnoe-kreslo-falto.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1217482,
+        "name": "Кресло эргономичное Schairs",
+        "current_price": 65130.0,
+        "previous_price": 65599.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-ergonomichnoe-schairs/",
+        "image_url": "/pics/goods/kreslo-ergonomichnoe-schairs.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1217489,
+        "name": "Кресло ортопедическое Duorest",
+        "current_price": 77740.0,
+        "previous_price": 78354.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-ortopedicheskoe-duorest/",
+        "image_url": "/pics/goods/kreslo-ortopedicheskoe-duorest.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1217616,
+        "name": "Кресло детское ортопедическое Duorest",
+        "current_price": 47190.0,
+        "previous_price": 47549.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-detskoe-ortopedicheskoe-duorest/",
+        "image_url": "/pics/goods/kreslo-detskoe-ortopedicheskoe-duorest.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1219226,
+        "name": "Офисное кресло Norden",
+        "current_price": 17000.0,
+        "previous_price": 17129.0,
+        "url": "https://x-catalog.ru/mebel/mebely-po-pomescheniyam/mebely-dlya-ofisa-i-kabineta/ofisnye-kresla-i-stulyya/kresla-dlya-konferenc-zalov/ofisnoe-kreslo-norden/",
+        "image_url": "/pics/goods/ofisnoe-kreslo-norden.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1219259,
+        "name": "Кресло для руководителя Norden",
+        "current_price": 71190.0,
+        "previous_price": 71752.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-dlya-rukovoditelya-norden/",
+        "image_url": "/pics/goods/kreslo-dlya-rukovoditelya-norden.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1219522,
+        "name": "Кресло оператора",
+        "current_price": 7104.0,
+        "previous_price": 7439.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-operatora/",
+        "image_url": "/pics/goods/kreslo-operatora.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1220501,
+        "name": "Кресло компьютерное CLASSMARK",
+        "current_price": 2954.0,
+        "previous_price": 3093.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-classmark/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-classmark.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1220731,
+        "name": "Компьютерное кресло DXRacer",
+        "current_price": 38379.0,
+        "previous_price": 42106.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-dxracer/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-dxracer.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1221716,
+        "name": "Стул на колесах Comf-ORT Luca+",
+        "current_price": 9290.0,
+        "previous_price": 9361.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/stul-na-kolesah-comf-ort-luca/",
+        "image_url": "/pics/goods/stul-na-kolesah-comf-ort-luca.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1221717,
+        "name": "Комплект пяточных петель для профиля TECE Format Interior",
+        "current_price": 9290.0,
+        "previous_price": 9362.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/komplekt-pyatochnyh-petely-dlya-profilya-tece-format-interior/",
+        "image_url": "/pics/goods/komplekt-pyatochnyh-petely-dlya-profilya-tece-format-interior.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1221775,
+        "name": "Фреза алмазная Elsilber DGS-W 125/22.23",
+        "current_price": 8680.0,
+        "previous_price": 8745.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/freza-almaznaya-elsilber-dgs-w-1252223/",
+        "image_url": "/pics/goods/freza-almaznaya-elsilber-dgs-w-1252223.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1221778,
+        "name": "Маховик KAISER",
+        "current_price": 9910.0,
+        "previous_price": 9987.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/mahovik-kaiser/",
+        "image_url": "/pics/goods/mahovik-kaiser.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1221782,
+        "name": "Крепление для подвесного унитаза AV Engineering",
+        "current_price": 9910.0,
+        "previous_price": 9981.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreplenie-dlya-podvesnogo-unitaza-av-engineering/",
+        "image_url": "/pics/goods/kreplenie-dlya-podvesnogo-unitaza-av-engineering.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1221965,
+        "name": "Видеодомофон для квартиры",
+        "current_price": 9910.0,
+        "previous_price": 9984.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/videodomofon-dlya-kvartiry/",
+        "image_url": "/pics/goods/videodomofon-dlya-kvartiry.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1222090,
+        "name": "Кресло Falto",
+        "current_price": 80300.0,
+        "previous_price": 80862.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-falto/",
+        "image_url": "/pics/goods/kreslo-falto.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1223429,
+        "name": "Компьютерное кресло Domtwo",
+        "current_price": 17000.0,
+        "previous_price": 17134.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-domtwo/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-domtwo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1224927,
+        "name": "Кресло игровое GMNG",
+        "current_price": 59810.0,
+        "previous_price": 60271.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-gmng/",
+        "image_url": "/pics/goods/kreslo-igrovoe-gmng.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1225225,
+        "name": "Анатомическое кресло для работы за компьютером Synif",
+        "current_price": 32000.0,
+        "previous_price": 32240.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/anatomicheskoe-kreslo-dlya-raboty-za-kompyyuterom-synif/",
+        "image_url": "/pics/goods/anatomicheskoe-kreslo-dlya-raboty-za-kompyyuterom-synif.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1225495,
+        "name": "Кресло для персонала Everprof",
+        "current_price": 10454.0,
+        "previous_price": 10951.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-dlya-personala-everprof/",
+        "image_url": "/pics/goods/kreslo-dlya-personala-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1225504,
+        "name": "Кресло эргономичное Everprof",
+        "current_price": 20690.0,
+        "previous_price": 20843.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-ergonomichnoe-everprof/",
+        "image_url": "/pics/goods/kreslo-ergonomichnoe-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1225507,
+        "name": "Эргономичное кресло Everprof",
+        "current_price": 21420.0,
+        "previous_price": 21585.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ergonomichnoe-kreslo-everprof/",
+        "image_url": "/pics/goods/ergonomichnoe-kreslo-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1227451,
+        "name": "Кресло компьютерное игровое ZONE 51 GRAVITY",
+        "current_price": 19999.0,
+        "previous_price": 21941.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-zone-51-gravity/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-zone-51-gravity.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1227467,
+        "name": "Геймерское кресло Everprof",
+        "current_price": 42000.0,
+        "previous_price": 42323.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/geymerskoe-kreslo-everprof/",
+        "image_url": "/pics/goods/geymerskoe-kreslo-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1228488,
+        "name": "Кресло Chairman",
+        "current_price": 16749.0,
+        "previous_price": 18387.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-chairman/",
+        "image_url": "/pics/goods/kreslo-chairman.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229310,
+        "name": "Компьютерное офисное кресло на колесиках Gemlux",
+        "current_price": 4895.0,
+        "previous_price": 5174.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-ofisnoe-kreslo-na-kolesikah-gemlux/",
+        "image_url": "/pics/goods/kompyyuternoe-ofisnoe-kreslo-na-kolesikah-gemlux.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229473,
+        "name": "Игровое компьютерное кресло GameLab",
+        "current_price": 17250.0,
+        "previous_price": 17376.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kompyyuternoe-kreslo-gamelab/",
+        "image_url": "/pics/goods/igrovoe-kompyyuternoe-kreslo-gamelab.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229494,
+        "name": "Игровое компьютерное кресло Emperor camp",
+        "current_price": 13990.0,
+        "previous_price": 14094.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kompyyuternoe-kreslo-emperor-camp/",
+        "image_url": "/pics/goods/igrovoe-kompyyuternoe-kreslo-emperor-camp.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229772,
+        "name": "Кресло для руководителя Pointex",
+        "current_price": 39648.0,
+        "previous_price": 43105.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-dlya-rukovoditelya-pointex/",
+        "image_url": "/pics/goods/kreslo-dlya-rukovoditelya-pointex.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1229987,
+        "name": "Офисное кресло Империя Стульев",
+        "current_price": 17878.0,
+        "previous_price": 19446.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnoe-kreslo-imperiya-stulyev/",
+        "image_url": "/pics/goods/ofisnoe-kreslo-imperiya-stulyev.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1230050,
+        "name": "Компьютерное кресло для взрослых",
+        "current_price": 41990.0,
+        "previous_price": 42284.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-dlya-vzroslyh/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-dlya-vzroslyh.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1230116,
+        "name": "Операторское кресло Everprof",
+        "current_price": 6164.0,
+        "previous_price": 6457.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/operatorskoe-kreslo-everprof/",
+        "image_url": "/pics/goods/operatorskoe-kreslo-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1230229,
+        "name": "Кресло для персонала Norden Tema",
+        "current_price": 14280.0,
+        "previous_price": 14393.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-dlya-personala-norden-tema/",
+        "image_url": "/pics/goods/kreslo-dlya-personala-norden-tema.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231181,
+        "name": "Компьютерное офисное кресло Gemlux",
+        "current_price": 4895.0,
+        "previous_price": 5175.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-ofisnoe-kreslo-gemlux/",
+        "image_url": "/pics/goods/kompyyuternoe-ofisnoe-kreslo-gemlux.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231364,
+        "name": "Кресло руководителя Империя стульев",
+        "current_price": 15518.0,
+        "previous_price": 16874.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-imperiya-stulyev/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-imperiya-stulyev.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1231546,
+        "name": "Кресло игровое Anda Seat",
+        "current_price": 48139.0,
+        "previous_price": 52837.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-anda-seat/",
+        "image_url": "/pics/goods/kreslo-igrovoe-anda-seat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1232475,
+        "name": "Ортопедическое детское кресло Everprof",
+        "current_price": 13770.0,
+        "previous_price": 13873.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ortopedicheskoe-detskoe-kreslo-everprof/",
+        "image_url": "/pics/goods/ortopedicheskoe-detskoe-kreslo-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1232530,
+        "name": "Кресло детское ортопедическое Everprof",
+        "current_price": 11853.0,
+        "previous_price": 12292.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-detskoe-ortopedicheskoe-everprof/",
+        "image_url": "/pics/goods/kreslo-detskoe-ortopedicheskoe-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1232892,
+        "name": "Компьютерное офисное кресло с массажем Креслов",
+        "current_price": 17490.0,
+        "previous_price": 17616.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-ofisnoe-kreslo-s-massaghem-kreslov/",
+        "image_url": "/pics/goods/kompyyuternoe-ofisnoe-kreslo-s-massaghem-kreslov.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1233088,
+        "name": "Компьютерное офисное мягкое кресло Креслов",
+        "current_price": 17490.0,
+        "previous_price": 17626.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-ofisnoe-myagkoe-kreslo-kreslov/",
+        "image_url": "/pics/goods/kompyyuternoe-ofisnoe-myagkoe-kreslo-kreslov.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1233090,
+        "name": "Компьютерное офисное кресло с массажем",
+        "current_price": 16990.0,
+        "previous_price": 17109.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-ofisnoe-kreslo-s-massaghem/",
+        "image_url": "/pics/goods/kompyyuternoe-ofisnoe-kreslo-s-massaghem.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1233091,
+        "name": "Компьютерное офисное кресло Креслов",
+        "current_price": 17490.0,
+        "previous_price": 17614.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-ofisnoe-kreslo-kreslov/",
+        "image_url": "/pics/goods/kompyyuternoe-ofisnoe-kreslo-kreslov.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1233713,
+        "name": "Кресло игровое Оклик",
+        "current_price": 21350.0,
+        "previous_price": 21506.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-oklik/",
+        "image_url": "/pics/goods/kreslo-igrovoe-oklik.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1234113,
+        "name": "Кресло компьютерное игровое Бюрократ",
+        "current_price": 21329.0,
+        "previous_price": 23404.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-byurokrat/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1235566,
+        "name": "Игровое кресло Classmark Pink",
+        "current_price": 8922.0,
+        "previous_price": 9168.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-classmark-pink/",
+        "image_url": "/pics/goods/igrovoe-kreslo-classmark-pink.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1237155,
+        "name": "Игровое компьютерное кресло Chairman ткань, цвет черный/красный",
+        "current_price": 21851.0,
+        "previous_price": 22233.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kompyyuternoe-kreslo-chairman-tkany-cvet-chernyykrasnyy/",
+        "image_url": "/pics/goods/igrovoe-kompyyuternoe-kreslo-chairman-tkany-cvet-chernyykrasnyy.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1237517,
+        "name": "Кресло компьютерное Directoria&Moder",
+        "current_price": 45331.0,
+        "previous_price": 46133.0,
+        "url": "https://x-catalog.ru/mebel/mebely-po-pomescheniyam/mebely-dlya-ofisa-i-kabineta/ofisnye-kresla-i-stulyya/kresla-dlya-konferenc-zalov/kreslo-kompyyuternoe-directoriamoder/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-directoriamoder.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1238004,
+        "name": "Кресло детское Everprof Kids",
+        "current_price": 8643.0,
+        "previous_price": 8966.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-detskoe-everprof-kids/",
+        "image_url": "/pics/goods/kreslo-detskoe-everprof-kids.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1238051,
+        "name": "Кресло руководителя Directoria&Moder",
+        "current_price": 110485.0,
+        "previous_price": 116794.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-directoriamoder/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-directoriamoder.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1238376,
+        "name": "Игровое компьютерное кресло Zone 51",
+        "current_price": 17850.0,
+        "previous_price": 17986.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kompyyuternoe-kreslo-zone-51/",
+        "image_url": "/pics/goods/igrovoe-kompyyuternoe-kreslo-zone-51.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1240394,
+        "name": "Игровое геймерское кресло Stullio",
+        "current_price": 16990.0,
+        "previous_price": 17116.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-geymerskoe-kreslo-stullio/",
+        "image_url": "/pics/goods/igrovoe-geymerskoe-kreslo-stullio.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1240600,
+        "name": "Кресло руководителя Stullio",
+        "current_price": 17990.0,
+        "previous_price": 18116.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-rukovoditelya-stullio/",
+        "image_url": "/pics/goods/kreslo-rukovoditelya-stullio.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1240983,
+        "name": "Кресло компьютерное Chairman CH612 Chrome Black",
+        "current_price": 8820.0,
+        "previous_price": 8884.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-chairman-ch612-chrome-black/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-chairman-ch612-chrome-black.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1241646,
+        "name": "Кресло компьютерное Defender",
+        "current_price": 8999.0,
+        "previous_price": 9877.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-defender/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-defender.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1241788,
+        "name": "Геймерское кресло Emperor camp",
+        "current_price": 10890.0,
+        "previous_price": 10975.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/geymerskoe-kreslo-emperor-camp/",
+        "image_url": "/pics/goods/geymerskoe-kreslo-emperor-camp.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1242455,
+        "name": "Кресло Cactus",
+        "current_price": 24451.0,
+        "previous_price": 24879.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-cactus/",
+        "image_url": "/pics/goods/kreslo-cactus.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1242494,
+        "name": "Кресло офисное TetChair",
+        "current_price": 7360.0,
+        "previous_price": 7414.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-ofisnoe-tetchair/",
+        "image_url": "/pics/goods/kreslo-ofisnoe-tetchair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1243648,
+        "name": "Компьютерное кресло руководителя Everprof",
+        "current_price": 15200.0,
+        "previous_price": 15319.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-rukovoditelya-everprof/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-rukovoditelya-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1244714,
+        "name": "Кресло офисное Defender",
+        "current_price": 4890.0,
+        "previous_price": 4926.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-ofisnoe-defender/",
+        "image_url": "/pics/goods/kreslo-ofisnoe-defender.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1245928,
+        "name": "Кресло компьютерное Метта",
+        "current_price": 25010.0,
+        "previous_price": 25205.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-metta/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-metta.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1248321,
+        "name": "Кресло компьютерное RADOM",
+        "current_price": 4309.0,
+        "previous_price": 4727.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-radom/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-radom.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1248380,
+        "name": "Кресло компьютерное игровое UNITED GAMER",
+        "current_price": 14211.0,
+        "previous_price": 14453.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-united-gamer/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-united-gamer.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1250944,
+        "name": "Кресло компьютерное Фабрикант",
+        "current_price": 7800.0,
+        "previous_price": 7858.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-fabrikant/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-fabrikant.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251398,
+        "name": "Сетчатое компьютерное кресло с 3D-подлокотником Falto",
+        "current_price": 37050.0,
+        "previous_price": 37339.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/setchatoe-kompyyuternoe-kreslo-s-3d-podlokotnikom-falto/",
+        "image_url": "/pics/goods/setchatoe-kompyyuternoe-kreslo-s-3d-podlokotnikom-falto.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1251399,
+        "name": "Эргономичное сетчатое кресло для работы за компьютером Falto",
+        "current_price": 38200.0,
+        "previous_price": 38502.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ergonomichnoe-setchatoe-kreslo-dlya-raboty-za-kompyyuterom-falto/",
+        "image_url": "/pics/goods/ergonomichnoe-setchatoe-kreslo-dlya-raboty-za-kompyyuterom-falto.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1252909,
+        "name": "Кресло компьютерное игровое REBEL RISE",
+        "current_price": 18360.0,
+        "previous_price": 18505.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-rebel-rise/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-rebel-rise.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1253781,
+        "name": "Компьютерное кресло детское Фабрикант",
+        "current_price": 5290.0,
+        "previous_price": 5328.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-detskoe-fabrikant/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-detskoe-fabrikant.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1253787,
+        "name": "Компьютерное кресло детское Бюрократ",
+        "current_price": 5590.0,
+        "previous_price": 5633.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-detskoe-byurokrat/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-detskoe-byurokrat.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1253800,
+        "name": "Кресло компьютерное игровое Бюрократ Zombie",
+        "current_price": 9590.0,
+        "previous_price": 9657.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-byurokrat-zombie/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-byurokrat-zombie.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1254725,
+        "name": "Компьютерное кресло Hbada",
+        "current_price": 25630.0,
+        "previous_price": 25822.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-hbada/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-hbada.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1254986,
+        "name": "Кресло Herman Miller",
+        "current_price": 209988.0,
+        "previous_price": 228383.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-herman-miller/",
+        "image_url": "/pics/goods/kreslo-herman-miller.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1254986,
+        "name": "Кресло Herman Miller",
+        "current_price": 209988.0,
+        "previous_price": 228383.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-herman-miller/",
+        "image_url": "/pics/goods/kreslo-herman-miller.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1255022,
+        "name": "Компьютерное кресло Hbada P53",
+        "current_price": 18599.0,
+        "previous_price": 20407.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-hbada-p53/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-hbada-p53.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1255704,
+        "name": "Кресло компьютерное StylChairs",
+        "current_price": 7911.0,
+        "previous_price": 8049.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-stylchairs/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-stylchairs.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1257997,
+        "name": "Кресло Metta Samurai",
+        "current_price": 39188.0,
+        "previous_price": 42625.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-metta-samurai/",
+        "image_url": "/pics/goods/kreslo-metta-samurai.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1258942,
+        "name": "Кресло Metta Equalizer",
+        "current_price": 66851.0,
+        "previous_price": 68001.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-metta-equalizer/",
+        "image_url": "/pics/goods/kreslo-metta-equalizer.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1259748,
+        "name": "Кресло для руководителя Expert",
+        "current_price": 83950.0,
+        "previous_price": 84605.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-dlya-rukovoditelya-expert/",
+        "image_url": "/pics/goods/kreslo-dlya-rukovoditelya-expert.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1423195,
+        "name": "Кресло игровое DXRacer FORMULA",
+        "current_price": 31490.0,
+        "previous_price": 31726.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-dxracer-formula/",
+        "image_url": "/pics/goods/kreslo-igrovoe-dxracer-formula.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1423638,
+        "name": "Кресло игровое ZOMBIE Z4, черный/зеленый [viking zombie z4 grn]",
+        "current_price": 16592.0,
+        "previous_price": 17053.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-zombie-z4-chernyyzelenyy-viking-zombie-z4-grn/",
+        "image_url": "/pics/goods/kreslo-igrovoe-zombie-z4-chernyyzelenyy-viking-zombie-z4-grn.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1426183,
+        "name": "Кресло игровое Easy Chair 652 TPU черное (искусственная кожа, пластик",
+        "current_price": 20875.0,
+        "previous_price": 22071.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-easy-chair-652-tpu-chernoe-iskusstvennaya-kogha-plastik/",
+        "image_url": "/pics/goods/kreslo-igrovoe-easy-chair-652-tpu-chernoe-iskusstvennaya-kogha-plastik.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1430219,
+        "name": "DXRacer Игровое кресло DXRacer G8200 сине-красное (",
+        "current_price": 40990.0,
+        "previous_price": 41314.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/dxracer-igrovoe-kreslo-dxracer-g8200-sine-krasnoe/",
+        "image_url": "/pics/goods/dxracer-igrovoe-kreslo-dxracer-g8200-sine-krasnoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1431988,
+        "name": "Кресло игровое Hiper Victory",
+        "current_price": 12745.0,
+        "previous_price": 13482.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-hiper-victory/",
+        "image_url": "/pics/goods/kreslo-igrovoe-hiper-victory.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1431989,
+        "name": "Кресло игровое Hiper Todd",
+        "current_price": 11984.0,
+        "previous_price": 12558.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-hiper-todd/",
+        "image_url": "/pics/goods/kreslo-igrovoe-hiper-todd.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1435769,
+        "name": "Детское кресло Everprof",
+        "current_price": 8524.0,
+        "previous_price": 8932.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/detskoe-kreslo-everprof/",
+        "image_url": "/pics/goods/detskoe-kreslo-everprof.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1440300,
+        "name": "Офисное кресло Premium класса",
+        "current_price": 57525.0,
+        "previous_price": 60804.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnoe-kreslo-premium-klassa/",
+        "image_url": "/pics/goods/ofisnoe-kreslo-premium-klassa.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1441743,
+        "name": "Кресло Barneo",
+        "current_price": 13910.0,
+        "previous_price": 14012.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stulyya/stulyya-dlya-kuhni/kreslo-barneo/",
+        "image_url": "/pics/goods/kreslo-barneo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1441743,
+        "name": "Кресло Barneo",
+        "current_price": 13910.0,
+        "previous_price": 14012.0,
+        "url": "https://x-catalog.ru/mebel/stoly-i-stulyya/stulyya/stulyya-dlya-kuhni/kreslo-barneo/",
+        "image_url": "/pics/goods/kreslo-barneo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1442394,
+        "name": "Игровое кресло для компьютера GLHF",
+        "current_price": 18990.0,
+        "previous_price": 19131.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kreslo-dlya-kompyyutera-glhf/",
+        "image_url": "/pics/goods/igrovoe-kreslo-dlya-kompyyutera-glhf.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1444129,
+        "name": "Компьютерное кресло Империя стульев",
+        "current_price": 12712.0,
+        "previous_price": 13067.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-imperiya-stulyev/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-imperiya-stulyev.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1444942,
+        "name": "Кресло для компьютера с ортопедической двойной спинкой Falto",
+        "current_price": 40950.0,
+        "previous_price": 41245.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-dlya-kompyyutera-s-ortopedicheskoy-dvoynoy-spinkoy-falto/",
+        "image_url": "/pics/goods/kreslo-dlya-kompyyutera-s-ortopedicheskoy-dvoynoy-spinkoy-falto.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1445352,
+        "name": "Кресло эргономичное Falto",
+        "current_price": 43300.0,
+        "previous_price": 43612.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-ergonomichnoe-falto/",
+        "image_url": "/pics/goods/kreslo-ergonomichnoe-falto.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1445354,
+        "name": "Компьютерное ортопедическое кресло Expert",
+        "current_price": 69000.0,
+        "previous_price": 69511.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-ortopedicheskoe-kreslo-expert/",
+        "image_url": "/pics/goods/kompyyuternoe-ortopedicheskoe-kreslo-expert.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1445355,
+        "name": "Офисное кресло Expert",
+        "current_price": 43300.0,
+        "previous_price": 43625.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnoe-kreslo-expert/",
+        "image_url": "/pics/goods/ofisnoe-kreslo-expert.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1445620,
+        "name": "Кресло Falto Expert VISTA",
+        "current_price": 45500.0,
+        "previous_price": 45819.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-falto-expert-vista/",
+        "image_url": "/pics/goods/kreslo-falto-expert-vista.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1445631,
+        "name": "Игровое (геймерское) кресло Империя стульев",
+        "current_price": 14374.0,
+        "previous_price": 15051.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-geymerskoe-kreslo-imperiya-stulyev/",
+        "image_url": "/pics/goods/igrovoe-geymerskoe-kreslo-imperiya-stulyev.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1446461,
+        "name": "Кресло компьютерное игровое SONGMICS",
+        "current_price": 43999.0,
+        "previous_price": 48271.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-igrovoe-songmics/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-igrovoe-songmics.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1446769,
+        "name": "Компьютерное игровое кресло Evolution",
+        "current_price": 36000.0,
+        "previous_price": 36284.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-igrovoe-kreslo-evolution/",
+        "image_url": "/pics/goods/kompyyuternoe-igrovoe-kreslo-evolution.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1451433,
+        "name": "Кресло компьютерное офисное",
+        "current_price": 22785.0,
+        "previous_price": 24091.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-ofisnoe/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-ofisnoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1451433,
+        "name": "Кресло компьютерное офисное",
+        "current_price": 22785.0,
+        "previous_price": 24091.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-ofisnoe/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-ofisnoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1451463,
+        "name": "Геймерское кресло",
+        "current_price": 15702.0,
+        "previous_price": 16131.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/geymerskoe-kreslo/",
+        "image_url": "/pics/goods/geymerskoe-kreslo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1451463,
+        "name": "Геймерское кресло",
+        "current_price": 15702.0,
+        "previous_price": 16131.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/geymerskoe-kreslo/",
+        "image_url": "/pics/goods/geymerskoe-kreslo.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1451464,
+        "name": "Кресло офисное компьютерное",
+        "current_price": 15859.0,
+        "previous_price": 17404.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-ofisnoe-kompyyuternoe/",
+        "image_url": "/pics/goods/kreslo-ofisnoe-kompyyuternoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1451464,
+        "name": "Кресло офисное компьютерное",
+        "current_price": 15859.0,
+        "previous_price": 17404.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-ofisnoe-kompyyuternoe/",
+        "image_url": "/pics/goods/kreslo-ofisnoe-kompyyuternoe.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1451707,
+        "name": "Офисное кресло для персонала DOBRIN",
+        "current_price": 8393.0,
+        "previous_price": 8709.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnoe-kreslo-dlya-personala-dobrin/",
+        "image_url": "/pics/goods/ofisnoe-kreslo-dlya-personala-dobrin.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1451707,
+        "name": "Офисное кресло для персонала DOBRIN",
+        "current_price": 8393.0,
+        "previous_price": 8709.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ofisnoe-kreslo-dlya-personala-dobrin/",
+        "image_url": "/pics/goods/ofisnoe-kreslo-dlya-personala-dobrin.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1452867,
+        "name": "Кресло компьютерное для дома и офиса FRANDER",
+        "current_price": 12990.0,
+        "previous_price": 13090.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-dlya-doma-i-ofisa-frander/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-dlya-doma-i-ofisa-frander.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1452867,
+        "name": "Кресло компьютерное для дома и офиса FRANDER",
+        "current_price": 12990.0,
+        "previous_price": 13090.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-dlya-doma-i-ofisa-frander/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-dlya-doma-i-ofisa-frander.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1453035,
+        "name": "Игровое компьютерное кресло A4Tech",
+        "current_price": 14990.0,
+        "previous_price": 15102.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kompyyuternoe-kreslo-a4tech/",
+        "image_url": "/pics/goods/igrovoe-kompyyuternoe-kreslo-a4tech.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1453035,
+        "name": "Игровое компьютерное кресло A4Tech",
+        "current_price": 14990.0,
+        "previous_price": 15102.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/igrovoe-kompyyuternoe-kreslo-a4tech/",
+        "image_url": "/pics/goods/igrovoe-kompyyuternoe-kreslo-a4tech.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1453046,
+        "name": "Кресло компьютерное UNITED GAMER",
+        "current_price": 7490.0,
+        "previous_price": 7547.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-united-gamer/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-united-gamer.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1453046,
+        "name": "Кресло компьютерное UNITED GAMER",
+        "current_price": 7490.0,
+        "previous_price": 7547.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-kompyyuternoe-united-gamer/",
+        "image_url": "/pics/goods/kreslo-kompyyuternoe-united-gamer.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1453190,
+        "name": "Ортопедическое кресло для компьютера с регулировкой поясницы Healthy Chair",
+        "current_price": 63500.0,
+        "previous_price": 63945.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ortopedicheskoe-kreslo-dlya-kompyyutera-s-regulirovkoy-poyasnicy-healthy-chair/",
+        "image_url": "/pics/goods/ortopedicheskoe-kreslo-dlya-kompyyutera-s-regulirovkoy-poyasnicy-healthy-chair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1453190,
+        "name": "Ортопедическое кресло для компьютера с регулировкой поясницы Healthy Chair",
+        "current_price": 63500.0,
+        "previous_price": 63945.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/ortopedicheskoe-kreslo-dlya-kompyyutera-s-regulirovkoy-poyasnicy-healthy-chair/",
+        "image_url": "/pics/goods/ortopedicheskoe-kreslo-dlya-kompyyutera-s-regulirovkoy-poyasnicy-healthy-chair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1454283,
+        "name": "Детское кресло RIDBERG",
+        "current_price": 8990.0,
+        "previous_price": 9056.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/detskoe-kreslo-ridberg/",
+        "image_url": "/pics/goods/detskoe-kreslo-ridberg.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1454283,
+        "name": "Детское кресло RIDBERG",
+        "current_price": 8990.0,
+        "previous_price": 9056.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/detskoe-kreslo-ridberg/",
+        "image_url": "/pics/goods/detskoe-kreslo-ridberg.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1455096,
+        "name": "Сетчатое эргономичное кресло с валиком регулировки поясницы Healthy Chair",
+        "current_price": 34500.0,
+        "previous_price": 34762.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/setchatoe-ergonomichnoe-kreslo-s-valikom-regulirovki-poyasnicy-healthy-chair/",
+        "image_url": "/pics/goods/setchatoe-ergonomichnoe-kreslo-s-valikom-regulirovki-poyasnicy-healthy-chair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1455096,
+        "name": "Сетчатое эргономичное кресло с валиком регулировки поясницы Healthy Chair",
+        "current_price": 34500.0,
+        "previous_price": 34762.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/setchatoe-ergonomichnoe-kreslo-s-valikom-regulirovki-poyasnicy-healthy-chair/",
+        "image_url": "/pics/goods/setchatoe-ergonomichnoe-kreslo-s-valikom-regulirovki-poyasnicy-healthy-chair.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1455287,
+        "name": "Компьютерное кресло Frander",
+        "current_price": 9990.0,
+        "previous_price": 10067.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-frander/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-frander.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1455287,
+        "name": "Компьютерное кресло Frander",
+        "current_price": 9990.0,
+        "previous_price": 10067.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kompyyuternoe-kreslo-frander/",
+        "image_url": "/pics/goods/kompyyuternoe-kreslo-frander.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1455566,
+        "name": "Кресло игровое Бюрократ Zombie",
+        "current_price": 9490.0,
+        "previous_price": 9562.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-byurokrat-zombie/",
+        "image_url": "/pics/goods/kreslo-igrovoe-byurokrat-zombie.jpg",
+        "availability": "InStock"
+    },
+    {
+        "id": 1455566,
+        "name": "Кресло игровое Бюрократ Zombie",
+        "current_price": 9490.0,
+        "previous_price": 9562.0,
+        "url": "https://x-catalog.ru/mebel/mebely-dlya-geymerov/kompyyuternye-kresla/kreslo-igrovoe-byurokrat-zombie/",
+        "image_url": "/pics/goods/kreslo-igrovoe-byurokrat-zombie.jpg",
+        "availability": "InStock"
+    }
+]
