@@ -22,7 +22,6 @@ def handle_file(path):
                                        .get_text().strip().replace(" руб", ""))
         item['url'] = chair.find('a', attrs={'itemprop': "url"})['href']
         item['image_url'] = chair.find('img', attrs={'itemprop': "image"})['src']
-        item['availability'] = chair.find(itemprop="availability")['href'].split('/')[-1]
         item['availability'] = chair.find('link', attrs={'itemprop': "availability"})['href'].split('/')[-1]
 
         items.append(item)
