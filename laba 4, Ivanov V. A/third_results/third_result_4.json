@@ -1,0 +1,767 @@
+[
+    {
+        "id": 3,
+        "artist": "Afroman",
+        "song": "Because I Got High",
+        "duration_ms": 197760,
+        "year": 2001,
+        "tempo": 166.01,
+        "genre": "hip hop"
+    },
+    {
+        "id": 41,
+        "artist": "Mariah Carey",
+        "song": "Loverboy",
+        "duration_ms": 229173,
+        "year": 2001,
+        "tempo": 103.141,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 51,
+        "artist": "Robbie Williams",
+        "song": "Eternity",
+        "duration_ms": 302760,
+        "year": 2001,
+        "tempo": 77.967,
+        "genre": "pop, rock"
+    },
+    {
+        "id": 75,
+        "artist": "Gorillaz",
+        "song": "Clint Eastwood",
+        "duration_ms": 340920,
+        "year": 2001,
+        "tempo": 167.953,
+        "genre": "hip hop"
+    },
+    {
+        "id": 94,
+        "artist": "Alien Ant Farm",
+        "song": "Smooth Criminal",
+        "duration_ms": 209266,
+        "year": 2001,
+        "tempo": 126.928,
+        "genre": "rock, metal"
+    },
+    {
+        "id": 114,
+        "artist": "Trick Daddy",
+        "song": "I'm a Thug",
+        "duration_ms": 254400,
+        "year": 2001,
+        "tempo": 139.976,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 123,
+        "artist": "Destiny's Child",
+        "song": "Independent Women, Pt. 1",
+        "duration_ms": 221133,
+        "year": 2001,
+        "tempo": 97.954,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 135,
+        "artist": "LeAnn Rimes",
+        "song": "Can't Fight The Moonlight",
+        "duration_ms": 215506,
+        "year": 2001,
+        "tempo": 97.865,
+        "genre": "pop, country"
+    },
+    {
+        "id": 164,
+        "artist": "Blue",
+        "song": "If You Come Back",
+        "duration_ms": 207560,
+        "year": 2001,
+        "tempo": 78.375,
+        "genre": "pop"
+    },
+    {
+        "id": 185,
+        "artist": "Lasgo",
+        "song": "Something",
+        "duration_ms": 220973,
+        "year": 2001,
+        "tempo": 140.01,
+        "genre": "pop"
+    },
+    {
+        "id": 194,
+        "artist": "Gary Jules",
+        "song": "Mad World (Feat. Michael Andrews)",
+        "duration_ms": 189506,
+        "year": 2001,
+        "tempo": 174.117,
+        "genre": "pop"
+    },
+    {
+        "id": 207,
+        "artist": "Gabrielle",
+        "song": "Out Of Reach",
+        "duration_ms": 196986,
+        "year": 2001,
+        "tempo": 182.862,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 216,
+        "artist": "So Solid Crew",
+        "song": "21 Seconds",
+        "duration_ms": 302826,
+        "year": 2001,
+        "tempo": 137.03,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "id": 227,
+        "artist": "Ludacris",
+        "song": "Rollout (My Business)",
+        "duration_ms": 296586,
+        "year": 2001,
+        "tempo": 131.059,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 255,
+        "artist": "Basement Jaxx",
+        "song": "Romeo",
+        "duration_ms": 217493,
+        "year": 2001,
+        "tempo": 126.853,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 278,
+        "artist": "Puddle Of Mudd",
+        "song": "She Hates Me",
+        "duration_ms": 216760,
+        "year": 2001,
+        "tempo": 109.781,
+        "genre": "rock, metal"
+    },
+    {
+        "id": 323,
+        "artist": "Blu Cantrell",
+        "song": "Hit 'Em Up Style (Oops!)",
+        "duration_ms": 250706,
+        "year": 2001,
+        "tempo": 89.976,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 353,
+        "artist": "A1",
+        "song": "Caught in the Middle",
+        "duration_ms": 206466,
+        "year": 2001,
+        "tempo": 96.072,
+        "genre": "pop"
+    },
+    {
+        "id": 357,
+        "artist": "No Doubt",
+        "song": "Hey Baby",
+        "duration_ms": 207040,
+        "year": 2001,
+        "tempo": 93.63,
+        "genre": "rock, pop"
+    },
+    {
+        "id": 358,
+        "artist": "D12",
+        "song": "Purple Pills",
+        "duration_ms": 304506,
+        "year": 2001,
+        "tempo": 125.25,
+        "genre": "hip hop, pop, rock"
+    },
+    {
+        "id": 383,
+        "artist": "P!nk",
+        "song": "Get the Party Started",
+        "duration_ms": 192533,
+        "year": 2001,
+        "tempo": 128.93,
+        "genre": "pop"
+    },
+    {
+        "id": 396,
+        "artist": "LeAnn Rimes",
+        "song": "I Need You",
+        "duration_ms": 229826,
+        "year": 2001,
+        "tempo": 144.705,
+        "genre": "pop, country"
+    },
+    {
+        "id": 445,
+        "artist": "Atomic Kitten",
+        "song": "Whole Again",
+        "duration_ms": 185013,
+        "year": 2001,
+        "tempo": 94.019,
+        "genre": "pop"
+    },
+    {
+        "id": 454,
+        "artist": "Alicia Keys",
+        "song": "A Woman's Worth",
+        "duration_ms": 303333,
+        "year": 2001,
+        "tempo": 75.09,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 483,
+        "artist": "Daft Punk",
+        "song": "One More Time",
+        "duration_ms": 320357,
+        "year": 2001,
+        "tempo": 122.746,
+        "genre": "hip hop, Dance/Electronic"
+    },
+    {
+        "id": 494,
+        "artist": "Rui Da Silva",
+        "song": "Touch Me (Radio Edit) [feat. Cassandra]",
+        "duration_ms": 213133,
+        "year": 2001,
+        "tempo": 129.078,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "id": 496,
+        "artist": "Geri Halliwell",
+        "song": "It's Raining Men",
+        "duration_ms": 254640,
+        "year": 2001,
+        "tempo": 136.482,
+        "genre": "pop"
+    },
+    {
+        "id": 523,
+        "artist": "Shakira",
+        "song": "Underneath Your Clothes",
+        "duration_ms": 224066,
+        "year": 2001,
+        "tempo": 165.508,
+        "genre": "pop, latin"
+    },
+    {
+        "id": 536,
+        "artist": "No Doubt",
+        "song": "Hella Good",
+        "duration_ms": 242586,
+        "year": 2001,
+        "tempo": 115.142,
+        "genre": "rock, pop"
+    },
+    {
+        "id": 571,
+        "artist": "Erick Sermon",
+        "song": "Music (feat. Marvin Gaye)",
+        "duration_ms": 223133,
+        "year": 2001,
+        "tempo": 100.01,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 574,
+        "artist": "Jagged Edge",
+        "song": "Where the Party At (feat. Nelly)",
+        "duration_ms": 232573,
+        "year": 2001,
+        "tempo": 129.491,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 591,
+        "artist": "Shakira",
+        "song": "Whenever, Wherever",
+        "duration_ms": 196160,
+        "year": 2001,
+        "tempo": 107.657,
+        "genre": "pop, latin"
+    },
+    {
+        "id": 630,
+        "artist": "DJ Pied Piper & The Masters Of Ceremonies",
+        "song": "Do You Really Like It? - Radio Edit",
+        "duration_ms": 217120,
+        "year": 2001,
+        "tempo": 131.044,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "id": 631,
+        "artist": "*NSYNC",
+        "song": "Gone",
+        "duration_ms": 292000,
+        "year": 2001,
+        "tempo": 113.922,
+        "genre": "pop"
+    },
+    {
+        "id": 644,
+        "artist": "Missy Elliott",
+        "song": "4 My People (feat. Eve)",
+        "duration_ms": 289373,
+        "year": 2001,
+        "tempo": 121.392,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 655,
+        "artist": "J-Kwon",
+        "song": "Tipsy - Club Mix",
+        "duration_ms": 247106,
+        "year": 2001,
+        "tempo": 93.04,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 674,
+        "artist": "Train",
+        "song": "Drops of Jupiter (Tell Me)",
+        "duration_ms": 259933,
+        "year": 2001,
+        "tempo": 79.064,
+        "genre": "pop"
+    },
+    {
+        "id": 687,
+        "artist": "*NSYNC",
+        "song": "Girlfriend",
+        "duration_ms": 253600,
+        "year": 2001,
+        "tempo": 93.967,
+        "genre": "pop"
+    },
+    {
+        "id": 725,
+        "artist": "Ja Rule",
+        "song": "Always On Time",
+        "duration_ms": 245133,
+        "year": 2001,
+        "tempo": 96.673,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 736,
+        "artist": "Puddle Of Mudd",
+        "song": "Blurry",
+        "duration_ms": 303920,
+        "year": 2001,
+        "tempo": 157.469,
+        "genre": "rock, metal"
+    },
+    {
+        "id": 742,
+        "artist": "S Club 7",
+        "song": "Have You Ever",
+        "duration_ms": 201533,
+        "year": 2001,
+        "tempo": 139.909,
+        "genre": "pop"
+    },
+    {
+        "id": 748,
+        "artist": "Mary J. Blige",
+        "song": "No More Drama",
+        "duration_ms": 326240,
+        "year": 2001,
+        "tempo": 97.914,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 842,
+        "artist": "Usher",
+        "song": "U Don't Have to Call",
+        "duration_ms": 269400,
+        "year": 2001,
+        "tempo": 100.005,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 863,
+        "artist": "JAY-Z",
+        "song": "Izzo (H.O.V.A.)",
+        "duration_ms": 240626,
+        "year": 2001,
+        "tempo": 84.411,
+        "genre": "hip hop"
+    },
+    {
+        "id": 871,
+        "artist": "Jamiroquai",
+        "song": "Little L",
+        "duration_ms": 295400,
+        "year": 2001,
+        "tempo": 121.906,
+        "genre": "pop"
+    },
+    {
+        "id": 874,
+        "artist": "Enrique Iglesias",
+        "song": "Escape",
+        "duration_ms": 208626,
+        "year": 2001,
+        "tempo": 125.972,
+        "genre": "pop, latin"
+    },
+    {
+        "id": 894,
+        "artist": "Mary J. Blige",
+        "song": "Family Affair",
+        "duration_ms": 265866,
+        "year": 2001,
+        "tempo": 92.887,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 909,
+        "artist": "Nickelback",
+        "song": "How You Remind Me",
+        "duration_ms": 223840,
+        "year": 2001,
+        "tempo": 172.094,
+        "genre": "rock, metal"
+    },
+    {
+        "id": 923,
+        "artist": "Gabrielle",
+        "song": "Rise",
+        "duration_ms": 219093,
+        "year": 2001,
+        "tempo": 144.673,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 938,
+        "artist": "Faith Hill",
+        "song": "There You'll Be",
+        "duration_ms": 222120,
+        "year": 2001,
+        "tempo": 128.98,
+        "genre": "pop, country"
+    },
+    {
+        "id": 953,
+        "artist": "Jennifer Lopez",
+        "song": "Play",
+        "duration_ms": 211493,
+        "year": 2001,
+        "tempo": 104.719,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 956,
+        "artist": "Destiny's Child",
+        "song": "Survivor",
+        "duration_ms": 254026,
+        "year": 2001,
+        "tempo": 161.109,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 970,
+        "artist": "Ja Rule",
+        "song": "Livin' It Up",
+        "duration_ms": 257066,
+        "year": 2001,
+        "tempo": 106.095,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 987,
+        "artist": "112",
+        "song": "It's Over Now",
+        "duration_ms": 264933,
+        "year": 2001,
+        "tempo": 97.988,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1004,
+        "artist": "P!nk",
+        "song": "Don't Let Me Get Me - Radio Edit",
+        "duration_ms": 210693,
+        "year": 2001,
+        "tempo": 98.525,
+        "genre": "pop"
+    },
+    {
+        "id": 1028,
+        "artist": "Destiny's Child",
+        "song": "Bootylicious",
+        "duration_ms": 207906,
+        "year": 2001,
+        "tempo": 103.376,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1049,
+        "artist": "Case",
+        "song": "Missing You",
+        "duration_ms": 284666,
+        "year": 2001,
+        "tempo": 86.31,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1088,
+        "artist": "Michelle Branch",
+        "song": "All You Wanted",
+        "duration_ms": 217680,
+        "year": 2001,
+        "tempo": 96.103,
+        "genre": "pop, Folk/Acoustic"
+    },
+    {
+        "id": 1096,
+        "artist": "Blue",
+        "song": "All Rise",
+        "duration_ms": 223546,
+        "year": 2001,
+        "tempo": 97.996,
+        "genre": "pop"
+    },
+    {
+        "id": 1106,
+        "artist": "Emma Bunton",
+        "song": "What Took You So Long?",
+        "duration_ms": 241000,
+        "year": 2001,
+        "tempo": 118.011,
+        "genre": "pop"
+    },
+    {
+        "id": 1108,
+        "artist": "Ginuwine",
+        "song": "Differences",
+        "duration_ms": 265533,
+        "year": 2001,
+        "tempo": 62.876,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1163,
+        "artist": "Darude",
+        "song": "Sandstorm",
+        "duration_ms": 225493,
+        "year": 2001,
+        "tempo": 136.065,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 1166,
+        "artist": "P.O.D.",
+        "song": "Youth of the Nation",
+        "duration_ms": 256240,
+        "year": 2001,
+        "tempo": 97.867,
+        "genre": "rock, metal"
+    },
+    {
+        "id": 1174,
+        "artist": "No Doubt",
+        "song": "Underneath It All",
+        "duration_ms": 302720,
+        "year": 2001,
+        "tempo": 138.202,
+        "genre": "rock, pop"
+    },
+    {
+        "id": 1188,
+        "artist": "Destiny's Child",
+        "song": "Independent Women, Pt. 1",
+        "duration_ms": 221133,
+        "year": 2001,
+        "tempo": 97.954,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1192,
+        "artist": "Modjo",
+        "song": "Lady - Hear Me Tonight",
+        "duration_ms": 307153,
+        "year": 2001,
+        "tempo": 126.041,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "id": 1196,
+        "artist": "Busta Rhymes",
+        "song": "Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix",
+        "duration_ms": 238600,
+        "year": 2001,
+        "tempo": 89.767,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1216,
+        "artist": "Britney Spears",
+        "song": "I'm a Slave 4 U",
+        "duration_ms": 203600,
+        "year": 2001,
+        "tempo": 110.027,
+        "genre": "pop"
+    },
+    {
+        "id": 1234,
+        "artist": "Outkast",
+        "song": "The Whole World (feat. Killer Mike)",
+        "duration_ms": 295346,
+        "year": 2001,
+        "tempo": 184.682,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1235,
+        "artist": "Eve",
+        "song": "Let Me Blow Ya Mind",
+        "duration_ms": 230133,
+        "year": 2001,
+        "tempo": 90.032,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1302,
+        "artist": "Kylie Minogue",
+        "song": "In Your Eyes",
+        "duration_ms": 197826,
+        "year": 2001,
+        "tempo": 123.971,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 1309,
+        "artist": "Jennifer Lopez",
+        "song": "Love Don't Cost a Thing",
+        "duration_ms": 221226,
+        "year": 2001,
+        "tempo": 97.577,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1336,
+        "artist": "Gabrielle",
+        "song": "Rise",
+        "duration_ms": 219093,
+        "year": 2001,
+        "tempo": 144.673,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1346,
+        "artist": "Default",
+        "song": "Wasting My Time",
+        "duration_ms": 268693,
+        "year": 2001,
+        "tempo": 147.973,
+        "genre": "rock, pop, metal"
+    },
+    {
+        "id": 1348,
+        "artist": "Sunshine Anderson",
+        "song": "Heard It All Before",
+        "duration_ms": 295826,
+        "year": 2001,
+        "tempo": 96.951,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1378,
+        "artist": "The Supermen Lovers",
+        "song": "Starlight - Radio Edit",
+        "duration_ms": 234400,
+        "year": 2001,
+        "tempo": 127.487,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "id": 1381,
+        "artist": "Missy Elliott",
+        "song": "Get Ur Freak On",
+        "duration_ms": 211120,
+        "year": 2001,
+        "tempo": 177.87,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1387,
+        "artist": "Mary J. Blige",
+        "song": "Rainy Dayz",
+        "duration_ms": 276373,
+        "year": 2001,
+        "tempo": 68.942,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1402,
+        "artist": "Michael Jackson",
+        "song": "You Rock My World",
+        "duration_ms": 337733,
+        "year": 2001,
+        "tempo": 95.0,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1419,
+        "artist": "Christina Aguilera",
+        "song": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
+        "duration_ms": 264893,
+        "year": 2001,
+        "tempo": 109.919,
+        "genre": "pop"
+    },
+    {
+        "id": 1425,
+        "artist": "Fat Joe",
+        "song": "What's Luv? (feat. Ja-Rule & Ashanti)",
+        "duration_ms": 267093,
+        "year": 2001,
+        "tempo": 93.955,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1448,
+        "artist": "Janet Jackson",
+        "song": "All For You",
+        "duration_ms": 329933,
+        "year": 2001,
+        "tempo": 113.525,
+        "genre": "pop, R&B"
+    },
+    {
+        "id": 1457,
+        "artist": "Britney Spears",
+        "song": "I'm Not a Girl, Not Yet a Woman",
+        "duration_ms": 231066,
+        "year": 2001,
+        "tempo": 78.996,
+        "genre": "pop"
+    },
+    {
+        "id": 1467,
+        "artist": "Fragma",
+        "song": "Everytime You Need Me - Radio Version",
+        "duration_ms": 213346,
+        "year": 2001,
+        "tempo": 137.029,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 1523,
+        "artist": "Jessica Simpson",
+        "song": "Irresistible",
+        "duration_ms": 194026,
+        "year": 2001,
+        "tempo": 93.013,
+        "genre": "pop, R&B"
+    }
+]

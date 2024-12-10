@@ -1,0 +1,62 @@
+[
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi Redmi 9A",
+        "store": "AliExpress",
+        "price_usd": 52.63
+    },
+    {
+        "phone_brand": "nokia",
+        "phone_model": "Nokia G100",
+        "store": "Amazon US",
+        "price_usd": 56.87
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi Redmi A2",
+        "store": "Amazon US",
+        "price_usd": 59.5
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy A14 5G",
+        "store": "Amazon US",
+        "price_usd": 59.95
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Moto G Power (2022)",
+        "store": "Amazon US",
+        "price_usd": 59.98
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Moto E13",
+        "store": "Amazon US",
+        "price_usd": 60.0
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi Redmi A2+",
+        "store": "Amazon UK",
+        "price_usd": 63.51
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy A32 5G",
+        "store": "Amazon US",
+        "price_usd": 64.57
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi Redmi 9C",
+        "store": "AliExpress",
+        "price_usd": 64.8
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Moto G Power (2021)",
+        "store": "Amazon US",
+        "price_usd": 64.95
+    }
+]

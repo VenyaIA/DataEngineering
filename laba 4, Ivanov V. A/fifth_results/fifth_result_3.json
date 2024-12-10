@@ -1,0 +1,78 @@
+[
+    {
+        "phone_brand": "apple",
+        "device_count": 194
+    },
+    {
+        "phone_brand": "asus",
+        "device_count": 31
+    },
+    {
+        "phone_brand": "blackview",
+        "device_count": 3
+    },
+    {
+        "phone_brand": "google",
+        "device_count": 69
+    },
+    {
+        "phone_brand": "honor",
+        "device_count": 47
+    },
+    {
+        "phone_brand": "huawei",
+        "device_count": 32
+    },
+    {
+        "phone_brand": "motorola",
+        "device_count": 142
+    },
+    {
+        "phone_brand": "nokia",
+        "device_count": 52
+    },
+    {
+        "phone_brand": "nothing",
+        "device_count": 20
+    },
+    {
+        "phone_brand": "oneplus",
+        "device_count": 77
+    },
+    {
+        "phone_brand": "oppo",
+        "device_count": 57
+    },
+    {
+        "phone_brand": "realme",
+        "device_count": 67
+    },
+    {
+        "phone_brand": "samsung",
+        "device_count": 428
+    },
+    {
+        "phone_brand": "sony",
+        "device_count": 24
+    },
+    {
+        "phone_brand": "tcl",
+        "device_count": 4
+    },
+    {
+        "phone_brand": "tecno",
+        "device_count": 5
+    },
+    {
+        "phone_brand": "vivo",
+        "device_count": 12
+    },
+    {
+        "phone_brand": "xiaomi",
+        "device_count": 427
+    },
+    {
+        "phone_brand": "zte",
+        "device_count": 13
+    }
+]

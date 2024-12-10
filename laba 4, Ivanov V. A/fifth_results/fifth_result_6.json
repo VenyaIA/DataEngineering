@@ -1,0 +1,2287 @@
+[
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 1499.98
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 1499.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 1492.55
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 1476.36
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon DE",
+        "price_usd": 1460.38
+    },
+    {
+        "phone_brand": "honor",
+        "store": "AliExpress",
+        "price_usd": 1459.0
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "AliExpress",
+        "price_usd": 1440.0
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 1435.32
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 1424.52
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon UK",
+        "price_usd": 1424.52
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon UK",
+        "price_usd": 1424.52
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 1399.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 1399.99
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Best Buy",
+        "price_usd": 1399.99
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "Amazon DE",
+        "price_usd": 1381.58
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 1375.0
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon UK",
+        "price_usd": 1372.68
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "Amazon UK",
+        "price_usd": 1365.27
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 1357.55
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon US",
+        "price_usd": 1349.0
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 1340.1
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 1327.32
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon US",
+        "price_usd": 1319.0
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "AliExpress",
+        "price_usd": 1305.0
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "AliExpress",
+        "price_usd": 1300.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 1299.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 1299.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 1296.19
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon DE",
+        "price_usd": 1295.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 1294.9
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon UK",
+        "price_usd": 1294.9
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon UK",
+        "price_usd": 1292.78
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "Amazon US",
+        "price_usd": 1290.0
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 1274.29
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 1273.56
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 1272.39
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 1261.82
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon DE",
+        "price_usd": 1258.52
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 1246.85
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 1239.84
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 1238.76
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 1219.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 1219.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 1204.62
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 1204.17
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 1199.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 1199.99
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon US",
+        "price_usd": 1199.0
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon US",
+        "price_usd": 1199.0
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 1189.78
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 1186.92
+    },
+    {
+        "phone_brand": "google",
+        "store": "Best Buy",
+        "price_usd": 1179.0
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 1178.25
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon US",
+        "price_usd": 1178.0
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon DE",
+        "price_usd": 1167.12
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 1165.32
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 1165.28
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 1165.28
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 1165.28
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 1165.28
+    },
+    {
+        "phone_brand": "zte",
+        "store": "Amazon UK",
+        "price_usd": 1165.28
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon DE",
+        "price_usd": 1164.24
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 1162.06
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon UK",
+        "price_usd": 1160.1
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon US",
+        "price_usd": 1148.5
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "Amazon DE",
+        "price_usd": 1143.72
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon DE",
+        "price_usd": 1131.84
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 1123.81
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 1102.03
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 1100.52
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 1099.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 1099.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 1099.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 1099.99
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 1098.93
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 1096.59
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon US",
+        "price_usd": 1082.97
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 1079.75
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon DE",
+        "price_usd": 1078.92
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon US",
+        "price_usd": 1075.0
+    },
+    {
+        "phone_brand": "oppo",
+        "store": "Amazon US",
+        "price_usd": 1070.0
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 1060.28
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 1059.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 1059.91
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon US",
+        "price_usd": 1059.89
+    },
+    {
+        "phone_brand": "google",
+        "store": "Best Buy",
+        "price_usd": 1059.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 1056.99
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon DE",
+        "price_usd": 1056.22
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon US",
+        "price_usd": 1054.0
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 1049.99
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon DE",
+        "price_usd": 1049.81
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon UK",
+        "price_usd": 1043.44
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon UK",
+        "price_usd": 1042.38
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 1037.84
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 1035.66
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon UK",
+        "price_usd": 1035.66
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 1029.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 1029.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 1024.92
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 1022.05
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 1018.74
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon UK",
+        "price_usd": 1014.5
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Motorola",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 999.99
+    },
+    {
+        "phone_brand": "google",
+        "store": "Best Buy",
+        "price_usd": 999.0
+    },
+    {
+        "phone_brand": "google",
+        "store": "Best Buy",
+        "price_usd": 999.0
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon US",
+        "price_usd": 999.0
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon US",
+        "price_usd": 999.0
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon US",
+        "price_usd": 999.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 998.07
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 998.04
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 995.76
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 995.06
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "Amazon DE",
+        "price_usd": 991.49
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon US",
+        "price_usd": 990.0
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon US",
+        "price_usd": 990.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 989.99
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 989.84
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon US",
+        "price_usd": 975.0
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 973.28
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 972.14
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 971.94
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon UK",
+        "price_usd": 970.85
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 967.24
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 949.55
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon UK",
+        "price_usd": 946.21
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 944.86
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 939.74
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 938.6
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 934.2
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 933.25
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 931.97
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 929.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 929.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 929.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 929.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 929.0
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon DE",
+        "price_usd": 916.92
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon DE",
+        "price_usd": 909.51
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 907.33
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 906.04
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 906.04
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon US",
+        "price_usd": 904.0
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 899.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 899.99
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "AliExpress",
+        "price_usd": 899.99
+    },
+    {
+        "phone_brand": "google",
+        "store": "Best Buy",
+        "price_usd": 899.0
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "AliExpress",
+        "price_usd": 899.0
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 898.94
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon US",
+        "price_usd": 897.0
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon DE",
+        "price_usd": 892.12
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 891.14
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 890.71
+    },
+    {
+        "phone_brand": "vivo",
+        "store": "Amazon US",
+        "price_usd": 888.88
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon US",
+        "price_usd": 888.0
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 887.88
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 884.7
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 881.07
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 880.12
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 880.0
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon UK",
+        "price_usd": 877.53
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 876.94
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 873.72
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 863.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 863.63
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon UK",
+        "price_usd": 863.11
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 861.69
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon DE",
+        "price_usd": 860.12
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 859.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 859.99
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 857.79
+    },
+    {
+        "phone_brand": "zte",
+        "store": "Amazon UK",
+        "price_usd": 854.2
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 853.16
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 852.29
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon US",
+        "price_usd": 849.5
+    },
+    {
+        "phone_brand": "oppo",
+        "store": "Amazon US",
+        "price_usd": 849.0
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 848.0
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon US",
+        "price_usd": 845.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 843.18
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 842.52
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 842.52
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 841.23
+    },
+    {
+        "phone_brand": "zte",
+        "store": "Amazon UK",
+        "price_usd": 841.23
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 840.34
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon US",
+        "price_usd": 839.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 829.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Best Buy",
+        "price_usd": 829.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 829.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 829.5
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 829.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 828.35
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 827.5
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon DE",
+        "price_usd": 825.55
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 824.38
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 824.33
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 822.85
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon UK",
+        "price_usd": 815.18
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 814.11
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 814.03
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon US",
+        "price_usd": 814.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 810.09
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 809.99
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon DE",
+        "price_usd": 808.92
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 808.92
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 808.92
+    },
+    {
+        "phone_brand": "zte",
+        "store": "Amazon DE",
+        "price_usd": 808.92
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "AliExpress",
+        "price_usd": 806.99
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "Amazon DE",
+        "price_usd": 805.67
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 803.58
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 803.27
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 802.97
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 802.35
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon US",
+        "price_usd": 799.99
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Oneplus",
+        "price_usd": 799.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 793.36
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon DE",
+        "price_usd": 790.56
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 789.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 789.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 788.95
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 787.5
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 787.49
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 779.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 779.46
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 777.71
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon UK",
+        "price_usd": 777.07
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon US",
+        "price_usd": 775.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 767.04
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon DE",
+        "price_usd": 762.47
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 759.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 759.99
+    },
+    {
+        "phone_brand": "vivo",
+        "store": "AliExpress",
+        "price_usd": 759.99
+    },
+    {
+        "phone_brand": "honor",
+        "store": "AliExpress",
+        "price_usd": 759.0
+    },
+    {
+        "phone_brand": "zte",
+        "store": "Amazon UK",
+        "price_usd": 758.26
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 756.43
+    },
+    {
+        "phone_brand": "oppo",
+        "store": "Amazon DE",
+        "price_usd": 755.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 755.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 755.89
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "AliExpress",
+        "price_usd": 755.0
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon US",
+        "price_usd": 754.99
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon DE",
+        "price_usd": 754.92
+    },
+    {
+        "phone_brand": "vivo",
+        "store": "Amazon DE",
+        "price_usd": 752.75
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon DE",
+        "price_usd": 752.25
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon UK",
+        "price_usd": 750.5
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon US",
+        "price_usd": 750.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 749.1
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon US",
+        "price_usd": 749.0
+    },
+    {
+        "phone_brand": "zte",
+        "store": "Amazon US",
+        "price_usd": 749.0
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "Amazon UK",
+        "price_usd": 745.32
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon UK",
+        "price_usd": 744.47
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 743.57
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 741.67
+    },
+    {
+        "phone_brand": "nothing",
+        "store": "Amazon UK",
+        "price_usd": 741.43
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 740.78
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon UK",
+        "price_usd": 734.76
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 732.84
+    },
+    {
+        "phone_brand": "vivo",
+        "store": "Amazon DE",
+        "price_usd": 732.18
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 729.95
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 729.01
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 729.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 726.75
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 725.87
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon DE",
+        "price_usd": 723.6
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 719.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 716.99
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon UK",
+        "price_usd": 716.07
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon UK",
+        "price_usd": 714.75
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 712.17
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon UK",
+        "price_usd": 711.61
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 709.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 709.99
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 707.4
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon DE",
+        "price_usd": 701.89
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 700.34
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon US",
+        "price_usd": 699.99
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "Amazon US",
+        "price_usd": 699.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Best Buy",
+        "price_usd": 699.99
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon US",
+        "price_usd": 699.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 698.06
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon US",
+        "price_usd": 697.0
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 692.0
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon US",
+        "price_usd": 689.0
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon DE",
+        "price_usd": 686.87
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 686.07
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 681.08
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 681.04
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon DE",
+        "price_usd": 680.39
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 679.05
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 679.0
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon DE",
+        "price_usd": 677.83
+    },
+    {
+        "phone_brand": "zte",
+        "store": "Amazon UK",
+        "price_usd": 676.62
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 669.99
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon DE",
+        "price_usd": 669.59
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 668.95
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 668.52
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 667.53
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "Amazon DE",
+        "price_usd": 662.84
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 662.54
+    },
+    {
+        "phone_brand": "oppo",
+        "store": "Amazon UK",
+        "price_usd": 661.05
+    },
+    {
+        "phone_brand": "oppo",
+        "store": "Amazon US",
+        "price_usd": 660.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 659.12
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon US",
+        "price_usd": 659.0
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon US",
+        "price_usd": 658.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 657.82
+    },
+    {
+        "phone_brand": "realme",
+        "store": "Amazon US",
+        "price_usd": 655.0
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 650.0
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon US",
+        "price_usd": 649.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 649.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 649.99
+    },
+    {
+        "phone_brand": "vivo",
+        "store": "AliExpress",
+        "price_usd": 649.59
+    },
+    {
+        "phone_brand": "nothing",
+        "store": "Amazon DE",
+        "price_usd": 648.85
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 648.24
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 648.09
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon DE",
+        "price_usd": 647.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 646.8
+    },
+    {
+        "phone_brand": "nothing",
+        "store": "Amazon UK",
+        "price_usd": 645.82
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon DE",
+        "price_usd": 645.27
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon UK",
+        "price_usd": 644.21
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 641.62
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 640.44
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 640.32
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 640.0
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon US",
+        "price_usd": 639.95
+    },
+    {
+        "phone_brand": "realme",
+        "store": "Amazon DE",
+        "price_usd": 637.19
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 635.5
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon UK",
+        "price_usd": 635.13
+    },
+    {
+        "phone_brand": "nothing",
+        "store": "Amazon US",
+        "price_usd": 634.5
+    },
+    {
+        "phone_brand": "oppo",
+        "store": "Amazon DE",
+        "price_usd": 633.99
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon DE",
+        "price_usd": 632.87
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon DE",
+        "price_usd": 631.79
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 629.99
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon US",
+        "price_usd": 629.95
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 629.77
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon DE",
+        "price_usd": 629.74
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon DE",
+        "price_usd": 628.51
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon UK",
+        "price_usd": 627.36
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon DE",
+        "price_usd": 626.86
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 626.4
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 624.4
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 622.21
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon DE",
+        "price_usd": 622.08
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon US",
+        "price_usd": 620.0
+    },
+    {
+        "phone_brand": "oppo",
+        "store": "Amazon US",
+        "price_usd": 620.0
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon US",
+        "price_usd": 617.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 614.5
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 614.39
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 609.99
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon US",
+        "price_usd": 609.99
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "Amazon UK",
+        "price_usd": 609.21
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon DE",
+        "price_usd": 606.11
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 604.79
+    },
+    {
+        "phone_brand": "asus",
+        "store": "Amazon DE",
+        "price_usd": 603.61
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon DE",
+        "price_usd": 603.5
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 603.41
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 602.73
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 602.41
+    },
+    {
+        "phone_brand": "google",
+        "store": "Best Buy",
+        "price_usd": 599.99
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon US",
+        "price_usd": 599.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Samsung",
+        "price_usd": 599.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 599.0
+    },
+    {
+        "phone_brand": "vivo",
+        "store": "AliExpress",
+        "price_usd": 596.99
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon US",
+        "price_usd": 595.0
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 592.92
+    },
+    {
+        "phone_brand": "vivo",
+        "store": "AliExpress",
+        "price_usd": 591.99
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon UK",
+        "price_usd": 590.65
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 590.24
+    },
+    {
+        "phone_brand": "nothing",
+        "store": "Amazon US",
+        "price_usd": 590.0
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon DE",
+        "price_usd": 588.39
+    },
+    {
+        "phone_brand": "realme",
+        "store": "Amazon UK",
+        "price_usd": 586.83
+    },
+    {
+        "phone_brand": "vivo",
+        "store": "AliExpress",
+        "price_usd": 584.79
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 582.75
+    },
+    {
+        "phone_brand": "huawei",
+        "store": "Amazon UK",
+        "price_usd": 581.99
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 581.99
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 581.99
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon UK",
+        "price_usd": 580.7
+    },
+    {
+        "phone_brand": "zte",
+        "store": "Amazon UK",
+        "price_usd": 579.39
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 576.81
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon UK",
+        "price_usd": 572.6
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon DE",
+        "price_usd": 572.29
+    },
+    {
+        "phone_brand": "realme",
+        "store": "Amazon UK",
+        "price_usd": 571.96
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon DE",
+        "price_usd": 571.04
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 569.95
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon US",
+        "price_usd": 569.95
+    },
+    {
+        "phone_brand": "nothing",
+        "store": "Amazon DE",
+        "price_usd": 562.57
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon UK",
+        "price_usd": 556.07
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 556.07
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon US",
+        "price_usd": 553.91
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 552.83
+    },
+    {
+        "phone_brand": "realme",
+        "store": "Amazon UK",
+        "price_usd": 552.53
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 550.8
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 550.17
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon US",
+        "price_usd": 550.0
+    },
+    {
+        "phone_brand": "sony",
+        "store": "Amazon US",
+        "price_usd": 550.0
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon UK",
+        "price_usd": 549.59
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 548.85
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 548.44
+    },
+    {
+        "phone_brand": "zte",
+        "store": "Amazon DE",
+        "price_usd": 547.53
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 547.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 546.85
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 545.69
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon DE",
+        "price_usd": 544.83
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 544.31
+    },
+    {
+        "phone_brand": "google",
+        "store": "Amazon DE",
+        "price_usd": 543.97
+    },
+    {
+        "phone_brand": "oneplus",
+        "store": "Amazon UK",
+        "price_usd": 543.11
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 541.75
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 540.0
+    },
+    {
+        "phone_brand": "realme",
+        "store": "Amazon US",
+        "price_usd": 540.0
+    },
+    {
+        "phone_brand": "zte",
+        "store": "Amazon DE",
+        "price_usd": 539.99
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon US",
+        "price_usd": 539.99
+    },
+    {
+        "phone_brand": "oppo",
+        "store": "Amazon US",
+        "price_usd": 539.0
+    },
+    {
+        "phone_brand": "realme",
+        "store": "Amazon US",
+        "price_usd": 539.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 538.95
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 538.92
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 538.92
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 535.68
+    },
+    {
+        "phone_brand": "realme",
+        "store": "Amazon US",
+        "price_usd": 534.98
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon DE",
+        "price_usd": 534.63
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 533.63
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon UK",
+        "price_usd": 531.44
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon UK",
+        "price_usd": 531.44
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 530.0
+    },
+    {
+        "phone_brand": "oppo",
+        "store": "Amazon US",
+        "price_usd": 530.0
+    },
+    {
+        "phone_brand": "oppo",
+        "store": "Amazon DE",
+        "price_usd": 529.99
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon DE",
+        "price_usd": 529.19
+    },
+    {
+        "phone_brand": "nokia",
+        "store": "Amazon US",
+        "price_usd": 529.0
+    },
+    {
+        "phone_brand": "nothing",
+        "store": "Amazon US",
+        "price_usd": 529.0
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon US",
+        "price_usd": 529.0
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 525.98
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon DE",
+        "price_usd": 525.73
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon DE",
+        "price_usd": 524.79
+    },
+    {
+        "phone_brand": "vivo",
+        "store": "Amazon DE",
+        "price_usd": 523.32
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 521.56
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 521.15
+    },
+    {
+        "phone_brand": "vivo",
+        "store": "Amazon DE",
+        "price_usd": 520.11
+    },
+    {
+        "phone_brand": "oppo",
+        "store": "Amazon UK",
+        "price_usd": 518.48
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon UK",
+        "price_usd": 518.47
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 518.47
+    },
+    {
+        "phone_brand": "realme",
+        "store": "Amazon DE",
+        "price_usd": 518.39
+    },
+    {
+        "phone_brand": "honor",
+        "store": "Amazon DE",
+        "price_usd": 517.32
+    },
+    {
+        "phone_brand": "motorola",
+        "store": "Amazon UK",
+        "price_usd": 517.18
+    },
+    {
+        "phone_brand": "nothing",
+        "store": "Amazon UK",
+        "price_usd": 515.87
+    },
+    {
+        "phone_brand": "zte",
+        "store": "AliExpress",
+        "price_usd": 515.0
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 508.56
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon UK",
+        "price_usd": 505.52
+    },
+    {
+        "phone_brand": "samsung",
+        "store": "Amazon DE",
+        "price_usd": 505.16
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 504.22
+    },
+    {
+        "phone_brand": "xiaomi",
+        "store": "Amazon UK",
+        "price_usd": 501.43
+    },
+    {
+        "phone_brand": "apple",
+        "store": "Amazon US",
+        "price_usd": 500.0
+    }
+]

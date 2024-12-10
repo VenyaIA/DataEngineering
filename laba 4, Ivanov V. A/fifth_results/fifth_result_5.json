@@ -1,0 +1,90 @@
+[
+    {
+        "phone_brand": "apple",
+        "max_price": 1705.32
+    },
+    {
+        "phone_brand": "asus",
+        "max_price": 1295.99
+    },
+    {
+        "phone_brand": "blackview",
+        "max_price": 276.61
+    },
+    {
+        "phone_brand": "cubot",
+        "max_price": 208.79
+    },
+    {
+        "phone_brand": "google",
+        "max_price": 2267.05
+    },
+    {
+        "phone_brand": "honor",
+        "max_price": 2189.28
+    },
+    {
+        "phone_brand": "htc",
+        "max_price": 399.0
+    },
+    {
+        "phone_brand": "huawei",
+        "max_price": 2353.82
+    },
+    {
+        "phone_brand": "infinix",
+        "max_price": 102.13
+    },
+    {
+        "phone_brand": "motorola",
+        "max_price": 1676.84
+    },
+    {
+        "phone_brand": "nokia",
+        "max_price": 529.0
+    },
+    {
+        "phone_brand": "nothing",
+        "max_price": 741.43
+    },
+    {
+        "phone_brand": "oneplus",
+        "max_price": 970.85
+    },
+    {
+        "phone_brand": "oppo",
+        "max_price": 1070.0
+    },
+    {
+        "phone_brand": "realme",
+        "max_price": 655.0
+    },
+    {
+        "phone_brand": "samsung",
+        "max_price": 2020.78
+    },
+    {
+        "phone_brand": "sony",
+        "max_price": 1399.99
+    },
+    {
+        "phone_brand": "tcl",
+        "max_price": 250.37
+    },
+    {
+        "phone_brand": "tecno",
+        "max_price": 496.78
+    },
+    {
+        "phone_brand": "vivo",
+        "max_price": 888.88
+    },
+    {
+        "phone_brand": "xiaomi",
+        "max_price": 1999.0
+    },
+    {
+        "phone_brand": "zte",
+        "max_price": 1165.28
+    }
+]

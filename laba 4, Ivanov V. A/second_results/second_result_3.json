@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Торговый центр 53",
+        "sum_rating": 289.9,
+        "count_convenience": 101
+    },
+    {
+        "name": "Стадион 80",
+        "sum_rating": 269.4,
+        "count_convenience": 97
+    },
+    {
+        "name": "Вилла 80",
+        "sum_rating": 260.0,
+        "count_convenience": 102
+    },
+    {
+        "name": "Улей 67",
+        "sum_rating": 256.9,
+        "count_convenience": 103
+    },
+    {
+        "name": "Кошара 23",
+        "sum_rating": 254.5,
+        "count_convenience": 96
+    },
+    {
+        "name": "Дупло 100",
+        "sum_rating": 252.5,
+        "count_convenience": 91
+    },
+    {
+        "name": "Лестница 82",
+        "sum_rating": 248.5,
+        "count_convenience": 104
+    },
+    {
+        "name": "Бункер 43",
+        "sum_rating": 244.5,
+        "count_convenience": 92
+    },
+    {
+        "name": "Котельная 21",
+        "sum_rating": 239.9,
+        "count_convenience": 99
+    },
+    {
+        "name": "Дупло 60",
+        "sum_rating": 238.2,
+        "count_convenience": 89
+    }
+]

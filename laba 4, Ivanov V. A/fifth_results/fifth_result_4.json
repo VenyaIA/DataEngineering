@@ -1,0 +1,627 @@
+[
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 12 Pro Max",
+        "average_price": 516.8149999999999
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 13 Pro",
+        "average_price": 612.54
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 13 Pro Max",
+        "average_price": 678.9955555555556
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 14",
+        "average_price": 592.7183333333334
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 14 Plus",
+        "average_price": 607.5483333333333
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 14 Pro",
+        "average_price": 781.468888888889
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 14 Pro Max",
+        "average_price": 854.408
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 15",
+        "average_price": 769.85375
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 15 Plus",
+        "average_price": 849.17
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 15 Pro",
+        "average_price": 1036.4658333333334
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 15 Pro Max",
+        "average_price": 1139.43375
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 16",
+        "average_price": 1025.1933333333334
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 16 Plus",
+        "average_price": 1155.7333333333333
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 16 Pro",
+        "average_price": 1382.95875
+    },
+    {
+        "phone_brand": "apple",
+        "phone_model": "Apple iPhone 16 Pro Max",
+        "average_price": 1388.3
+    },
+    {
+        "phone_brand": "asus",
+        "phone_model": "Asus ROG Phone 5",
+        "average_price": 1165.28
+    },
+    {
+        "phone_brand": "asus",
+        "phone_model": "Asus ROG Phone 6",
+        "average_price": 896.795
+    },
+    {
+        "phone_brand": "asus",
+        "phone_model": "Asus ROG Phone 7",
+        "average_price": 864.5466666666666
+    },
+    {
+        "phone_brand": "asus",
+        "phone_model": "Asus ROG Phone 8",
+        "average_price": 994.885
+    },
+    {
+        "phone_brand": "asus",
+        "phone_model": "Asus ROG Phone 8 Pro",
+        "average_price": 1080.3766666666668
+    },
+    {
+        "phone_brand": "asus",
+        "phone_model": "Asus Zenfone 10",
+        "average_price": 760.7522222222223
+    },
+    {
+        "phone_brand": "asus",
+        "phone_model": "Asus Zenfone 11 Ultra",
+        "average_price": 856.3966666666666
+    },
+    {
+        "phone_brand": "asus",
+        "phone_model": "Asus Zenfone 8",
+        "average_price": 516.48
+    },
+    {
+        "phone_brand": "asus",
+        "phone_model": "Asus Zenfone 9",
+        "average_price": 829.46
+    },
+    {
+        "phone_brand": "google",
+        "phone_model": "Google Pixel 7 Pro",
+        "average_price": 523.965
+    },
+    {
+        "phone_brand": "google",
+        "phone_model": "Google Pixel 8 Pro",
+        "average_price": 762.7318181818181
+    },
+    {
+        "phone_brand": "google",
+        "phone_model": "Google Pixel 9",
+        "average_price": 864.64
+    },
+    {
+        "phone_brand": "google",
+        "phone_model": "Google Pixel 9 Pro",
+        "average_price": 1312.7285714285715
+    },
+    {
+        "phone_brand": "google",
+        "phone_model": "Google Pixel 9 Pro Fold",
+        "average_price": 2036.1066666666666
+    },
+    {
+        "phone_brand": "google",
+        "phone_model": "Google Pixel 9 Pro XL",
+        "average_price": 1328.0777777777778
+    },
+    {
+        "phone_brand": "google",
+        "phone_model": "Google Pixel Fold",
+        "average_price": 945.9200000000001
+    },
+    {
+        "phone_brand": "honor",
+        "phone_model": "Honor 200",
+        "average_price": 554.07
+    },
+    {
+        "phone_brand": "honor",
+        "phone_model": "Honor 200 Pro",
+        "average_price": 669.59
+    },
+    {
+        "phone_brand": "honor",
+        "phone_model": "Honor Magic V2",
+        "average_price": 1233.2666666666667
+    },
+    {
+        "phone_brand": "honor",
+        "phone_model": "Honor Magic V3",
+        "average_price": 1921.3333333333333
+    },
+    {
+        "phone_brand": "honor",
+        "phone_model": "Honor Magic5 Pro",
+        "average_price": 836.412
+    },
+    {
+        "phone_brand": "honor",
+        "phone_model": "Honor Magic6 Pro",
+        "average_price": 852.56
+    },
+    {
+        "phone_brand": "huawei",
+        "phone_model": "Huawei Mate 50 Pro",
+        "average_price": 648.635
+    },
+    {
+        "phone_brand": "huawei",
+        "phone_model": "Huawei Mate X3",
+        "average_price": 2353.82
+    },
+    {
+        "phone_brand": "huawei",
+        "phone_model": "Huawei P50 Pro",
+        "average_price": 508.07
+    },
+    {
+        "phone_brand": "huawei",
+        "phone_model": "Huawei P60 Pro",
+        "average_price": 1216.8600000000001
+    },
+    {
+        "phone_brand": "huawei",
+        "phone_model": "Huawei Pura 70",
+        "average_price": 806.99
+    },
+    {
+        "phone_brand": "huawei",
+        "phone_model": "Huawei Pura 70 Pro",
+        "average_price": 1139.1875
+    },
+    {
+        "phone_brand": "huawei",
+        "phone_model": "Huawei Pura 70 Ultra",
+        "average_price": 1410.79
+    },
+    {
+        "phone_brand": "huawei",
+        "phone_model": "Huawei nova 11 Pro",
+        "average_price": 805.67
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Edge 30 Fusion",
+        "average_price": 509.92249999999996
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Edge 30 Pro",
+        "average_price": 690.9025
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Edge 30 Ultra",
+        "average_price": 982.665
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Edge 40 Pro",
+        "average_price": 1151.85
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Edge 50 Neo",
+        "average_price": 508.1
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Edge 50 Pro",
+        "average_price": 627.6875
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Edge 50 Ultra",
+        "average_price": 953.31
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Razr 40 Ultra",
+        "average_price": 522.35
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Razr 50",
+        "average_price": 815.835
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola Razr 50 Ultra",
+        "average_price": 1060.65
+    },
+    {
+        "phone_brand": "motorola",
+        "phone_model": "Motorola ThinkPhone",
+        "average_price": 720.4066666666666
+    },
+    {
+        "phone_brand": "nothing",
+        "phone_model": "Nothing Phone (2)",
+        "average_price": 637.195
+    },
+    {
+        "phone_brand": "oneplus",
+        "phone_model": "OnePlus 10 Pro",
+        "average_price": 558.3666666666667
+    },
+    {
+        "phone_brand": "oneplus",
+        "phone_model": "OnePlus 11",
+        "average_price": 590.8683333333333
+    },
+    {
+        "phone_brand": "oneplus",
+        "phone_model": "OnePlus 12",
+        "average_price": 832.585
+    },
+    {
+        "phone_brand": "oneplus",
+        "phone_model": "OnePlus 12R",
+        "average_price": 544.4225
+    },
+    {
+        "phone_brand": "oneplus",
+        "phone_model": "OnePlus 8",
+        "average_price": 698.475
+    },
+    {
+        "phone_brand": "oneplus",
+        "phone_model": "OnePlus Nord 4",
+        "average_price": 519.415
+    },
+    {
+        "phone_brand": "oppo",
+        "phone_model": "Oppo Find N2 Flip",
+        "average_price": 637.235
+    },
+    {
+        "phone_brand": "oppo",
+        "phone_model": "Oppo Find N3 Flip",
+        "average_price": 849.0
+    },
+    {
+        "phone_brand": "oppo",
+        "phone_model": "Oppo Find X5 Pro",
+        "average_price": 590.2766666666666
+    },
+    {
+        "phone_brand": "oppo",
+        "phone_model": "Oppo Reno12",
+        "average_price": 539.0
+    },
+    {
+        "phone_brand": "oppo",
+        "phone_model": "Oppo Reno12 Pro",
+        "average_price": 647.52
+    },
+    {
+        "phone_brand": "oppo",
+        "phone_model": "Oppo Reno8 T",
+        "average_price": 529.99
+    },
+    {
+        "phone_brand": "realme",
+        "phone_model": "Realme 6 Pro",
+        "average_price": 539.0
+    },
+    {
+        "phone_brand": "realme",
+        "phone_model": "Realme GT Neo 3",
+        "average_price": 603.5266666666666
+    },
+    {
+        "phone_brand": "realme",
+        "phone_model": "Realme GT Neo2",
+        "average_price": 571.96
+    },
+    {
+        "phone_brand": "realme",
+        "phone_model": "Realme GT2 Pro",
+        "average_price": 507.83
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy A72",
+        "average_price": 555.5966666666667
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy A73 5G",
+        "average_price": 599.0
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy Note20 5G",
+        "average_price": 532.0600000000001
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy Note20 Ultra 5G",
+        "average_price": 568.455
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy S21 Ultra 5G",
+        "average_price": 575.32625
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy S22 Ultra 5G",
+        "average_price": 546.790909090909
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy S22+ 5G",
+        "average_price": 571.5699999999999
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy S23",
+        "average_price": 585.7344444444444
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy S23 Ultra",
+        "average_price": 836.26
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy S23+",
+        "average_price": 776.126
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy S24",
+        "average_price": 701.5666666666667
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy S24 FE",
+        "average_price": 768.73375
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy S24 Ultra",
+        "average_price": 1070.6122222222223
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy S24+",
+        "average_price": 844.6075000000001
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy Tab S9 FE+",
+        "average_price": 793.36
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy Z Flip4",
+        "average_price": 586.8489999999999
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy Z Flip5",
+        "average_price": 697.8720000000001
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy Z Flip6",
+        "average_price": 967.1825
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy Z Fold3 5G",
+        "average_price": 810.42
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy Z Fold4",
+        "average_price": 1167.776
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy Z Fold5",
+        "average_price": 1305.9633333333334
+    },
+    {
+        "phone_brand": "samsung",
+        "phone_model": "Samsung Galaxy Z Fold6",
+        "average_price": 1788.2575
+    },
+    {
+        "phone_brand": "sony",
+        "phone_model": "Sony Xperia 1 III",
+        "average_price": 607.17
+    },
+    {
+        "phone_brand": "sony",
+        "phone_model": "Sony Xperia 1 IV",
+        "average_price": 890.685
+    },
+    {
+        "phone_brand": "sony",
+        "phone_model": "Sony Xperia 1 V",
+        "average_price": 977.4166666666666
+    },
+    {
+        "phone_brand": "sony",
+        "phone_model": "Sony Xperia 1 VI",
+        "average_price": 1159.84
+    },
+    {
+        "phone_brand": "sony",
+        "phone_model": "Sony Xperia 5 IV",
+        "average_price": 698.8266666666667
+    },
+    {
+        "phone_brand": "sony",
+        "phone_model": "Sony Xperia 5 V",
+        "average_price": 749.0
+    },
+    {
+        "phone_brand": "vivo",
+        "phone_model": "vivo V29",
+        "average_price": 523.32
+    },
+    {
+        "phone_brand": "vivo",
+        "phone_model": "vivo V30",
+        "average_price": 752.75
+    },
+    {
+        "phone_brand": "vivo",
+        "phone_model": "vivo V40",
+        "average_price": 732.18
+    },
+    {
+        "phone_brand": "vivo",
+        "phone_model": "vivo X100",
+        "average_price": 588.39
+    },
+    {
+        "phone_brand": "vivo",
+        "phone_model": "vivo X100 Pro",
+        "average_price": 824.435
+    },
+    {
+        "phone_brand": "vivo",
+        "phone_model": "vivo Y76 5G",
+        "average_price": 520.11
+    },
+    {
+        "phone_brand": "vivo",
+        "phone_model": "vivo iQOO 12",
+        "average_price": 623.29
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi 13",
+        "average_price": 867.0250000000001
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi 13 Pro",
+        "average_price": 989.84
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi 13 Ultra",
+        "average_price": 1277.3333333333333
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi 13T",
+        "average_price": 537.345
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi 13T Pro",
+        "average_price": 872.7966666666666
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi 14",
+        "average_price": 682.13
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi 14 Ultra",
+        "average_price": 1193.1133333333335
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi 14T",
+        "average_price": 820.245
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi 14T Pro",
+        "average_price": 865.795
+    },
+    {
+        "phone_brand": "xiaomi",
+        "phone_model": "Xiaomi Mix Flip",
+        "average_price": 1999.0
+    },
+    {
+        "phone_brand": "zte",
+        "phone_model": "ZTE Axon 40 Ultra",
+        "average_price": 1165.28
+    },
+    {
+        "phone_brand": "zte",
+        "phone_model": "ZTE nubia Flip",
+        "average_price": 559.69
+    },
+    {
+        "phone_brand": "zte",
+        "phone_model": "ZTE nubia Red Magic 6",
+        "average_price": 515.0
+    },
+    {
+        "phone_brand": "zte",
+        "phone_model": "ZTE nubia Red Magic 9 Pro",
+        "average_price": 841.23
+    },
+    {
+        "phone_brand": "zte",
+        "phone_model": "ZTE nubia Red Magic 9S Pro",
+        "average_price": 804.04
+    },
+    {
+        "phone_brand": "zte",
+        "phone_model": "ZTE nubia Z50S Pro",
+        "average_price": 612.075
+    },
+    {
+        "phone_brand": "zte",
+        "phone_model": "ZTE nubia Z60 Ultra",
+        "average_price": 758.26
+    }
+]

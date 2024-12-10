@@ -1,0 +1,57 @@
+[
+    {
+        "id": 126,
+        "name": "glamorous insulation",
+        "price": 193.94,
+        "quantity": 511,
+        "category": "tools",
+        "fromCity": "Льейда",
+        "isAvailable": 1,
+        "views": 93437,
+        "version": 11
+    },
+    {
+        "id": 79,
+        "name": "glamorous deodorant",
+        "price": 92.79,
+        "quantity": 795,
+        "category": "cosmetics",
+        "fromCity": "Белград",
+        "isAvailable": 0,
+        "views": 57588,
+        "version": 2
+    },
+    {
+        "id": 58,
+        "name": "gorgeous blueberry",
+        "price": 89.59,
+        "quantity": 687,
+        "category": "fruit",
+        "fromCity": "Мурсия",
+        "isAvailable": 0,
+        "views": 38025,
+        "version": 6
+    },
+    {
+        "id": 125,
+        "name": "glamorous deodorant",
+        "price": 32.11,
+        "quantity": 618,
+        "category": "cosmetics",
+        "fromCity": "Хельсинки",
+        "isAvailable": 0,
+        "views": 32658,
+        "version": 2
+    },
+    {
+        "id": 114,
+        "name": "glamorous roofing",
+        "price": 30.06,
+        "quantity": 631,
+        "category": "tools",
+        "fromCity": "Кишинев",
+        "isAvailable": 1,
+        "views": 71974,
+        "version": 8
+    }
+]

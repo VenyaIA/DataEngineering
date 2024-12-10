@@ -1,0 +1,112 @@
+[
+    {
+        "id": 109,
+        "name": "exquisite eye cream",
+        "price": 20.47,
+        "quantity": 726,
+        "category": "cosmetics",
+        "fromCity": "Бланес",
+        "isAvailable": 1,
+        "views": 75421,
+        "version": 14
+    },
+    {
+        "id": 113,
+        "name": "nice glue",
+        "price": 83.91,
+        "quantity": 617,
+        "category": "tools",
+        "fromCity": "Пласенсия",
+        "isAvailable": 1,
+        "views": 3930,
+        "version": 14
+    },
+    {
+        "id": 57,
+        "name": "beautiful mango",
+        "price": 175.87,
+        "quantity": 618,
+        "category": "fruit",
+        "fromCity": "Кордова",
+        "isAvailable": 1,
+        "views": 85182,
+        "version": 12
+    },
+    {
+        "id": 95,
+        "name": "superb plum",
+        "price": 34.18,
+        "quantity": 589,
+        "category": "fruit",
+        "fromCity": "Хихон",
+        "isAvailable": 1,
+        "views": 6535,
+        "version": 12
+    },
+    {
+        "id": 134,
+        "name": "beautiful mango",
+        "price": 160.5,
+        "quantity": 444,
+        "category": "fruit",
+        "fromCity": "Тарраса",
+        "isAvailable": 1,
+        "views": 99856,
+        "version": 12
+    },
+    {
+        "id": 126,
+        "name": "glamorous insulation",
+        "price": 193.94,
+        "quantity": 511,
+        "category": "tools",
+        "fromCity": "Льейда",
+        "isAvailable": 1,
+        "views": 93437,
+        "version": 11
+    },
+    {
+        "id": 16,
+        "name": "magnificent orange",
+        "price": 73.36,
+        "quantity": 365,
+        "category": "fruit",
+        "fromCity": "Эльче",
+        "isAvailable": 1,
+        "views": 89286,
+        "version": 10
+    },
+    {
+        "id": 77,
+        "name": "tasteful strawberry",
+        "price": 77.94,
+        "quantity": 1015,
+        "category": "fruit",
+        "fromCity": "Рига",
+        "isAvailable": 0,
+        "views": 16040,
+        "version": 8
+    },
+    {
+        "id": 114,
+        "name": "glamorous roofing",
+        "price": 30.06,
+        "quantity": 631,
+        "category": "tools",
+        "fromCity": "Кишинев",
+        "isAvailable": 1,
+        "views": 71974,
+        "version": 8
+    },
+    {
+        "id": 23,
+        "name": "superb perfume",
+        "price": 36.18,
+        "quantity": 1193,
+        "category": "cosmetics",
+        "fromCity": "Трухильо",
+        "isAvailable": 1,
+        "views": 37813,
+        "version": 7
+    }
+]

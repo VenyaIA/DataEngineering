@@ -1,0 +1,3342 @@
+[
+    {
+        "count": 4,
+        "artist": "*NSYNC"
+    },
+    {
+        "count": 2,
+        "artist": "112"
+    },
+    {
+        "count": 2,
+        "artist": "2 Chainz"
+    },
+    {
+        "count": 2,
+        "artist": "21 Savage"
+    },
+    {
+        "count": 2,
+        "artist": "2Pac"
+    },
+    {
+        "count": 5,
+        "artist": "3 Doors Down"
+    },
+    {
+        "count": 1,
+        "artist": "3LW"
+    },
+    {
+        "count": 3,
+        "artist": "3OH!3"
+    },
+    {
+        "count": 3,
+        "artist": "5 Seconds of Summer"
+    },
+    {
+        "count": 9,
+        "artist": "50 Cent"
+    },
+    {
+        "count": 2,
+        "artist": "6ix9ine"
+    },
+    {
+        "count": 1,
+        "artist": "99 Souls"
+    },
+    {
+        "count": 3,
+        "artist": "A Boogie Wit da Hoodie"
+    },
+    {
+        "count": 1,
+        "artist": "A$AP Ferg"
+    },
+    {
+        "count": 1,
+        "artist": "A$AP Rocky"
+    },
+    {
+        "count": 1,
+        "artist": "A.R. Rahman"
+    },
+    {
+        "count": 1,
+        "artist": "A1"
+    },
+    {
+        "count": 1,
+        "artist": "AJ Tracey"
+    },
+    {
+        "count": 1,
+        "artist": "AJR"
+    },
+    {
+        "count": 1,
+        "artist": "AWOLNATION"
+    },
+    {
+        "count": 4,
+        "artist": "Aaliyah"
+    },
+    {
+        "count": 2,
+        "artist": "Adam Lambert"
+    },
+    {
+        "count": 7,
+        "artist": "Adele"
+    },
+    {
+        "count": 1,
+        "artist": "Afroman"
+    },
+    {
+        "count": 1,
+        "artist": "Agnes"
+    },
+    {
+        "count": 8,
+        "artist": "Akon"
+    },
+    {
+        "count": 1,
+        "artist": "Alan Walker"
+    },
+    {
+        "count": 1,
+        "artist": "Alanis Morissette"
+    },
+    {
+        "count": 1,
+        "artist": "Alec Benjamin"
+    },
+    {
+        "count": 1,
+        "artist": "Alesha Dixon"
+    },
+    {
+        "count": 3,
+        "artist": "Alessia Cara"
+    },
+    {
+        "count": 2,
+        "artist": "Alesso"
+    },
+    {
+        "count": 1,
+        "artist": "Alex & Sierra"
+    },
+    {
+        "count": 1,
+        "artist": "Alex Clare"
+    },
+    {
+        "count": 1,
+        "artist": "Alex Gaudino"
+    },
+    {
+        "count": 2,
+        "artist": "Alexandra Burke"
+    },
+    {
+        "count": 1,
+        "artist": "Alexandra Stan"
+    },
+    {
+        "count": 1,
+        "artist": "Alice Deejay"
+    },
+    {
+        "count": 6,
+        "artist": "Alicia Keys"
+    },
+    {
+        "count": 1,
+        "artist": "Alien Ant Farm"
+    },
+    {
+        "count": 1,
+        "artist": "All Saints"
+    },
+    {
+        "count": 1,
+        "artist": "All Time Low"
+    },
+    {
+        "count": 1,
+        "artist": "Aloe Blacc"
+    },
+    {
+        "count": 1,
+        "artist": "Alok"
+    },
+    {
+        "count": 1,
+        "artist": "AlunaGeorge"
+    },
+    {
+        "count": 1,
+        "artist": "Amanda Perez"
+    },
+    {
+        "count": 1,
+        "artist": "Amerie"
+    },
+    {
+        "count": 3,
+        "artist": "Amy Winehouse"
+    },
+    {
+        "count": 3,
+        "artist": "Anastacia"
+    },
+    {
+        "count": 1,
+        "artist": "Angie Martinez"
+    },
+    {
+        "count": 3,
+        "artist": "Anne-Marie"
+    },
+    {
+        "count": 2,
+        "artist": "Anuel AA"
+    },
+    {
+        "count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "count": 14,
+        "artist": "Ariana Grande"
+    },
+    {
+        "count": 1,
+        "artist": "Armand Van Helden"
+    },
+    {
+        "count": 1,
+        "artist": "Armin van Buuren"
+    },
+    {
+        "count": 1,
+        "artist": "Asaf Avidan & the Mojos"
+    },
+    {
+        "count": 6,
+        "artist": "Ashanti"
+    },
+    {
+        "count": 1,
+        "artist": "Asher Roth"
+    },
+    {
+        "count": 1,
+        "artist": "Ashlee Simpson"
+    },
+    {
+        "count": 1,
+        "artist": "Ashley O"
+    },
+    {
+        "count": 1,
+        "artist": "Astrid S"
+    },
+    {
+        "count": 3,
+        "artist": "Atomic Kitten"
+    },
+    {
+        "count": 1,
+        "artist": "Audioslave"
+    },
+    {
+        "count": 2,
+        "artist": "Ava Max"
+    },
+    {
+        "count": 2,
+        "artist": "Avant"
+    },
+    {
+        "count": 10,
+        "artist": "Avicii"
+    },
+    {
+        "count": 10,
+        "artist": "Avril Lavigne"
+    },
+    {
+        "count": 1,
+        "artist": "Axwell /\\ Ingrosso"
+    },
+    {
+        "count": 1,
+        "artist": "Ayo & Teo"
+    },
+    {
+        "count": 1,
+        "artist": "Azealia Banks"
+    },
+    {
+        "count": 1,
+        "artist": "B Young"
+    },
+    {
+        "count": 3,
+        "artist": "B.o.B"
+    },
+    {
+        "count": 2,
+        "artist": "B2K"
+    },
+    {
+        "count": 1,
+        "artist": "BLACKPINK"
+    },
+    {
+        "count": 1,
+        "artist": "BTS"
+    },
+    {
+        "count": 1,
+        "artist": "Baauer"
+    },
+    {
+        "count": 3,
+        "artist": "Baby Bash"
+    },
+    {
+        "count": 1,
+        "artist": "Baby Boy Da Prince"
+    },
+    {
+        "count": 3,
+        "artist": "Backstreet Boys"
+    },
+    {
+        "count": 2,
+        "artist": "Bad Bunny"
+    },
+    {
+        "count": 1,
+        "artist": "Bad Meets Evil"
+    },
+    {
+        "count": 1,
+        "artist": "Baha Men"
+    },
+    {
+        "count": 1,
+        "artist": "Banx & Ranx"
+    },
+    {
+        "count": 2,
+        "artist": "Basement Jaxx"
+    },
+    {
+        "count": 2,
+        "artist": "Basshunter"
+    },
+    {
+        "count": 3,
+        "artist": "Bastille"
+    },
+    {
+        "count": 1,
+        "artist": "Bazzi"
+    },
+    {
+        "count": 2,
+        "artist": "Becky G"
+    },
+    {
+        "count": 1,
+        "artist": "Benny Benassi"
+    },
+    {
+        "count": 16,
+        "artist": "Beyoncé"
+    },
+    {
+        "count": 1,
+        "artist": "Big Brovaz"
+    },
+    {
+        "count": 2,
+        "artist": "Big Sean"
+    },
+    {
+        "count": 1,
+        "artist": "Big Shaq"
+    },
+    {
+        "count": 1,
+        "artist": "Big Tymers"
+    },
+    {
+        "count": 5,
+        "artist": "Billie Eilish"
+    },
+    {
+        "count": 1,
+        "artist": "Bingo Players"
+    },
+    {
+        "count": 2,
+        "artist": "Birdy"
+    },
+    {
+        "count": 14,
+        "artist": "Black Eyed Peas"
+    },
+    {
+        "count": 2,
+        "artist": "Blake Shelton"
+    },
+    {
+        "count": 1,
+        "artist": "Blanco Brown"
+    },
+    {
+        "count": 1,
+        "artist": "Blazin' Squad"
+    },
+    {
+        "count": 1,
+        "artist": "BlocBoy JB"
+    },
+    {
+        "count": 1,
+        "artist": "Blu Cantrell"
+    },
+    {
+        "count": 5,
+        "artist": "Blue"
+    },
+    {
+        "count": 1,
+        "artist": "Blueface"
+    },
+    {
+        "count": 2,
+        "artist": "Bob Sinclar"
+    },
+    {
+        "count": 1,
+        "artist": "Bobby Shmurda"
+    },
+    {
+        "count": 1,
+        "artist": "Bobby V."
+    },
+    {
+        "count": 1,
+        "artist": "Bodyrockers"
+    },
+    {
+        "count": 1,
+        "artist": "Bomfunk MC's"
+    },
+    {
+        "count": 1,
+        "artist": "Bon Jovi"
+    },
+    {
+        "count": 1,
+        "artist": "Bone Thugs-N-Harmony"
+    },
+    {
+        "count": 4,
+        "artist": "Bow Wow"
+    },
+    {
+        "count": 2,
+        "artist": "Boys Like Girls"
+    },
+    {
+        "count": 3,
+        "artist": "Brandy"
+    },
+    {
+        "count": 1,
+        "artist": "Brian McFadden"
+    },
+    {
+        "count": 1,
+        "artist": "Bridgit Mendler"
+    },
+    {
+        "count": 19,
+        "artist": "Britney Spears"
+    },
+    {
+        "count": 12,
+        "artist": "Bruno Mars"
+    },
+    {
+        "count": 3,
+        "artist": "Bryson Tiller"
+    },
+    {
+        "count": 1,
+        "artist": "Bubba Sparxxx"
+    },
+    {
+        "count": 1,
+        "artist": "Burak Yeter"
+    },
+    {
+        "count": 4,
+        "artist": "Busta Rhymes"
+    },
+    {
+        "count": 1,
+        "artist": "BØRNS"
+    },
+    {
+        "count": 1,
+        "artist": "CNCO"
+    },
+    {
+        "count": 1,
+        "artist": "Cali Swag District"
+    },
+    {
+        "count": 20,
+        "artist": "Calvin Harris"
+    },
+    {
+        "count": 3,
+        "artist": "Camila Cabello"
+    },
+    {
+        "count": 1,
+        "artist": "Camille Jones"
+    },
+    {
+        "count": 1,
+        "artist": "Cam’ron"
+    },
+    {
+        "count": 1,
+        "artist": "Capital Cities"
+    },
+    {
+        "count": 5,
+        "artist": "Cardi B"
+    },
+    {
+        "count": 1,
+        "artist": "Carl Thomas"
+    },
+    {
+        "count": 1,
+        "artist": "Carly Rae Jepsen"
+    },
+    {
+        "count": 2,
+        "artist": "Carrie Underwood"
+    },
+    {
+        "count": 2,
+        "artist": "Cascada"
+    },
+    {
+        "count": 1,
+        "artist": "Case"
+    },
+    {
+        "count": 1,
+        "artist": "Cashmere Cat"
+    },
+    {
+        "count": 1,
+        "artist": "Cassie"
+    },
+    {
+        "count": 1,
+        "artist": "Chad Kroeger"
+    },
+    {
+        "count": 1,
+        "artist": "Chamillionaire"
+    },
+    {
+        "count": 1,
+        "artist": "Charlene Soraia"
+    },
+    {
+        "count": 1,
+        "artist": "Charli Baltimore"
+    },
+    {
+        "count": 1,
+        "artist": "Charli XCX"
+    },
+    {
+        "count": 6,
+        "artist": "Charlie Puth"
+    },
+    {
+        "count": 1,
+        "artist": "Chase & Status"
+    },
+    {
+        "count": 2,
+        "artist": "Cheat Codes"
+    },
+    {
+        "count": 1,
+        "artist": "Cher Lloyd"
+    },
+    {
+        "count": 1,
+        "artist": "Cherish"
+    },
+    {
+        "count": 1,
+        "artist": "Cheryl"
+    },
+    {
+        "count": 1,
+        "artist": "Chicane"
+    },
+    {
+        "count": 1,
+        "artist": "Childish Gambino"
+    },
+    {
+        "count": 4,
+        "artist": "Chingy"
+    },
+    {
+        "count": 1,
+        "artist": "Chip"
+    },
+    {
+        "count": 1,
+        "artist": "Chord Overstreet"
+    },
+    {
+        "count": 17,
+        "artist": "Chris Brown"
+    },
+    {
+        "count": 8,
+        "artist": "Christina Aguilera"
+    },
+    {
+        "count": 3,
+        "artist": "Christina Milian"
+    },
+    {
+        "count": 3,
+        "artist": "Christina Perri"
+    },
+    {
+        "count": 8,
+        "artist": "Ciara"
+    },
+    {
+        "count": 5,
+        "artist": "Clean Bandit"
+    },
+    {
+        "count": 2,
+        "artist": "Cobra Starship"
+    },
+    {
+        "count": 1,
+        "artist": "Colby O'Donis"
+    },
+    {
+        "count": 13,
+        "artist": "Coldplay"
+    },
+    {
+        "count": 1,
+        "artist": "Counting Crows"
+    },
+    {
+        "count": 5,
+        "artist": "Craig David"
+    },
+    {
+        "count": 1,
+        "artist": "Crazy Frog"
+    },
+    {
+        "count": 1,
+        "artist": "Crazy Town"
+    },
+    {
+        "count": 4,
+        "artist": "Creed"
+    },
+    {
+        "count": 2,
+        "artist": "Céline Dion"
+    },
+    {
+        "count": 3,
+        "artist": "D12"
+    },
+    {
+        "count": 2,
+        "artist": "D4L"
+    },
+    {
+        "count": 1,
+        "artist": "DB Boulevard"
+    },
+    {
+        "count": 1,
+        "artist": "DEV"
+    },
+    {
+        "count": 1,
+        "artist": "DJ Casper"
+    },
+    {
+        "count": 3,
+        "artist": "DJ Fresh"
+    },
+    {
+        "count": 4,
+        "artist": "DJ Khaled"
+    },
+    {
+        "count": 1,
+        "artist": "DJ Pied Piper & The Masters Of Ceremonies"
+    },
+    {
+        "count": 1,
+        "artist": "DJ Sammy"
+    },
+    {
+        "count": 7,
+        "artist": "DJ Snake"
+    },
+    {
+        "count": 1,
+        "artist": "DJ Ötzi"
+    },
+    {
+        "count": 2,
+        "artist": "DMX"
+    },
+    {
+        "count": 1,
+        "artist": "DNCE"
+    },
+    {
+        "count": 1,
+        "artist": "Da Brat"
+    },
+    {
+        "count": 1,
+        "artist": "DaBaby"
+    },
+    {
+        "count": 3,
+        "artist": "Daddy Yankee"
+    },
+    {
+        "count": 3,
+        "artist": "Daft Punk"
+    },
+    {
+        "count": 4,
+        "artist": "Daniel Bedingfield"
+    },
+    {
+        "count": 1,
+        "artist": "Daniel Powter"
+    },
+    {
+        "count": 1,
+        "artist": "Danity Kane"
+    },
+    {
+        "count": 1,
+        "artist": "Darude"
+    },
+    {
+        "count": 1,
+        "artist": "Daughtry"
+    },
+    {
+        "count": 1,
+        "artist": "Dave"
+    },
+    {
+        "count": 1,
+        "artist": "David Archuleta"
+    },
+    {
+        "count": 1,
+        "artist": "David Banner"
+    },
+    {
+        "count": 18,
+        "artist": "David Guetta"
+    },
+    {
+        "count": 1,
+        "artist": "Daya"
+    },
+    {
+        "count": 1,
+        "artist": "Dean Lewis"
+    },
+    {
+        "count": 1,
+        "artist": "Debelah Morgan"
+    },
+    {
+        "count": 1,
+        "artist": "Default"
+    },
+    {
+        "count": 2,
+        "artist": "Delta Goodrem"
+    },
+    {
+        "count": 1,
+        "artist": "Dem Franchize Boyz"
+    },
+    {
+        "count": 4,
+        "artist": "Demi Lovato"
+    },
+    {
+        "count": 1,
+        "artist": "Dennis Lloyd"
+    },
+    {
+        "count": 1,
+        "artist": "Deorro"
+    },
+    {
+        "count": 2,
+        "artist": "Desiigner"
+    },
+    {
+        "count": 10,
+        "artist": "Destiny's Child"
+    },
+    {
+        "count": 3,
+        "artist": "Diddy"
+    },
+    {
+        "count": 1,
+        "artist": "Diddy - Dirty Money"
+    },
+    {
+        "count": 3,
+        "artist": "Dido"
+    },
+    {
+        "count": 1,
+        "artist": "Dirty Vegas"
+    },
+    {
+        "count": 3,
+        "artist": "Disclosure"
+    },
+    {
+        "count": 1,
+        "artist": "Disturbing Tha Peace"
+    },
+    {
+        "count": 3,
+        "artist": "Dizzee Rascal"
+    },
+    {
+        "count": 1,
+        "artist": "Doja Cat"
+    },
+    {
+        "count": 1,
+        "artist": "Dominic Fike"
+    },
+    {
+        "count": 2,
+        "artist": "Donell Jones"
+    },
+    {
+        "count": 3,
+        "artist": "Dr. Dre"
+    },
+    {
+        "count": 23,
+        "artist": "Drake"
+    },
+    {
+        "count": 4,
+        "artist": "Dua Lipa"
+    },
+    {
+        "count": 1,
+        "artist": "Duck Sauce"
+    },
+    {
+        "count": 1,
+        "artist": "Duffy"
+    },
+    {
+        "count": 2,
+        "artist": "Duke Dumont"
+    },
+    {
+        "count": 1,
+        "artist": "Dynoro"
+    },
+    {
+        "count": 1,
+        "artist": "E-40"
+    },
+    {
+        "count": 1,
+        "artist": "EO"
+    },
+    {
+        "count": 1,
+        "artist": "Eamon"
+    },
+    {
+        "count": 1,
+        "artist": "Echosmith"
+    },
+    {
+        "count": 9,
+        "artist": "Ed Sheeran"
+    },
+    {
+        "count": 2,
+        "artist": "Edward Maya"
+    },
+    {
+        "count": 1,
+        "artist": "Eiffel 65"
+    },
+    {
+        "count": 1,
+        "artist": "Electric Six"
+    },
+    {
+        "count": 1,
+        "artist": "Ella Henderson"
+    },
+    {
+        "count": 1,
+        "artist": "Ella Mai"
+    },
+    {
+        "count": 6,
+        "artist": "Ellie Goulding"
+    },
+    {
+        "count": 1,
+        "artist": "Elliott Yamin"
+    },
+    {
+        "count": 1,
+        "artist": "Elvis Presley"
+    },
+    {
+        "count": 1,
+        "artist": "Emeli Sandé"
+    },
+    {
+        "count": 21,
+        "artist": "Eminem"
+    },
+    {
+        "count": 1,
+        "artist": "Emma Bunton"
+    },
+    {
+        "count": 1,
+        "artist": "Empire of the Sun"
+    },
+    {
+        "count": 9,
+        "artist": "Enrique Iglesias"
+    },
+    {
+        "count": 1,
+        "artist": "Enya"
+    },
+    {
+        "count": 3,
+        "artist": "Eric Prydz"
+    },
+    {
+        "count": 1,
+        "artist": "Erick Sermon"
+    },
+    {
+        "count": 1,
+        "artist": "Erykah Badu"
+    },
+    {
+        "count": 1,
+        "artist": "Estelle"
+    },
+    {
+        "count": 3,
+        "artist": "Evanescence"
+    },
+    {
+        "count": 2,
+        "artist": "Eve"
+    },
+    {
+        "count": 2,
+        "artist": "Example"
+    },
+    {
+        "count": 1,
+        "artist": "FINNEAS"
+    },
+    {
+        "count": 4,
+        "artist": "Fabolous"
+    },
+    {
+        "count": 1,
+        "artist": "Faith Evans"
+    },
+    {
+        "count": 2,
+        "artist": "Faith Hill"
+    },
+    {
+        "count": 1,
+        "artist": "Faithless"
+    },
+    {
+        "count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "count": 2,
+        "artist": "Far East Movement"
+    },
+    {
+        "count": 3,
+        "artist": "Fat Joe"
+    },
+    {
+        "count": 1,
+        "artist": "Fatman Scoop"
+    },
+    {
+        "count": 2,
+        "artist": "Fedde Le Grand"
+    },
+    {
+        "count": 1,
+        "artist": "Felix Jaehn"
+    },
+    {
+        "count": 5,
+        "artist": "Fergie"
+    },
+    {
+        "count": 3,
+        "artist": "Fetty Wap"
+    },
+    {
+        "count": 3,
+        "artist": "Fifth Harmony"
+    },
+    {
+        "count": 2,
+        "artist": "Finger Eleven"
+    },
+    {
+        "count": 1,
+        "artist": "Fitz and The Tantrums"
+    },
+    {
+        "count": 1,
+        "artist": "Five"
+    },
+    {
+        "count": 1,
+        "artist": "Flipp Dinero"
+    },
+    {
+        "count": 11,
+        "artist": "Flo Rida"
+    },
+    {
+        "count": 1,
+        "artist": "Floetry"
+    },
+    {
+        "count": 1,
+        "artist": "Florence + The Machine"
+    },
+    {
+        "count": 1,
+        "artist": "Florida Georgia Line"
+    },
+    {
+        "count": 2,
+        "artist": "Flume"
+    },
+    {
+        "count": 2,
+        "artist": "Foo Fighters"
+    },
+    {
+        "count": 2,
+        "artist": "Fort Minor"
+    },
+    {
+        "count": 1,
+        "artist": "Foster The People"
+    },
+    {
+        "count": 1,
+        "artist": "Fragma"
+    },
+    {
+        "count": 2,
+        "artist": "Frank Ocean"
+    },
+    {
+        "count": 1,
+        "artist": "Frankie J"
+    },
+    {
+        "count": 2,
+        "artist": "Franz Ferdinand"
+    },
+    {
+        "count": 1,
+        "artist": "French Montana"
+    },
+    {
+        "count": 1,
+        "artist": "Fuel"
+    },
+    {
+        "count": 2,
+        "artist": "Future"
+    },
+    {
+        "count": 5,
+        "artist": "G-Eazy"
+    },
+    {
+        "count": 1,
+        "artist": "G-Unit"
+    },
+    {
+        "count": 1,
+        "artist": "G.R.L."
+    },
+    {
+        "count": 1,
+        "artist": "Gabriella Cilmi"
+    },
+    {
+        "count": 3,
+        "artist": "Gabrielle"
+    },
+    {
+        "count": 2,
+        "artist": "Galantis"
+    },
+    {
+        "count": 2,
+        "artist": "Gareth Gates"
+    },
+    {
+        "count": 1,
+        "artist": "Garrett Nash"
+    },
+    {
+        "count": 1,
+        "artist": "Gary Jules"
+    },
+    {
+        "count": 1,
+        "artist": "Gavin DeGraw"
+    },
+    {
+        "count": 1,
+        "artist": "George Michael"
+    },
+    {
+        "count": 1,
+        "artist": "Geri Halliwell"
+    },
+    {
+        "count": 1,
+        "artist": "Gesaffelstein"
+    },
+    {
+        "count": 2,
+        "artist": "Gigi D'Agostino"
+    },
+    {
+        "count": 2,
+        "artist": "Ginuwine"
+    },
+    {
+        "count": 4,
+        "artist": "Girls Aloud"
+    },
+    {
+        "count": 1,
+        "artist": "Gnarls Barkley"
+    },
+    {
+        "count": 1,
+        "artist": "Good Charlotte"
+    },
+    {
+        "count": 1,
+        "artist": "Gorgon City"
+    },
+    {
+        "count": 3,
+        "artist": "Gorillaz"
+    },
+    {
+        "count": 1,
+        "artist": "Gotye"
+    },
+    {
+        "count": 3,
+        "artist": "Green Day"
+    },
+    {
+        "count": 1,
+        "artist": "Grimes"
+    },
+    {
+        "count": 1,
+        "artist": "Grouplove"
+    },
+    {
+        "count": 1,
+        "artist": "Guru Josh Project"
+    },
+    {
+        "count": 1,
+        "artist": "Guy Sebastian"
+    },
+    {
+        "count": 5,
+        "artist": "Gwen Stefani"
+    },
+    {
+        "count": 4,
+        "artist": "Gym Class Heroes"
+    },
+    {
+        "count": 1,
+        "artist": "H \"two\" O"
+    },
+    {
+        "count": 2,
+        "artist": "Halsey"
+    },
+    {
+        "count": 1,
+        "artist": "Hayden James"
+    },
+    {
+        "count": 1,
+        "artist": "Hilltop Hoods"
+    },
+    {
+        "count": 2,
+        "artist": "Hinder"
+    },
+    {
+        "count": 1,
+        "artist": "Holly Valance"
+    },
+    {
+        "count": 1,
+        "artist": "Hoobastank"
+    },
+    {
+        "count": 1,
+        "artist": "Hot Chelle Rae"
+    },
+    {
+        "count": 1,
+        "artist": "Houston"
+    },
+    {
+        "count": 1,
+        "artist": "Hozier"
+    },
+    {
+        "count": 1,
+        "artist": "Huey"
+    },
+    {
+        "count": 1,
+        "artist": "Hugh Jackman"
+    },
+    {
+        "count": 1,
+        "artist": "INNA"
+    },
+    {
+        "count": 2,
+        "artist": "Icona Pop"
+    },
+    {
+        "count": 1,
+        "artist": "Ida Corr"
+    },
+    {
+        "count": 2,
+        "artist": "Iggy Azalea"
+    },
+    {
+        "count": 1,
+        "artist": "Illy"
+    },
+    {
+        "count": 6,
+        "artist": "Imagine Dragons"
+    },
+    {
+        "count": 1,
+        "artist": "Infernal"
+    },
+    {
+        "count": 1,
+        "artist": "Iyaz"
+    },
+    {
+        "count": 1,
+        "artist": "J Balvin"
+    },
+    {
+        "count": 1,
+        "artist": "J-Kwon"
+    },
+    {
+        "count": 2,
+        "artist": "J. Cole"
+    },
+    {
+        "count": 2,
+        "artist": "J. Holiday"
+    },
+    {
+        "count": 12,
+        "artist": "JAY-Z"
+    },
+    {
+        "count": 2,
+        "artist": "JLS"
+    },
+    {
+        "count": 1,
+        "artist": "JUVENILE"
+    },
+    {
+        "count": 3,
+        "artist": "Ja Rule"
+    },
+    {
+        "count": 1,
+        "artist": "Jack White"
+    },
+    {
+        "count": 1,
+        "artist": "Jack Ü"
+    },
+    {
+        "count": 3,
+        "artist": "Jagged Edge"
+    },
+    {
+        "count": 1,
+        "artist": "Jaheim"
+    },
+    {
+        "count": 1,
+        "artist": "Jamelia"
+    },
+    {
+        "count": 1,
+        "artist": "James Arthur"
+    },
+    {
+        "count": 4,
+        "artist": "James Blunt"
+    },
+    {
+        "count": 5,
+        "artist": "James Morrison"
+    },
+    {
+        "count": 1,
+        "artist": "Jamie Foxx"
+    },
+    {
+        "count": 1,
+        "artist": "Jamiroquai"
+    },
+    {
+        "count": 2,
+        "artist": "Janet Jackson"
+    },
+    {
+        "count": 2,
+        "artist": "Jason Aldean"
+    },
+    {
+        "count": 13,
+        "artist": "Jason Derulo"
+    },
+    {
+        "count": 4,
+        "artist": "Jax Jones"
+    },
+    {
+        "count": 1,
+        "artist": "Jay Rock"
+    },
+    {
+        "count": 4,
+        "artist": "Jay Sean"
+    },
+    {
+        "count": 2,
+        "artist": "Jeezy"
+    },
+    {
+        "count": 1,
+        "artist": "Jennifer Hudson"
+    },
+    {
+        "count": 10,
+        "artist": "Jennifer Lopez"
+    },
+    {
+        "count": 4,
+        "artist": "Jeremih"
+    },
+    {
+        "count": 2,
+        "artist": "Jessica Simpson"
+    },
+    {
+        "count": 4,
+        "artist": "Jessie J"
+    },
+    {
+        "count": 1,
+        "artist": "Jibbs"
+    },
+    {
+        "count": 1,
+        "artist": "Jim Jones"
+    },
+    {
+        "count": 1,
+        "artist": "Jimmy Eat World"
+    },
+    {
+        "count": 2,
+        "artist": "JoJo"
+    },
+    {
+        "count": 2,
+        "artist": "Joe"
+    },
+    {
+        "count": 1,
+        "artist": "Joel Adams"
+    },
+    {
+        "count": 1,
+        "artist": "Joel Corry"
+    },
+    {
+        "count": 2,
+        "artist": "John Legend"
+    },
+    {
+        "count": 1,
+        "artist": "John Newman"
+    },
+    {
+        "count": 1,
+        "artist": "Jon Bellion"
+    },
+    {
+        "count": 5,
+        "artist": "Jonas Blue"
+    },
+    {
+        "count": 3,
+        "artist": "Jonas Brothers"
+    },
+    {
+        "count": 3,
+        "artist": "Jordin Sparks"
+    },
+    {
+        "count": 1,
+        "artist": "Juanes"
+    },
+    {
+        "count": 2,
+        "artist": "Juice WRLD"
+    },
+    {
+        "count": 1,
+        "artist": "Junior Senior"
+    },
+    {
+        "count": 1,
+        "artist": "Just Jack"
+    },
+    {
+        "count": 10,
+        "artist": "Justin Bieber"
+    },
+    {
+        "count": 12,
+        "artist": "Justin Timberlake"
+    },
+    {
+        "count": 1,
+        "artist": "K'NAAN"
+    },
+    {
+        "count": 1,
+        "artist": "K-Ci & JoJo"
+    },
+    {
+        "count": 1,
+        "artist": "KALEO"
+    },
+    {
+        "count": 2,
+        "artist": "KT Tunstall"
+    },
+    {
+        "count": 3,
+        "artist": "Kaiser Chiefs"
+    },
+    {
+        "count": 1,
+        "artist": "Kandi"
+    },
+    {
+        "count": 17,
+        "artist": "Kanye West"
+    },
+    {
+        "count": 1,
+        "artist": "Kardinal Offishall"
+    },
+    {
+        "count": 1,
+        "artist": "Kasabian"
+    },
+    {
+        "count": 2,
+        "artist": "Katie Melua"
+    },
+    {
+        "count": 16,
+        "artist": "Katy Perry"
+    },
+    {
+        "count": 1,
+        "artist": "Keane"
+    },
+    {
+        "count": 1,
+        "artist": "Kehlani"
+    },
+    {
+        "count": 4,
+        "artist": "Kelis"
+    },
+    {
+        "count": 7,
+        "artist": "Kelly Clarkson"
+    },
+    {
+        "count": 4,
+        "artist": "Kelly Rowland"
+    },
+    {
+        "count": 6,
+        "artist": "Kendrick Lamar"
+    },
+    {
+        "count": 1,
+        "artist": "Kent Jones"
+    },
+    {
+        "count": 3,
+        "artist": "Keri Hilson"
+    },
+    {
+        "count": 8,
+        "artist": "Kesha"
+    },
+    {
+        "count": 1,
+        "artist": "Kevin Gates"
+    },
+    {
+        "count": 1,
+        "artist": "Kevin Lyttle"
+    },
+    {
+        "count": 1,
+        "artist": "Kevin Rudolf"
+    },
+    {
+        "count": 3,
+        "artist": "Keyshia Cole"
+    },
+    {
+        "count": 2,
+        "artist": "Khalid"
+    },
+    {
+        "count": 1,
+        "artist": "Khia"
+    },
+    {
+        "count": 1,
+        "artist": "Kid Cudi"
+    },
+    {
+        "count": 1,
+        "artist": "Kid Ink"
+    },
+    {
+        "count": 1,
+        "artist": "Kiesza"
+    },
+    {
+        "count": 1,
+        "artist": "Kiiara"
+    },
+    {
+        "count": 2,
+        "artist": "Kings of Leon"
+    },
+    {
+        "count": 1,
+        "artist": "Klangkarussell"
+    },
+    {
+        "count": 1,
+        "artist": "Klaxons"
+    },
+    {
+        "count": 1,
+        "artist": "Klingande"
+    },
+    {
+        "count": 2,
+        "artist": "Kodak Black"
+    },
+    {
+        "count": 1,
+        "artist": "Kris Allen"
+    },
+    {
+        "count": 1,
+        "artist": "Kungs"
+    },
+    {
+        "count": 4,
+        "artist": "Kygo"
+    },
+    {
+        "count": 7,
+        "artist": "Kylie Minogue"
+    },
+    {
+        "count": 3,
+        "artist": "LL Cool J"
+    },
+    {
+        "count": 1,
+        "artist": "LMC"
+    },
+    {
+        "count": 3,
+        "artist": "LMFAO"
+    },
+    {
+        "count": 2,
+        "artist": "La Roux"
+    },
+    {
+        "count": 1,
+        "artist": "Labrinth"
+    },
+    {
+        "count": 2,
+        "artist": "Lady A"
+    },
+    {
+        "count": 11,
+        "artist": "Lady Gaga"
+    },
+    {
+        "count": 6,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "count": 1,
+        "artist": "Las Ketchup"
+    },
+    {
+        "count": 1,
+        "artist": "Lasgo"
+    },
+    {
+        "count": 2,
+        "artist": "Lauv"
+    },
+    {
+        "count": 2,
+        "artist": "LeAnn Rimes"
+    },
+    {
+        "count": 1,
+        "artist": "Lemaitre"
+    },
+    {
+        "count": 1,
+        "artist": "Lemar"
+    },
+    {
+        "count": 1,
+        "artist": "Lenny Kravitz"
+    },
+    {
+        "count": 4,
+        "artist": "Leona Lewis"
+    },
+    {
+        "count": 1,
+        "artist": "Lewis Capaldi"
+    },
+    {
+        "count": 2,
+        "artist": "Liam Payne"
+    },
+    {
+        "count": 1,
+        "artist": "Liberty X"
+    },
+    {
+        "count": 1,
+        "artist": "Lifehouse"
+    },
+    {
+        "count": 1,
+        "artist": "Lil Baby"
+    },
+    {
+        "count": 1,
+        "artist": "Lil Dicky"
+    },
+    {
+        "count": 1,
+        "artist": "Lil Jon"
+    },
+    {
+        "count": 2,
+        "artist": "Lil Jon & The East Side Boyz"
+    },
+    {
+        "count": 3,
+        "artist": "Lil Nas X"
+    },
+    {
+        "count": 1,
+        "artist": "Lil Peep"
+    },
+    {
+        "count": 1,
+        "artist": "Lil Pump"
+    },
+    {
+        "count": 1,
+        "artist": "Lil Tecca"
+    },
+    {
+        "count": 1,
+        "artist": "Lil Uzi Vert"
+    },
+    {
+        "count": 8,
+        "artist": "Lil Wayne"
+    },
+    {
+        "count": 1,
+        "artist": "Lil' Flip"
+    },
+    {
+        "count": 2,
+        "artist": "Lil' Kim"
+    },
+    {
+        "count": 1,
+        "artist": "Lilly Wood and The Prick"
+    },
+    {
+        "count": 3,
+        "artist": "Lily Allen"
+    },
+    {
+        "count": 3,
+        "artist": "Limp Bizkit"
+    },
+    {
+        "count": 9,
+        "artist": "Linkin Park"
+    },
+    {
+        "count": 3,
+        "artist": "Little Mix"
+    },
+    {
+        "count": 3,
+        "artist": "Lloyd"
+    },
+    {
+        "count": 1,
+        "artist": "Lloyd Banks"
+    },
+    {
+        "count": 1,
+        "artist": "Logic"
+    },
+    {
+        "count": 4,
+        "artist": "Lorde"
+    },
+    {
+        "count": 1,
+        "artist": "Lost Frequencies"
+    },
+    {
+        "count": 1,
+        "artist": "Loud Luxury"
+    },
+    {
+        "count": 1,
+        "artist": "Lucenzo"
+    },
+    {
+        "count": 9,
+        "artist": "Ludacris"
+    },
+    {
+        "count": 2,
+        "artist": "Luis Fonsi"
+    },
+    {
+        "count": 1,
+        "artist": "Lumidee"
+    },
+    {
+        "count": 1,
+        "artist": "Lunay"
+    },
+    {
+        "count": 2,
+        "artist": "Lupe Fiasco"
+    },
+    {
+        "count": 1,
+        "artist": "Lykke Li"
+    },
+    {
+        "count": 1,
+        "artist": "M.I.A."
+    },
+    {
+        "count": 1,
+        "artist": "M.O"
+    },
+    {
+        "count": 1,
+        "artist": "M.O.P."
+    },
+    {
+        "count": 1,
+        "artist": "M83"
+    },
+    {
+        "count": 1,
+        "artist": "MAGIC!"
+    },
+    {
+        "count": 2,
+        "artist": "MARINA"
+    },
+    {
+        "count": 1,
+        "artist": "MEDUZA"
+    },
+    {
+        "count": 2,
+        "artist": "MGMT"
+    },
+    {
+        "count": 2,
+        "artist": "MIKA"
+    },
+    {
+        "count": 1,
+        "artist": "MK"
+    },
+    {
+        "count": 1,
+        "artist": "MKTO"
+    },
+    {
+        "count": 1,
+        "artist": "MNEK"
+    },
+    {
+        "count": 2,
+        "artist": "Mabel"
+    },
+    {
+        "count": 1,
+        "artist": "Mac Miller"
+    },
+    {
+        "count": 1,
+        "artist": "Machine Gun Kelly"
+    },
+    {
+        "count": 1,
+        "artist": "Macklemore"
+    },
+    {
+        "count": 2,
+        "artist": "Macklemore & Ryan Lewis"
+    },
+    {
+        "count": 1,
+        "artist": "Madcon"
+    },
+    {
+        "count": 1,
+        "artist": "Madison Avenue"
+    },
+    {
+        "count": 8,
+        "artist": "Madonna"
+    },
+    {
+        "count": 1,
+        "artist": "Maggie Lindemann"
+    },
+    {
+        "count": 3,
+        "artist": "Major Lazer"
+    },
+    {
+        "count": 1,
+        "artist": "Maluma"
+    },
+    {
+        "count": 1,
+        "artist": "Manic Street Preachers"
+    },
+    {
+        "count": 1,
+        "artist": "Mann"
+    },
+    {
+        "count": 1,
+        "artist": "Marc Anthony"
+    },
+    {
+        "count": 8,
+        "artist": "Mariah Carey"
+    },
+    {
+        "count": 1,
+        "artist": "Marilyn Manson"
+    },
+    {
+        "count": 2,
+        "artist": "Mario"
+    },
+    {
+        "count": 1,
+        "artist": "Mario Winans"
+    },
+    {
+        "count": 4,
+        "artist": "Mark Ronson"
+    },
+    {
+        "count": 13,
+        "artist": "Maroon 5"
+    },
+    {
+        "count": 6,
+        "artist": "Marshmello"
+    },
+    {
+        "count": 3,
+        "artist": "Martin Garrix"
+    },
+    {
+        "count": 1,
+        "artist": "Martin Jensen"
+    },
+    {
+        "count": 1,
+        "artist": "Martin Solveig"
+    },
+    {
+        "count": 6,
+        "artist": "Mary J. Blige"
+    },
+    {
+        "count": 1,
+        "artist": "Mary Mary"
+    },
+    {
+        "count": 2,
+        "artist": "Matchbox Twenty"
+    },
+    {
+        "count": 1,
+        "artist": "Matt Cardle"
+    },
+    {
+        "count": 1,
+        "artist": "Meck"
+    },
+    {
+        "count": 2,
+        "artist": "Meek Mill"
+    },
+    {
+        "count": 1,
+        "artist": "Megan Thee Stallion"
+    },
+    {
+        "count": 3,
+        "artist": "Meghan Trainor"
+    },
+    {
+        "count": 2,
+        "artist": "Melanie C"
+    },
+    {
+        "count": 1,
+        "artist": "Metro Station"
+    },
+    {
+        "count": 1,
+        "artist": "MiMS"
+    },
+    {
+        "count": 1,
+        "artist": "Michael Jackson"
+    },
+    {
+        "count": 1,
+        "artist": "Michel Teló"
+    },
+    {
+        "count": 1,
+        "artist": "Michelle Branch"
+    },
+    {
+        "count": 6,
+        "artist": "Migos"
+    },
+    {
+        "count": 1,
+        "artist": "Miguel"
+    },
+    {
+        "count": 1,
+        "artist": "Mike Perry"
+    },
+    {
+        "count": 2,
+        "artist": "Mike Posner"
+    },
+    {
+        "count": 5,
+        "artist": "Miley Cyrus"
+    },
+    {
+        "count": 1,
+        "artist": "Milky Chance"
+    },
+    {
+        "count": 2,
+        "artist": "Mis-Teeq"
+    },
+    {
+        "count": 8,
+        "artist": "Missy Elliott"
+    },
+    {
+        "count": 1,
+        "artist": "Modjo"
+    },
+    {
+        "count": 1,
+        "artist": "Moloko"
+    },
+    {
+        "count": 1,
+        "artist": "Monica"
+    },
+    {
+        "count": 1,
+        "artist": "Montell Jordan"
+    },
+    {
+        "count": 1,
+        "artist": "Mr. Probz"
+    },
+    {
+        "count": 1,
+        "artist": "Mumford & Sons"
+    },
+    {
+        "count": 2,
+        "artist": "Muse"
+    },
+    {
+        "count": 2,
+        "artist": "Musiq Soulchild"
+    },
+    {
+        "count": 1,
+        "artist": "Mustard"
+    },
+    {
+        "count": 2,
+        "artist": "My Chemical Romance"
+    },
+    {
+        "count": 1,
+        "artist": "Mystikal"
+    },
+    {
+        "count": 1,
+        "artist": "MØ"
+    },
+    {
+        "count": 2,
+        "artist": "Mýa"
+    },
+    {
+        "count": 1,
+        "artist": "N.E.R.D"
+    },
+    {
+        "count": 1,
+        "artist": "N.O.R.E."
+    },
+    {
+        "count": 1,
+        "artist": "NF"
+    },
+    {
+        "count": 1,
+        "artist": "NLE Choppa"
+    },
+    {
+        "count": 1,
+        "artist": "NSG"
+    },
+    {
+        "count": 1,
+        "artist": "Nas"
+    },
+    {
+        "count": 1,
+        "artist": "Natalie Imbruglia"
+    },
+    {
+        "count": 1,
+        "artist": "Natalie La Rose"
+    },
+    {
+        "count": 2,
+        "artist": "Natasha Bedingfield"
+    },
+    {
+        "count": 1,
+        "artist": "Natti Natasha"
+    },
+    {
+        "count": 1,
+        "artist": "Naughty Boy"
+    },
+    {
+        "count": 8,
+        "artist": "Ne-Yo"
+    },
+    {
+        "count": 11,
+        "artist": "Nelly"
+    },
+    {
+        "count": 5,
+        "artist": "Nelly Furtado"
+    },
+    {
+        "count": 1,
+        "artist": "Neon Trees"
+    },
+    {
+        "count": 1,
+        "artist": "Next"
+    },
+    {
+        "count": 2,
+        "artist": "Nick Jonas"
+    },
+    {
+        "count": 1,
+        "artist": "Nick Lachey"
+    },
+    {
+        "count": 9,
+        "artist": "Nickelback"
+    },
+    {
+        "count": 5,
+        "artist": "Nicki Minaj"
+    },
+    {
+        "count": 2,
+        "artist": "Nicky Jam"
+    },
+    {
+        "count": 1,
+        "artist": "Nico & Vinz"
+    },
+    {
+        "count": 1,
+        "artist": "Nicole Scherzinger"
+    },
+    {
+        "count": 1,
+        "artist": "Nina Sky"
+    },
+    {
+        "count": 1,
+        "artist": "Nio Garcia"
+    },
+    {
+        "count": 5,
+        "artist": "No Doubt"
+    },
+    {
+        "count": 1,
+        "artist": "Normani"
+    },
+    {
+        "count": 1,
+        "artist": "O-Zone"
+    },
+    {
+        "count": 1,
+        "artist": "O.T. Genasis"
+    },
+    {
+        "count": 1,
+        "artist": "OPM"
+    },
+    {
+        "count": 1,
+        "artist": "Oasis"
+    },
+    {
+        "count": 1,
+        "artist": "Of Monsters and Men"
+    },
+    {
+        "count": 2,
+        "artist": "Offset"
+    },
+    {
+        "count": 1,
+        "artist": "Oliver Heldens"
+    },
+    {
+        "count": 5,
+        "artist": "Olly Murs"
+    },
+    {
+        "count": 2,
+        "artist": "Omarion"
+    },
+    {
+        "count": 9,
+        "artist": "One Direction"
+    },
+    {
+        "count": 8,
+        "artist": "OneRepublic"
+    },
+    {
+        "count": 1,
+        "artist": "Orson"
+    },
+    {
+        "count": 1,
+        "artist": "Otto Knows"
+    },
+    {
+        "count": 5,
+        "artist": "Outkast"
+    },
+    {
+        "count": 2,
+        "artist": "Owl City"
+    },
+    {
+        "count": 1,
+        "artist": "Ozuna"
+    },
+    {
+        "count": 15,
+        "artist": "P!nk"
+    },
+    {
+        "count": 1,
+        "artist": "P.O.D."
+    },
+    {
+        "count": 1,
+        "artist": "PARTYNEXTDOOR"
+    },
+    {
+        "count": 1,
+        "artist": "PSY"
+    },
+    {
+        "count": 1,
+        "artist": "Paloma Faith"
+    },
+    {
+        "count": 2,
+        "artist": "Panic! At The Disco"
+    },
+    {
+        "count": 1,
+        "artist": "Panjabi MC"
+    },
+    {
+        "count": 1,
+        "artist": "Papa Roach"
+    },
+    {
+        "count": 2,
+        "artist": "Paramore"
+    },
+    {
+        "count": 1,
+        "artist": "Passenger"
+    },
+    {
+        "count": 1,
+        "artist": "Paulo Londra"
+    },
+    {
+        "count": 1,
+        "artist": "Pedro Capó"
+    },
+    {
+        "count": 1,
+        "artist": "Peking Duk"
+    },
+    {
+        "count": 1,
+        "artist": "Pendulum"
+    },
+    {
+        "count": 1,
+        "artist": "Petey Pablo"
+    },
+    {
+        "count": 1,
+        "artist": "Petit Biscuit"
+    },
+    {
+        "count": 2,
+        "artist": "Pharrell Williams"
+    },
+    {
+        "count": 1,
+        "artist": "Philip George"
+    },
+    {
+        "count": 1,
+        "artist": "Pia Mia"
+    },
+    {
+        "count": 9,
+        "artist": "Pitbull"
+    },
+    {
+        "count": 1,
+        "artist": "Pixie Lott"
+    },
+    {
+        "count": 1,
+        "artist": "Plain White T's"
+    },
+    {
+        "count": 1,
+        "artist": "Plan B"
+    },
+    {
+        "count": 1,
+        "artist": "Playboi Carti"
+    },
+    {
+        "count": 3,
+        "artist": "Plies"
+    },
+    {
+        "count": 1,
+        "artist": "Polo G"
+    },
+    {
+        "count": 9,
+        "artist": "Post Malone"
+    },
+    {
+        "count": 3,
+        "artist": "Pretty Ricky"
+    },
+    {
+        "count": 1,
+        "artist": "Professor Green"
+    },
+    {
+        "count": 2,
+        "artist": "Puddle Of Mudd"
+    },
+    {
+        "count": 1,
+        "artist": "R. City"
+    },
+    {
+        "count": 1,
+        "artist": "Rachel Stevens"
+    },
+    {
+        "count": 4,
+        "artist": "Rae Sremmurd"
+    },
+    {
+        "count": 2,
+        "artist": "Rag'n'Bone Man"
+    },
+    {
+        "count": 2,
+        "artist": "Rascal Flatts"
+    },
+    {
+        "count": 2,
+        "artist": "Ray J"
+    },
+    {
+        "count": 2,
+        "artist": "Razorlight"
+    },
+    {
+        "count": 6,
+        "artist": "Red Hot Chili Peppers"
+    },
+    {
+        "count": 1,
+        "artist": "Regard"
+    },
+    {
+        "count": 1,
+        "artist": "Reik"
+    },
+    {
+        "count": 1,
+        "artist": "Rich Boy"
+    },
+    {
+        "count": 1,
+        "artist": "Rich Homie Quan"
+    },
+    {
+        "count": 1,
+        "artist": "Rich The Kid"
+    },
+    {
+        "count": 2,
+        "artist": "Ricky Martin"
+    },
+    {
+        "count": 25,
+        "artist": "Rihanna"
+    },
+    {
+        "count": 4,
+        "artist": "Rita Ora"
+    },
+    {
+        "count": 1,
+        "artist": "Rixton"
+    },
+    {
+        "count": 1,
+        "artist": "Rizzle Kicks"
+    },
+    {
+        "count": 2,
+        "artist": "Rob $tone"
+    },
+    {
+        "count": 1,
+        "artist": "Rob Thomas"
+    },
+    {
+        "count": 6,
+        "artist": "Robbie Williams"
+    },
+    {
+        "count": 1,
+        "artist": "Robin Schulz"
+    },
+    {
+        "count": 1,
+        "artist": "Robin Thicke"
+    },
+    {
+        "count": 2,
+        "artist": "Robyn"
+    },
+    {
+        "count": 1,
+        "artist": "Roger Sanchez"
+    },
+    {
+        "count": 3,
+        "artist": "Ronan Keating"
+    },
+    {
+        "count": 1,
+        "artist": "Room 5"
+    },
+    {
+        "count": 1,
+        "artist": "Route 94"
+    },
+    {
+        "count": 2,
+        "artist": "Rudimental"
+    },
+    {
+        "count": 1,
+        "artist": "Ruff Endz"
+    },
+    {
+        "count": 1,
+        "artist": "Rui Da Silva"
+    },
+    {
+        "count": 1,
+        "artist": "Russ Millions"
+    },
+    {
+        "count": 1,
+        "artist": "Ryan Cabrera"
+    },
+    {
+        "count": 2,
+        "artist": "S Club 7"
+    },
+    {
+        "count": 2,
+        "artist": "SAYGRACE"
+    },
+    {
+        "count": 1,
+        "artist": "Sak Noel"
+    },
+    {
+        "count": 1,
+        "artist": "Sam Feldt"
+    },
+    {
+        "count": 7,
+        "artist": "Sam Smith"
+    },
+    {
+        "count": 1,
+        "artist": "Sam Sparro"
+    },
+    {
+        "count": 1,
+        "artist": "Samantha Mumba"
+    },
+    {
+        "count": 1,
+        "artist": "Sammie"
+    },
+    {
+        "count": 1,
+        "artist": "Sandi Thom"
+    },
+    {
+        "count": 2,
+        "artist": "Santana"
+    },
+    {
+        "count": 1,
+        "artist": "Savage Garden"
+    },
+    {
+        "count": 1,
+        "artist": "Saving Abel"
+    },
+    {
+        "count": 1,
+        "artist": "Saweetie"
+    },
+    {
+        "count": 3,
+        "artist": "ScHoolboy Q"
+    },
+    {
+        "count": 2,
+        "artist": "Scissor Sisters"
+    },
+    {
+        "count": 2,
+        "artist": "Scooter"
+    },
+    {
+        "count": 1,
+        "artist": "Scouting For Girls"
+    },
+    {
+        "count": 4,
+        "artist": "Sean Kingston"
+    },
+    {
+        "count": 9,
+        "artist": "Sean Paul"
+    },
+    {
+        "count": 1,
+        "artist": "Sebastian Ingrosso"
+    },
+    {
+        "count": 1,
+        "artist": "Sech"
+    },
+    {
+        "count": 1,
+        "artist": "Seether"
+    },
+    {
+        "count": 9,
+        "artist": "Selena Gomez"
+    },
+    {
+        "count": 3,
+        "artist": "Selena Gomez & The Scene"
+    },
+    {
+        "count": 2,
+        "artist": "September"
+    },
+    {
+        "count": 1,
+        "artist": "Shaggy"
+    },
+    {
+        "count": 5,
+        "artist": "Shakira"
+    },
+    {
+        "count": 6,
+        "artist": "Shawn Mendes"
+    },
+    {
+        "count": 2,
+        "artist": "Shayne Ward"
+    },
+    {
+        "count": 1,
+        "artist": "Sheck Wes"
+    },
+    {
+        "count": 1,
+        "artist": "Sheppard"
+    },
+    {
+        "count": 1,
+        "artist": "Shinedown"
+    },
+    {
+        "count": 1,
+        "artist": "Shontelle"
+    },
+    {
+        "count": 1,
+        "artist": "Shop Boyz"
+    },
+    {
+        "count": 4,
+        "artist": "Sia"
+    },
+    {
+        "count": 1,
+        "artist": "Sidney Samson"
+    },
+    {
+        "count": 3,
+        "artist": "Sigala"
+    },
+    {
+        "count": 1,
+        "artist": "Sigma"
+    },
+    {
+        "count": 1,
+        "artist": "Silentó"
+    },
+    {
+        "count": 1,
+        "artist": "Simply Red"
+    },
+    {
+        "count": 2,
+        "artist": "Sisqo"
+    },
+    {
+        "count": 1,
+        "artist": "Skillet"
+    },
+    {
+        "count": 1,
+        "artist": "Skrillex"
+    },
+    {
+        "count": 7,
+        "artist": "Snoop Dogg"
+    },
+    {
+        "count": 1,
+        "artist": "Snow Patrol"
+    },
+    {
+        "count": 1,
+        "artist": "So Solid Crew"
+    },
+    {
+        "count": 1,
+        "artist": "Sofía Reyes"
+    },
+    {
+        "count": 1,
+        "artist": "Sonique"
+    },
+    {
+        "count": 1,
+        "artist": "Sophie Ellis-Bextor"
+    },
+    {
+        "count": 4,
+        "artist": "Soulja Boy"
+    },
+    {
+        "count": 1,
+        "artist": "Special D."
+    },
+    {
+        "count": 1,
+        "artist": "Spiderbait"
+    },
+    {
+        "count": 1,
+        "artist": "Staind"
+    },
+    {
+        "count": 1,
+        "artist": "Starley"
+    },
+    {
+        "count": 1,
+        "artist": "Steps"
+    },
+    {
+        "count": 1,
+        "artist": "Stereophonics"
+    },
+    {
+        "count": 1,
+        "artist": "Steve Aoki"
+    },
+    {
+        "count": 1,
+        "artist": "Sting"
+    },
+    {
+        "count": 1,
+        "artist": "Storm Queen"
+    },
+    {
+        "count": 1,
+        "artist": "Stormzy"
+    },
+    {
+        "count": 2,
+        "artist": "Stromae"
+    },
+    {
+        "count": 7,
+        "artist": "Sugababes"
+    },
+    {
+        "count": 1,
+        "artist": "Sunshine Anderson"
+    },
+    {
+        "count": 4,
+        "artist": "Swedish House Mafia"
+    },
+    {
+        "count": 1,
+        "artist": "Switchfoot"
+    },
+    {
+        "count": 5,
+        "artist": "T-Pain"
+    },
+    {
+        "count": 7,
+        "artist": "T.I."
+    },
+    {
+        "count": 1,
+        "artist": "T2"
+    },
+    {
+        "count": 3,
+        "artist": "Taio Cruz"
+    },
+    {
+        "count": 4,
+        "artist": "Take That"
+    },
+    {
+        "count": 1,
+        "artist": "Tame Impala"
+    },
+    {
+        "count": 1,
+        "artist": "Tamia"
+    },
+    {
+        "count": 16,
+        "artist": "Taylor Swift"
+    },
+    {
+        "count": 1,
+        "artist": "Terror Squad"
+    },
+    {
+        "count": 2,
+        "artist": "The All-American Rejects"
+    },
+    {
+        "count": 2,
+        "artist": "The Band Perry"
+    },
+    {
+        "count": 1,
+        "artist": "The Calling"
+    },
+    {
+        "count": 8,
+        "artist": "The Chainsmokers"
+    },
+    {
+        "count": 1,
+        "artist": "The Chemical Brothers"
+    },
+    {
+        "count": 1,
+        "artist": "The Corrs"
+    },
+    {
+        "count": 1,
+        "artist": "The Fratellis"
+    },
+    {
+        "count": 3,
+        "artist": "The Fray"
+    },
+    {
+        "count": 3,
+        "artist": "The Game"
+    },
+    {
+        "count": 1,
+        "artist": "The Goo Goo Dolls"
+    },
+    {
+        "count": 1,
+        "artist": "The Kooks"
+    },
+    {
+        "count": 1,
+        "artist": "The Lumineers"
+    },
+    {
+        "count": 2,
+        "artist": "The Neighbourhood"
+    },
+    {
+        "count": 1,
+        "artist": "The Notorious B.I.G."
+    },
+    {
+        "count": 1,
+        "artist": "The Offspring"
+    },
+    {
+        "count": 1,
+        "artist": "The Prodigy"
+    },
+    {
+        "count": 8,
+        "artist": "The Pussycat Dolls"
+    },
+    {
+        "count": 1,
+        "artist": "The Raconteurs"
+    },
+    {
+        "count": 1,
+        "artist": "The Rasmus"
+    },
+    {
+        "count": 1,
+        "artist": "The Red Jumpsuit Apparatus"
+    },
+    {
+        "count": 1,
+        "artist": "The Roots"
+    },
+    {
+        "count": 2,
+        "artist": "The Saturdays"
+    },
+    {
+        "count": 2,
+        "artist": "The Script"
+    },
+    {
+        "count": 1,
+        "artist": "The Shapeshifters"
+    },
+    {
+        "count": 1,
+        "artist": "The Streets"
+    },
+    {
+        "count": 1,
+        "artist": "The Strokes"
+    },
+    {
+        "count": 1,
+        "artist": "The Strumbellas"
+    },
+    {
+        "count": 1,
+        "artist": "The Supermen Lovers"
+    },
+    {
+        "count": 2,
+        "artist": "The Ting Tings"
+    },
+    {
+        "count": 2,
+        "artist": "The Vamps"
+    },
+    {
+        "count": 1,
+        "artist": "The Veronicas"
+    },
+    {
+        "count": 3,
+        "artist": "The Wanted"
+    },
+    {
+        "count": 8,
+        "artist": "The Weeknd"
+    },
+    {
+        "count": 1,
+        "artist": "The White Stripes"
+    },
+    {
+        "count": 1,
+        "artist": "The xx"
+    },
+    {
+        "count": 2,
+        "artist": "The-Dream"
+    },
+    {
+        "count": 1,
+        "artist": "Thirty Seconds To Mars"
+    },
+    {
+        "count": 1,
+        "artist": "Three Days Grace"
+    },
+    {
+        "count": 1,
+        "artist": "Tim Berg"
+    },
+    {
+        "count": 5,
+        "artist": "Timbaland"
+    },
+    {
+        "count": 1,
+        "artist": "Tinashe"
+    },
+    {
+        "count": 1,
+        "artist": "Tinchy Stryder"
+    },
+    {
+        "count": 3,
+        "artist": "Tinie Tempah"
+    },
+    {
+        "count": 3,
+        "artist": "Tiësto"
+    },
+    {
+        "count": 1,
+        "artist": "Toby Keith"
+    },
+    {
+        "count": 1,
+        "artist": "Tom Jones"
+    },
+    {
+        "count": 1,
+        "artist": "Tom Odell"
+    },
+    {
+        "count": 1,
+        "artist": "Tom Walker"
+    },
+    {
+        "count": 1,
+        "artist": "Tones And I"
+    },
+    {
+        "count": 1,
+        "artist": "Toni Braxton"
+    },
+    {
+        "count": 2,
+        "artist": "Tory Lanez"
+    },
+    {
+        "count": 4,
+        "artist": "Tove Lo"
+    },
+    {
+        "count": 2,
+        "artist": "Train"
+    },
+    {
+        "count": 1,
+        "artist": "Trapt"
+    },
+    {
+        "count": 1,
+        "artist": "Travie McCoy"
+    },
+    {
+        "count": 1,
+        "artist": "Travis"
+    },
+    {
+        "count": 5,
+        "artist": "Travis Scott"
+    },
+    {
+        "count": 5,
+        "artist": "Trey Songz"
+    },
+    {
+        "count": 1,
+        "artist": "Trick Daddy"
+    },
+    {
+        "count": 1,
+        "artist": "Trillville"
+    },
+    {
+        "count": 1,
+        "artist": "Truth Hurts"
+    },
+    {
+        "count": 1,
+        "artist": "Tweet"
+    },
+    {
+        "count": 3,
+        "artist": "Twenty One Pilots"
+    },
+    {
+        "count": 3,
+        "artist": "Twista"
+    },
+    {
+        "count": 1,
+        "artist": "Two Door Cinema Club"
+    },
+    {
+        "count": 3,
+        "artist": "Tyga"
+    },
+    {
+        "count": 1,
+        "artist": "Tyler, The Creator"
+    },
+    {
+        "count": 1,
+        "artist": "Tyrese"
+    },
+    {
+        "count": 2,
+        "artist": "U2"
+    },
+    {
+        "count": 1,
+        "artist": "Ultrabeat"
+    },
+    {
+        "count": 1,
+        "artist": "Unk"
+    },
+    {
+        "count": 11,
+        "artist": "Usher"
+    },
+    {
+        "count": 1,
+        "artist": "Vance Joy"
+    },
+    {
+        "count": 1,
+        "artist": "Vanessa Carlton"
+    },
+    {
+        "count": 1,
+        "artist": "Vengaboys"
+    },
+    {
+        "count": 1,
+        "artist": "WILLOW"
+    },
+    {
+        "count": 2,
+        "artist": "Waka Flocka Flame"
+    },
+    {
+        "count": 1,
+        "artist": "Wale"
+    },
+    {
+        "count": 1,
+        "artist": "Wayne Wonder"
+    },
+    {
+        "count": 4,
+        "artist": "Westlife"
+    },
+    {
+        "count": 1,
+        "artist": "Wheatus"
+    },
+    {
+        "count": 2,
+        "artist": "Wiley"
+    },
+    {
+        "count": 1,
+        "artist": "Will Smith"
+    },
+    {
+        "count": 2,
+        "artist": "Will Young"
+    },
+    {
+        "count": 4,
+        "artist": "Wiz Khalifa"
+    },
+    {
+        "count": 1,
+        "artist": "Wyclef Jean"
+    },
+    {
+        "count": 2,
+        "artist": "X Ambassadors"
+    },
+    {
+        "count": 4,
+        "artist": "XXXTENTACION"
+    },
+    {
+        "count": 1,
+        "artist": "YG"
+    },
+    {
+        "count": 2,
+        "artist": "Years & Years"
+    },
+    {
+        "count": 2,
+        "artist": "Ying Yang Twins"
+    },
+    {
+        "count": 1,
+        "artist": "Ylvis"
+    },
+    {
+        "count": 1,
+        "artist": "Yo Gotti"
+    },
+    {
+        "count": 1,
+        "artist": "Yolanda Be Cool"
+    },
+    {
+        "count": 1,
+        "artist": "Young Money"
+    },
+    {
+        "count": 1,
+        "artist": "Young T & Bugsey"
+    },
+    {
+        "count": 1,
+        "artist": "Young Thug"
+    },
+    {
+        "count": 1,
+        "artist": "Youngbloodz"
+    },
+    {
+        "count": 1,
+        "artist": "Yung Joc"
+    },
+    {
+        "count": 3,
+        "artist": "ZAYN"
+    },
+    {
+        "count": 1,
+        "artist": "ZHU"
+    },
+    {
+        "count": 4,
+        "artist": "Zara Larsson"
+    },
+    {
+        "count": 1,
+        "artist": "Zay Hilfigerrr"
+    },
+    {
+        "count": 4,
+        "artist": "Zedd"
+    },
+    {
+        "count": 1,
+        "artist": "alt-J"
+    },
+    {
+        "count": 1,
+        "artist": "benny blanco"
+    },
+    {
+        "count": 1,
+        "artist": "blackbear"
+    },
+    {
+        "count": 1,
+        "artist": "blink-182"
+    },
+    {
+        "count": 1,
+        "artist": "fun."
+    },
+    {
+        "count": 1,
+        "artist": "girl in red"
+    },
+    {
+        "count": 2,
+        "artist": "iann dior"
+    },
+    {
+        "count": 1,
+        "artist": "iio"
+    },
+    {
+        "count": 1,
+        "artist": "t.A.T.u."
+    },
+    {
+        "count": 4,
+        "artist": "will.i.am"
+    }
+]
