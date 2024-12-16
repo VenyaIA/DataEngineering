@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "HarmonyOS",
+        "count": 10
+    },
+    {
+        "_id": "Android",
+        "count": 1489
+    },
+    {
+        "_id": "EMUI",
+        "count": 15
+    },
+    {
+        "_id": "iOS",
+        "count": 194
+    }
+]
