@@ -1,0 +1,1 @@
+{"isbn": "uint64", "title": "object", "last_updated": "uint64", "offers_count": "uint8", "min_price": "float32", "min_price_compensation": "float32", "currency": "category", "url": "object", "editeur": "category", "format": "category"}
